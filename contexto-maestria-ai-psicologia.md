@@ -86,6 +86,7 @@ Programas que conectan **interacción humano-AI, modelado computacional de la co
 | **Bologna AI** (Alma Mater Studiorum, MSc Artificial Intelligence) | Italia | bajo | Inglés (100%) | ★★★ — AI puro fuerte, fusión con psicología mínima | Baja sin remediar — bachelor fuera de clases elegibles (L-35 etc.) + API≥26/30 + CSCI≥18 CFU | **Probable descarte.** Admisión incierta + mal fit con CLT. Reabrir solo con remediación CS. |
 | **Padova Cognitive Neuroscience & Clinical Neuropsychology** (PS1932) | Italia | bajo | Inglés | ★★ — curriculum clínico/experimental, casi sin AI | Media-alta (acepta licenciatura en psicología) | **Probable descarte.** Accesible pero contenido equivocado (empuja a neuropsicología clínica). |
 | **Cambridge HIAI** (University of Cambridge — CHIA, MPhil in Human-Inspired AI) | Reino Unido | **1** | Inglés (100%) | ★★★★★ — diseñado explícitamente para IA × cognición humana; fusiona CS, Psicología y Ciencias Sociales de Cambridge; dissertation de hasta 15,000 palabras | Condicional — acepta perfiles interdisciplinarios incluida psicología; exige programación demostrable (Python); plan remedial de coding si sin CS background sólido | **Top prioridad.** Alineación más directa con el objetivo de toda la lista. Gates Cambridge Scholarship posible. £48,192/año (9 meses). |
+| **Cambridge MPhil NeuroAI** (University of Cambridge — MRC-CBU, MPhil in NeuroAI and Intelligent Systems) | Reino Unido | **1** | Inglés (100%) | ★★★★☆ — neuro-AI explícito; MRC Cognition and Brain Sciences Unit (world-leading en memoria, atención y neuroimagen); Leverhulme Centre for the Future of Intelligence; machine learning models of human brain and behavior | Alta — neurociencia, psicología, biología, CS y medicina listados como backgrounds elegibles | Nuevo programa (~2024). 10 meses. ~£43K international. Cambridge Trust auto-considerada. **Distinto del Cambridge HIAI** (CHIA) ya listado. |
 | **UCL Cognitive & Decision Sciences** (University College London, MSc Cognitive and Decision Sciences) | Reino Unido | **1** | Inglés (100%) | ★★★★★ — modelado computacional de la cognición; modelos Bayesianos de la mente; decisión, memoria, experimental design; Division of Psychology and Language Sciences | Alta — psicología listada explícitamente entre backgrounds aceptados | **Top prioridad.** Chevening Scholarship (México elegible: cobertura total). £32,100/año. Proximity a DeepMind London. |
 | **Edinburgh Cognitive Science** (University of Edinburgh — School of Informatics, MSc Cognitive Science) | Reino Unido | **1** | Inglés (100%) | ★★★★ — al estar en Informatics, profundidad de AI genuina; HCI, lenguaje, modelado computacional | Condicional — psicología listada pero exige ≥30 ECTS matemáticas Y programación introductoria como prerrequisitos formales | Gran entorno AI (Informatics top-5 Europa). GREAT/Chevening posibles. £40,900/año. Transcript ITAM podría cubrir los prereqs — presentar proactivamente. |
 | **UvA Brain & Cognitive Sciences** (Universiteit van Amsterdam, Research Master's Brain and Cognitive Sciences — Cognitive Science track) | Países Bajos | **1** | Inglés (100%) | ★★★★ — research master de 2 años; modelado computacional de la cognición; IA como lente; links al Amsterdam Machine Learning Lab | Alta — psicología cognitiva es uno de los backgrounds primarios listados explícitamente | **Alta prioridad.** Mejor relación costo-beca no-UE: Amsterdam Excellence Scholarship (hasta colegiatura total). ~€20,000/año. |
@@ -93,6 +94,7 @@ Programas que conectan **interacción humano-AI, modelado computacional de la co
 | **Stanford Symbolic Systems** (Stanford University, MS Symbolic Systems) | EE.UU. | **1** | Inglés (100%) | ★★★★ — interdisciplina IA-cognición clásica; Goodman (cog. computacional probabilística), Frank (lenguaje y cognición), McClelland (PDP) | Alta pero muy selectiva — experiencia de investigación previa (paper/tesis) frecuentemente decisiva | CONAHCYT esencial: ~$85–100K total sin funding institucional. No abrir sin investigación previa sólida. Deadline: 15 enero 2028. |
 | **AIRE Learning Sciences** (Université Paris Cité / Learning Planet Institute, Master AIRE — Parcours Learning Sciences + Digital Sciences) | Francia | **3** | Inglés (100%) | ★★★★ — EdTech × AI × ciencias del aprendizaje; bootcamp de coding incluido en M1; conexión directa con CLT × tecnología desde el diseño del programa | Alta — acepta cualquier background incluyendo psicología; sin prerrequisito de CS (bootcamp en M1) | Fit con CLT×AI el más directo de Francia. LPI no es Tier 1 global pero el nicho es exacto. ~€343/año (2025); ~€3,941/año no-UE desde sept. 2026. |
 | **MaSCo** (Aix-Marseille Université / ILCB, MA in Cognitive Science) | Francia | **2** | Bilingüe: >50% inglés + ~50% francés | ★★★ — cognición computacional; ML en core del M1; neuroimagen + métodos computacionales; INRIA-conectado vía ILCB | Alta — acepta licenciatura en psicología; se recomienda disposición a aprender estadística/coding | Viable si francés llega a B1/B2 para 2028. ILCB es LabEx de excelencia (9 labs, CNRS). ~€254/año (2025); ~€3,941/año no-UE desde sept. 2026. |
+| **Tübingen Neural & Behavioural Sciences** (Universität Tübingen + MPI, MSc Neural and Behavioural Sciences) | Alemania | **2** | Inglés (100%) | ★★★☆☆ — neurociencia + cognición conductual; proximidad directa a MPI-IS (Schölkopf) y Tübingen AI Center / ELLIS para supervisión de tesis en ML/AI | Alta — psicología listada explícitamente (DAAD-listed program) | ~€6,800 total (4 sem.) — más barato del portafolio global. DAAD beca disponible. 15 plazas; muy selectivo. **Distinto del MSc Cognitive Science** (alemán) ya descartado. |
 | **Trento CIMeC Cognitive Science** (Università di Trento — CIMeC, MSc Cognitive Science — track CLC) | Italia | **3** | Inglés (100%) | ★★★★ — track CLC (Computational & Theoretical Modelling of Language and Cognition) conecta con modelado computacional cognitivo; CIMeC = centro cognitivo top de Italia; bonus: top 4 → año 2 en SISSA (dual degree + €500/mes) | Alta — filosofía, lingüística, psicología, psicobiología, CS explícitamente listados | **Distinto del "Trento AIS" ya listado** (este es CIMeC Cognitive Science, no MSc AI Systems). Deadline no-UE: ~4 marzo. €1,000–€4,500/año (mérito). |
 
 ---
@@ -204,6 +206,26 @@ Si un programa **no** cumple los criterios, no agregarlo; opcionalmente anotarlo
 
 ---
 
+#### Cambridge MPhil NeuroAI — MPhil in NeuroAI and Intelligent Systems
+
+- **URLs oficiales:** https://www.mrc-cbu.cam.ac.uk/study-with-us/masters-in-neuroai-and-intelligent-systems/ y https://www.postgraduate.study.cam.ac.uk/courses/directory/cvbsmpnis
+- **Deadline ciclo 2027-28:** aplicaciones abren ~septiembre 2027; múltiples ventanas rolling (diciembre, enero, marzo). Aplicar antes de enero 2028 para máxima consideración de becas.
+- **Colegiatura + becas:** ~£43,296 (international estimate, 2025-26; verificar en postgraduate.study.cam.ac.uk/finance para ciclo 2027-28). Cambridge Trust y becas de colegio auto-consideradas para todos los admitidos que aplican antes del deadline de diciembre. Gates Cambridge Scholarship (México elegible). CONAHCYT/SECIHTI aplica.
+- **Labs / faculty:** MRC Cognition and Brain Sciences Unit (MRC-CBU) — world-leading en memoria, atención, percepción, neuroimaging (EEG/MEG/fMRI). Cambridge Leverhulme Centre for the Future of Intelligence: AI y cognición, ética de AI. Enfoque en "machine learning models of human brain and behavior."
+- **Nota:** programa distinto del Cambridge HIAI (CHIA) ya listado. MRC-CBU es la unidad del Medical Research Council; CHIA es el Centre for Human-Inspired AI. Misma universidad, departamentos y programas separados.
+
+---
+
+#### Tübingen Neural & Behavioural Sciences — MSc
+
+- **URLs oficiales:** https://uni-tuebingen.de/en/study/finding-a-course/degree-programs-available/detail/course/neural-and-behavioural-sciences-master/ y DAAD listing: https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/detail/eberhard-karls-university-tuebingen-neural-and-behavioural-sciences-w5790/
+- **Deadline ciclo 2027-28:** **31 de marzo 2028** (patrón histórico: 31 de marzo de cada año para Wintersemester).
+- **Colegiatura + becas:** ~€1,500/semestre + ~€200 tasas = ~**€6,800 total** (4 semestres). El más barato del portafolio global. **Beca DAAD** disponible para este programa DAAD-listed (~€934/mes + tasas; aplicar antes del 31 de octubre del año anterior). SECIHTI/CONAHCYT aplica.
+- **Labs / faculty:** Max Planck Institute for Biological Cybernetics (MPI-BC): percepción, cognición sensoriomotora. Max Planck Institute for Intelligent Systems (MPI-IS): ML, robótica (Schölkopf lab — causal inference, kernel methods). Tübingen AI Center / ELLIS Institute: world-class ML; posibilidad de tesis en este entorno. 15 plazas totales — muy selectivo.
+- **Nota:** programa distinto del MSc Cognitive Science de Tübingen (en alemán, descartado en sección 9). El MSc Neural and Behavioural Sciences es un programa DAAD-listed impartido íntegramente en inglés.
+
+---
+
 ### Actualizaciones detectadas en programas ya listados
 
 **cog-SUP NCIA (Paris Cité + Sorbonne):**
@@ -224,7 +246,7 @@ Si un programa **no** cumple los criterios, no agregarlo; opcionalmente anotarlo
 
 ### Top-tier internacional (fuera de Italia/Francia — explícitamente revisados)
 
-- **Tübingen MSc Cognitive Science** (Univ. Tübingen / Max Planck) — Acepta psicología + excelente entorno AI, pero requiere **alemán B2-C1** que el candidato no tiene (criterio 4: sin track viable en inglés).
+- **Tübingen MSc Cognitive Science** (Univ. Tübingen / Max Planck) — Acepta psicología + excelente entorno AI, pero requiere **alemán B2-C1** que el candidato no tiene (criterio 4: sin track viable en inglés). *Nota: distinto del MSc Neural and Behavioural Sciences (DAAD, en inglés) que SÍ está incluido en la lista.*
 - **EPFL Neuro-X** (EPFL Lausanne) — Institución top; requiere ingeniería/biomedical/electrical engineering; psicología no califica (criterio 3).
 - **MIT Brain and Cognitive Sciences** — Solo ofrece PhD; no hay maestría autónoma de entrada (criterio 5: no es maestría enseñada).
 - **Oxford MSc by Research** (Experimental Psychology / OCTAI) — Grado by research sin programa estructurado; requiere supervisor previo acordado; mejor objetivo post-maestría como PhD (criterio 5).
