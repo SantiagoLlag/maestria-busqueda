@@ -85,6 +85,30 @@ Programas que conectan **interacción humano-AI, modelado computacional de la co
 | **Padova CogTech** (Università di Padova, Cognitive Science for Human-Centric Technologies) | Italia | **4** | Inglés | ★★★ — cognición + tecnología | Alta (acepta STEM y psicología) | Hedge accesible. Formato blended resta peso para PhD. |
 | **Bologna AI** (Alma Mater Studiorum, MSc Artificial Intelligence) | Italia | bajo | Inglés (100%) | ★★★ — AI puro fuerte, fusión con psicología mínima | Baja sin remediar — bachelor fuera de clases elegibles (L-35 etc.) + API≥26/30 + CSCI≥18 CFU | **Probable descarte.** Admisión incierta + mal fit con CLT. Reabrir solo con remediación CS. |
 | **Padova Cognitive Neuroscience & Clinical Neuropsychology** (PS1932) | Italia | bajo | Inglés | ★★ — curriculum clínico/experimental, casi sin AI | Media-alta (acepta licenciatura en psicología) | **Probable descarte.** Accesible pero contenido equivocado (empuja a neuropsicología clínica). |
+| **M1+M2 Human-Computer Interaction** (LISN, Université Paris-Saclay) | Francia | **2** | Inglés (100%, B2 mínimo) | ★★★★ — LISN es uno de los grupos de HCI más grandes de Europa (ex-équipe Ex)Situ); ergonomía cognitiva, interacción humano-máquina, VR/AR. Conecta con "interacción humano-AI" del criterio 2, aunque CLT no es el eje central del currículo | Alta — admite explícitamente perfiles de Cognitive Science/Psychology con componente cuantitativo/técnico | Candidato sólido, nuevo. Verificar deadline exacto ciclo 2028 y becas alternativas a Eiffel (bloqueada por edad). |
+| **MSc Cognitive Science** (University of Edinburgh, School of Informatics) | Reino Unido | **1** | Inglés | ★★★★★ — HCI + razonamiento computacional de alta cognición + ML aplicado, dentro de uno de los mejores departamentos de Informatics del mundo | Alta — psicología listada explícitamente como bachillerato de entrada aceptado; requiere programación (cubierta por transcript ITAM) | **Top-tier fuera de Francia/Italia, nuevo.** Verificar tuition internacional exacta y deadline 2028. |
+| **MSc Cognitive and Decision Sciences** (UCL, Div. of Psychology & Language Sciences) | Reino Unido | **1** | Inglés | ★★★★ — modelado computacional de la mente y procesos probabilísticos de cognición; menos foco en building ML/DL puro que otros | Alta — psicología es uno de los bachilleratos de entrada comunes explícitamente listados | Nuevo. Fuerte en teoría cognitiva computacional. Tuition internacional 2026/27: £39,200 (verificar cifra 2028). |
+| **MSc Human-Computer Interaction** (UCL, UCLIC) | Reino Unido | **1** | Inglés | ★★★★ — intersección diseño/ingeniería × comportamiento humano; UCLIC investiga AI conversacional y sistemas explicables — fit directo con human-AI interaction | Alta — acepta explícitamente psicología, CS o ergonomía | Nuevo. Complementa a Cognitive and Decision Sciences con más foco de building/HCI. |
+| **Research MSc Brain and Cognitive Sciences — track Cognitive Science** (Universiteit van Amsterdam / ILLC) | Países Bajos | **1** | Inglés | ★★★★ — conecta neurociencia, cognición y computación; ecosistema ILLC (lógica-AI-cognición) de referencia mundial | Alta — acepta explícitamente (Cognitive) Psychology, Cognitive Science, AI, Linguistics o Philosophy of Mind | Nuevo. Research master selectivo, típicamente encamina a PhD. Deadline no-UE: 31 enero. Tuition no-UE ~€26,000/año. |
+| **Master of Educational Technology and Applied Learning Science (METALS)** (CMU, Human-Computer Interaction Institute) | Estados Unidos | **1** | Inglés | ★★★★★ — probablemente el mejor match de toda la lista para CLT×AI: fundado en la tradición de Cognitive Tutors (Koedinger), aplica ciencia cognitiva/carga cognitiva a diseño de tecnología educativa con AI, con building real (data science, learning analytics) | Alta — HCII declara explícitamente que no exige un grado específico y valora perfiles interdisciplinarios de ciencias sociales | **Candidato de alta prioridad, nuevo.** Verificar deadline exacto y costo (~$27k/semestre; becas parciales METALS Merit). |
+| **MS Symbolic Systems — concentración Human-Centered AI** (Stanford University) | Estados Unidos | **1** | Inglés | ★★★★ — programa diseñado explícitamente en la intersección filosofía/lingüística/psicología/CS/AI, con concentración dedicada a Human-Centered AI | **Condicional** — no exige bachillerato específico pero admisión externa muy competitiva (~5% aceptación), requiere base cuantitativa/programación sólida (transcript ITAM ayuda) | Nuevo. Alto riesgo/alto valor. Deadline externo: 15 enero. |
+
+### Notas por programa (agregados en la corrida del 2026-09-03)
+
+- **Paris-Saclay HCI (M1+M2, LISN).** URL: https://www.universite-paris-saclay.fr/en/education/masters-degree/computer-science/m1-human-computer-interaction (y m2-human-computer-interaction). Deadline: ventana M1 se abre ~enero-marzo; fecha exacta 2028 no confirmada, verificar en el sitio. Costo: tuition pública francesa estándar (~243-350€/año); becas Idex Paris-Saclay (Eiffel bloqueada por edad, verificar alternativas institucionales). Labs/faculty: LISN, Michel Beaudouin-Lafon, Jean-Daniel Fekete.
+- **Edinburgh MSc Cognitive Science.** URL: https://study.ed.ac.uk/programmes/postgraduate-taught/108-cognitive-science. Deadline: ~31 marzo para entrada septiembre (verificar fecha exacta ciclo 2028). Costo: cifras de matrícula internacional inconsistentes entre fuentes secundarias (~£30-45k/año) — confirmar en sitio oficial. Becas: Chevening, Commonwealth, Edinburgh Global. Labs/faculty: grupo de HCI del School of Informatics; Institute for Language, Cognition and Computation.
+- **UCL MSc Cognitive and Decision Sciences.** URL: https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/cognitive-and-decision-sciences-msc. Tuition internacional 2026/27: £39,200. Becas vía portal institucional UCL (verificar elegibilidad no-UE).
+- **UCL MSc Human-Computer Interaction (UCLIC).** URL: https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/human-computer-interaction-msc.
+- **UvA Research MSc Brain and Cognitive Sciences — track Cognitive Science.** URL: https://www.uva.nl/shared-content/programmas/en/research-masters/brain-and-cognitive-sciences/. Deadline no-UE: 31 enero. Tuition no-UE: ~€26,000/año. Becas: Amsterdam Merit Scholarship, Holland Scholarship (verificar cobertura para no-UE).
+- **CMU HCII METALS.** URL: https://metals.hcii.cmu.edu/ y https://www.hcii.cmu.edu/academics/masters-educational-technology-and-applied-learning-science-program. Deadline: ~diciembre/enero (verificar fecha exacta). Costo: ~$27,000/semestre; becas parciales tipo METALS Merit Scholarship.
+- **Stanford MS Symbolic Systems (Human-Centered AI).** URL: https://symsys.stanford.edu/graduates/ms-admissions/external-admissions. Deadline externo: 15 enero.
+
+> Nota metodológica: el acceso directo (WebFetch) a estos dominios estuvo bloqueado por política de red durante esta corrida; los datos provienen de WebSearch con cita de URL oficial. Verificar cifras de tuition/deadline directamente en cada sitio antes de aplicar.
+
+### Cambios detectados en programas ya listados (corrida 2026-09-03)
+
+- **Milano HCAI:** confirmado para ciclo 2026/27 — tuition €312/año (tasa pública estándar, no diferenciada para no-UE), ventana de solicitud 22/01/2026–30/10/2026, deadline de visa no-UE 30 de abril. Sin cambios de curriculum o idioma. Fuente: https://hcai.cdl.unimi.it/en, https://www.unimi.it/en/education/master-programme/human-centered-artificial-intelligence.
+- Sin cambios detectados en cog-SUP NCIA, ENS-PSL Cogmaster, Trento AIS, Padova CogTech, Bologna AI, Padova Cognitive Neuroscience & Clinical Neuropsychology.
 
 ---
 
@@ -101,3 +125,46 @@ Agregar un programa a la lista **solo si cumple TODOS** los siguientes:
 Para cada programa nuevo que cumpla los criterios, registrar en la tabla: **nombre, país, tier estimado, idioma, fit temático, feasibilidad de admisión con perfil psicología, estatus/notas**, y guardar aparte (en notas) la **URL fuente, deadline de aplicación, colegiatura/becas, y labs/faculty clave**.
 
 Si un programa **no** cumple los criterios, no agregarlo; opcionalmente anotarlo en una sección de "Evaluados y descartados" con la razón de una línea, para no re-evaluarlo en el futuro.
+
+---
+
+## 8. Evaluados y descartados
+
+> Programas investigados que **no** califican según los criterios de la sección 7. Se registran aquí para no re-evaluarlos en corridas futuras. Última actualización: 2026-09-03.
+
+### Italia
+
+- **Cognitive Sciences and Decisional Processes / SCO** (Università di Milano) — examen de admisión y primer año mayoritariamente en italiano (solo 2º año track "Applied Cognitive Neuroscience" es 100% inglés); fit temático es cognición/decisión, no AI central. Descartado por idioma (criterio 4) y fit temático débil.
+- **Digital Humanities and Digital Knowledge / DHDK** (Università di Bologna) — inglés, admisión interdisciplinaria explícita, pero foco en procesamiento/representación de conocimiento y humanidades digitales, no en cognición humana ni CLT/human-AI interaction. Descartado por fit temático.
+- **UniTrento–SISSA Cognitive Science joint programme** — mismo título base que Trento AIS/CIMeC (ya en lista), sin foco AI diferenciado y solo 4 plazas/año. Sin valor incremental.
+- **Trento — MSc Human-Computer Interaction (Rovereto)** — HCI puro, sin componente AI/builder explícito ni CLT. Descartado por fit temático.
+- **Sapienza Roma — AI and Robotics / AI (Erasmus Mundus)** — exige grado en Computer Science/Engineering/áreas científicas; AI puro sin componente cognitivo. Descartado por admisión y fit temático.
+- **Torino — Politecnico/UniTo "HumanAIze"** — programa íntegramente en italiano (requiere italiano B1+) y exige ya tener una laurea magistrale previa. Descartado por idioma y nivel de entrada.
+- **Torino — "AI for Biomedicine and Healthcare" (UniTo)** — AI aplicada a biomedicina, no a cognición/psicología. Descartado por fit temático.
+- **Torino — "Scienze Cognitive"** — no existe un programa activo equivalente en Torino (cursos históricos de IA dentro de "Scienze della mente" ya no vigentes desde 2014). No aplica.
+- **Padova — Psicologia Cognitiva Applicata / HTLab** — el curso de HCI es una asignatura dentro de un programa en italiano, no un master independiente en inglés. Descartado por idioma.
+- **Padova — Scienze Psicologiche Cognitive e Psicobiologiche** — laurea magistrale en psicología cognitiva sin componente AI sustancial confirmado (foco en psicobiología/cognición clásica). Descartado por fit temático (no verificado a fondo, revisitar si cambia el curriculum).
+- **Pisa — Scuola Normale / Sant'Anna** — no se localizó programa de maestría que combine cognición+AI con track inglés accesible a psicología; Pisa solo ofrece AI/CS puros. Sin programa relevante identificado.
+- **Milano — "Artificial Intelligence for Science and Technology" (Bicocca/Milano/Pavia)** — AI técnica pura (LM-91), sin componente cognitivo/psicológico. Descartado por fit temático.
+
+### Francia
+
+- **Master IMA (Interactions Informatique-Maths pour l'IA), Toulouse III** — cerrado para 2026/27, 100% francés, exige doble licencia matemáticas-informática. Descartado por idioma, admisión y timeline.
+- **Master Sciences Cognitives, track TCEH (Université de Bordeaux)** — solo 3 ECTS/año en inglés dentro de programa mayormente francés, sin track inglés viable. Descartado por idioma.
+- **Master Sciences Cognitives, track ICIIA (Université de Lorraine, Nancy)** — buen fit temático (ingeniería cognitiva + interacción + IA) pero 100% francés y fuera de las universidades objetivo. Descartado por idioma.
+- **Master Sciences Cognitives Fondamentales et Appliquées (ENS Lyon/Lyon 2)** — exige francés B2, sin track en inglés. Descartado por idioma.
+- **ANDROIDE/AI2D (Master Informatique), Sorbonne** — francés, exige CS/matemáticas duro; fit más orientado a robótica/agentes que a CLT. Descartado por idioma y admisión.
+- **Master MIND, Sorbonne (LIP6)** — AI/ML puro sin componente cognitivo explícito; psicología solo "considerada caso por caso". Descartado por fit temático débil y admisión restrictiva.
+- **MaSCo (Master Cognitive Science), Aix-Marseille/ILCB** — en inglés, interdisciplinario, pero sus tracks (Language/Brain; Typical-Atypical Cognitive Functioning) están orientados a neuropsicología/lingüística clínica, no a AI. Marginal — fit temático insuficiente para CLT×AI.
+- **Master "Intelligence Artificielle et Société" (ENS-PSL + Dauphine-PSL, Paris School of AI)** — inglés, admisión condicional razonable, pero fit temático marginal: conecta AI con ciencias sociales/humanidades ampliamente (ética, impacto social), no con cognición/CLT de forma explícita. Marginal — no agregado a la lista principal.
+- **Master Sciences Cognitives, track Cognition Naturelle et Artificielle (Université Grenoble Alpes, GIPSA-lab + LPNC)** — buen fit temático potencial, pero información de idioma inconsistente entre fuentes (una fuente dice M1 100% inglés, otra dice ~70% francés/30% inglés) y M1 exige bachillerato cuantitativo (mate/CS/física/ciencias de la vida), no psicología directo. No agregado hasta verificar directamente el track de idioma real con el programa.
+
+### Fuera de Italia/Francia (top-tier global)
+
+- **ETH Zürich** — no existe maestría independiente en cognitive science/HCI; HCI es solo una especialización dentro del MSc Computer Science, que exige bachillerato en CS. Descartado por admisión y ausencia de programa dedicado.
+- **Universität Tübingen — MSc Cognitive Science** — ecosistema Max Planck excelente pero idioma de instrucción es alemán (B2-C1 requerido). Descartado por idioma.
+- **CMU Machine Learning Department (MS)** — ML puro, sin componente cognitivo, exige bachillerato en CS/estadística. Descartado por fit temático y admisión.
+- **MILA / Université de Montréal** — no se encontró maestría en ciencia cognitiva en inglés; el MSc/DESS profesional en ML de DIRO es AI puro y en francés. Descartado por idioma y fit temático.
+- **MIT BCS (Brain and Cognitive Sciences)** — no ofrece maestría terminal independiente, solo programa doctoral. No aplica al formato buscado.
+- **VU Amsterdam — MSc AI, track Cognitive Science** — fit temático interesante, pero su tier mundial en ciencia cognitiva es dudoso frente al criterio estricto de "top-tier global". Dudoso — no agregado sin verificación adicional.
+- **UvA — MSc Artificial Intelligence (regular, no-research)** — exige bachillerato en AI/CS, sin track cognitivo dedicado. Descartado por admisión y fit temático.
