@@ -85,6 +85,32 @@ Programas que conectan **interacción humano-AI, modelado computacional de la co
 | **Padova CogTech** (Università di Padova, Cognitive Science for Human-Centric Technologies) | Italia | **4** | Inglés | ★★★ — cognición + tecnología | Alta (acepta STEM y psicología) | Hedge accesible. Formato blended resta peso para PhD. |
 | **Bologna AI** (Alma Mater Studiorum, MSc Artificial Intelligence) | Italia | bajo | Inglés (100%) | ★★★ — AI puro fuerte, fusión con psicología mínima | Baja sin remediar — bachelor fuera de clases elegibles (L-35 etc.) + API≥26/30 + CSCI≥18 CFU | **Probable descarte.** Admisión incierta + mal fit con CLT. Reabrir solo con remediación CS. |
 | **Padova Cognitive Neuroscience & Clinical Neuropsychology** (PS1932) | Italia | bajo | Inglés | ★★ — curriculum clínico/experimental, casi sin AI | Media-alta (acepta licenciatura en psicología) | **Probable descarte.** Accesible pero contenido equivocado (empuja a neuropsicología clínica). |
+| **Trento Cognitive Science** (Università di Trento / CIMeC, MSc Cognitive Science, track Computational & theoretical modelling of Language and Cognition) | Italia | **3** | Inglés (100%) | ★★★ — modelado computacional de cognición, ML y diseño de interfaces; sin foco explícito en CLT ni ingeniería de building | Alta — admite licenciatura (3 años+) con perfil psicología/filosofía/lingüística; B2 inglés | Hedge accesible y barato. **Ojo:** non-UE debe tener el título antes del 30-jun del año de entrada (ciclo 2026/27) → UNAM debe estar titulada a tiempo para Fall 2028. Ver notas §6.1. |
+| **Edinburgh MSc Cognitive Science** (University of Edinburgh, Informatics/PPLS) | Reino Unido | **1** (top-tier global) | Inglés | ★★★★ — cog-sci computacional de élite (ILCC/Informatics), acceso a labs frontera | **Condicional** — acepta psicología pero exige programación y base matemática; oferta típica = first class | Colegiatura ~£45,410/año (entrada 2026) → costo muy alto, SECIHTI improbable cubrirlo completo. Evaluar solo si hay financiamiento. Ver notas §6.1. |
+
+
+### 6.1 Notas por programa agregado (corrida 2026-10-01)
+
+**Trento Cognitive Science (CIMeC)**
+- URL oficial: https://corsi.unitn.it/en/cognitive-science (admisión no-UE: https://corsi.unitn.it/en/cognitive-science/enrollment/admission-non-europeans ; call 2026/27: https://corsi.unitn.it/sites/cds/files/2025-12/admission-call-master-cognitive-science-26-27.pdf)
+- Deadline (ciclo 2026/27, referencia): no-UE 17-dic-2025 a 4-mar-2026; UE 9-feb a 29-may-2026. Para Fall 2028 esperar ventana similar (dic 2027 – mar 2028). Certificado de inglés B2 antes del 15-jun. 80 plazas (35 reservadas a no-UE residentes en el extranjero).
+- Costo/becas: no-UE €1,000–4,500/año según mérito (puntaje de admisión); beca UniTrento con exención de colegiatura para no-UE con puntaje ≥70/100.
+- Labs/faculty: CIMeC (Center for Mind/Brain Sciences); track CLC (modelado computacional de lenguaje y cognición). No se identificó faculty específico de CLT × AI (pendiente de verificar).
+- Verificado vía resultados de búsqueda (el sitio oficial no fue accesible por fetch).
+
+**Edinburgh MSc Cognitive Science**
+- URL oficial: https://www.ed.ac.uk/pg/108 (también https://study.ed.ac.uk/programmes/postgraduate-taught/108-cognitive-science)
+- Deadline: no verificado para 2028 (programa de 1 año, inicio septiembre). Revisar rondas de aplicación en la página oficial.
+- Costo/becas: ~£45,410/año (2026). Becas para mexicano no-UE no verificadas (Chevening/SECIHTI-UK a investigar).
+- Labs/faculty: ILCC (Informatics), PPLS Cognitive Science; faculty específico no verificado.
+- Requisito: 2:1 equivalente en psicología (entre otras) + experiencia en programación; el transcript ITAM podría servir como evidencia cuantitativa.
+
+### 6.2 Cambios detectados en programas ya listados (2026-10-01)
+
+- **cog-SUP NCIA:** la página oficial lista como diplomas elegibles para M1 *Biología, Matemáticas, Física, Informática* — **psicología no aparece**. La feasibilidad "Alta" debe tratarse como **por confirmar** (contactar al programa; el transcript ITAM podría ayudar). Deadline ref.: 1-mar-2026 para el ciclo 2026/27. https://u-paris.fr/master-in-cognitive-science-computational-neuroscience-and-artificial-intelligence-ncia/
+- **ENS-PSL Cogmaster:** para 2027 hay sesión única; admisión **solo a M1** (sin entrada directa a M2), 50 plazas; portal ~mediados de enero a finales de febrero (deadline 2027 por anunciar). Para Fall 2028 aplicar ene–feb 2028. https://master-cognitive-science.ens.psl.eu/en/application/apply-masters-program-17283
+- **Milano HCAI:** admisión por verificación de requisitos curriculares + entrevista (sin examen); B2 inglés; deadline visa no-UE 30-abr-2026 (ciclo 2026/27). https://hcai.cdl.unimi.it/en/enrolment
+- **Padova CogTech:** ciclo 2026/27 con 50 plazas, pre-inscripción 10-mar a 10-abr-2026, formato blended. https://www.unipd.it/en/ammissioni-cognitive-human
 
 ---
 
@@ -101,3 +127,18 @@ Agregar un programa a la lista **solo si cumple TODOS** los siguientes:
 Para cada programa nuevo que cumpla los criterios, registrar en la tabla: **nombre, país, tier estimado, idioma, fit temático, feasibilidad de admisión con perfil psicología, estatus/notas**, y guardar aparte (en notas) la **URL fuente, deadline de aplicación, colegiatura/becas, y labs/faculty clave**.
 
 Si un programa **no** cumple los criterios, no agregarlo; opcionalmente anotarlo en una sección de "Evaluados y descartados" con la razón de una línea, para no re-evaluarlo en el futuro.
+
+---
+
+## 8. Evaluados y descartados
+
+| Programa | País | Razón (una línea) | Corrida |
+|---|---|---|---|
+| Paris-Saclay M1/M2 Human-Computer Interaction | Francia | M2 exige nivel M1 (240 ECTS) en CS/HCI; psicología solo con fuerte programación; fit AI/cognición marginal (HCI de diseño). https://www.universite-paris-saclay.fr/en/education/master/computer-science/m2-human-computer-interaction | 2026-10-01 |
+| Paris Cité Master AIRE – track Learning Sciences (Learning Planet Institute) | Francia | Relevante a learning sciences y en inglés (€250/año), pero componente AI débil y requisitos de admisión no verificables; **re-evaluar** con acceso a la página oficial. https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/approche-interdisciplinaire-de-la-recherche-et-de-l-enseignement-K2VOCNYM.html | 2026-10-01 |
+| Arts et Métiers TEEF (Emerging Technologies for Education and Training) | Francia | Solo alternancia (work-study) y orientación de ingeniería profesionalizante, no investigación. https://artsetmetiers.fr/en/node/2528 | 2026-10-01 |
+| Tübingen MSc Machine Learning | Alemania | ML puro y compuerta dura de ≥27 ECTS de matemáticas con bachelor CS/mat; sin componente cognitivo. https://uni-tuebingen.de/en/study/finding-a-course/degree-programs-available/detail/course/machine-learning-master/ | 2026-10-01 |
+| UCL MSc Human-Computer Interaction | Reino Unido | Módulo Human-AI Interaction, pero fit principal es HCI y admisión/costo no verificados; revisar en próxima corrida. | 2026-10-01 |
+| Mila professional master's (ML) | Canadá | ML puro, sin componente cognitivo. https://mila.quebec/en/professional-programs/ | 2026-10-01 |
+| Modena AI Engineering | Italia | Ingeniería AI pura sin componente cognitivo. | 2026-10-01 |
+| SISSA/Trieste Data Science & AI (DSSC) | Italia | AI/ML puro con compuerta cuantitativa dura. | 2026-10-01 |
