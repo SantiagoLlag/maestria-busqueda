@@ -46,6 +46,7 @@ footer{margin-top:48px;color:var(--mute);font-size:12px}
 <div class="controls">
 <input id="q" placeholder="Buscar programa, universidad, lab…">
 <select id="country"><option value="">Todos los países</option></select>
+<select id="rev"><option value="">Todos</option><option value="1">Revisados</option><option value="0">Propuestos (sin revisar)</option></select>
 <select id="tier"><option value="">Todos los tiers</option><option value="1">Tier 1</option><option value="2">Tier 2</option><option value="3">Tier 3</option><option value="4">Tier 4</option><option value="5">Bajo</option></select>
 </div>
 <div class="grid" id="grid"></div>
@@ -60,16 +61,16 @@ let D;
 fetch("programs.json").then(r=>r.json()).then(d=>{D=d;
  const cs=[...new Set(d.programs.map(p=>p.country))];
  $("#country").innerHTML+=cs.map(c=>`<option>${esc(c)}</option>`).join("");
- $("#stats").innerHTML=[[d.programs.length,"Programas activos"],[d.programs.filter(p=>p.tier==1).length,"Tier 1"],[cs.length,"Países"],[d.discarded.length,"Descartados"]].map(([n,l])=>`<div class="stat"><b>${n}</b><span>${l}</span></div>`).join("");
+ $("#stats").innerHTML=[[d.programs.length,"Programas activos"],[d.programs.filter(p=>p.reviewed).length,"Revisados"],[d.programs.filter(p=>p.tier==1).length,"Tier 1"],[cs.length,"Países"],[d.discarded.length,"Descartados"]].map(([n,l])=>`<div class="stat"><b>${n}</b><span>${l}</span></div>`).join("");
  $("#disc").innerHTML=d.discarded.map(x=>`<tr><td>${esc(x.name)}</td><td>${esc(x.country)}</td><td>${esc(x.reason)}</td></tr>`).join("");
  $("#foot").textContent="Actualizado "+d.updated+" · Fuente: contexto-maestria-ai-psicologia.md";
  render();
 });
 function render(){
- const q=$("#q").value.toLowerCase(),c=$("#country").value,t=$("#tier").value;
- $("#grid").innerHTML=D.programs.filter(p=>(!c||p.country==c)&&(!t||p.tier==t)&&JSON.stringify(p).toLowerCase().includes(q)).map(p=>`
+ const q=$("#q").value.toLowerCase(),c=$("#country").value,t=$("#tier").value,r=$("#rev").value;
+ $("#grid").innerHTML=D.programs.filter(p=>(!c||p.country==c)&&(!t||p.tier==t)&&(!r||(r=="1")==!!p.reviewed)&&JSON.stringify(p).toLowerCase().includes(q)).map(p=>`
  <article class="card" onclick="this.classList.toggle('open')">
-  <span class="tier t${p.tier}">${p.tier==5?"Bajo":"Tier "+p.tier}</span>
+  <span class="tier t${p.tier}">${p.tier==5?"Bajo":"Tier "+p.tier}</span>${p.reviewed?"":' <span class="tier t5">Sin revisar</span>'}
   <h2>${esc(p.name)}</h2><div class="school">${esc(p.school)} · ${esc(p.country)}</div>
   <div class="full">${esc(p.full)}</div>
   <div class="row"><span>Fit CLT×AI</span><span class="stars">${"★".repeat(p.fit)}<i>${"★".repeat(5-p.fit)}</i></span></div>
@@ -81,5 +82,5 @@ function render(){
    ${/^https?:\/\//.test(p.url)?`<p><a href="${esc(p.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Sitio oficial ↗</a></p>`:""}</div>
  </article>`).join("");
 }
-["#q","#country","#tier"].forEach(s=>$(s).addEventListener("input",render));
+["#q","#country","#tier","#rev"].forEach(s=>$(s).addEventListener("input",render));
 </script></body></html>
