@@ -7,10 +7,14 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#f7f4ee;--card:#fffdf9;--ink:#1d1b18;--mute:#7a746a;--line:#e6e0d4;--accent:#3b4a6b;--gold:#b08a3e;--t1:#2f6f5e;--t2:#3b4a6b;--t3:#8a6d2f;--t4:#8b5a3c;--t5:#9a948a}
-@media(prefers-color-scheme:dark){:root{--bg:#14130f;--card:#1c1b16;--ink:#efeae0;--mute:#9a9486;--line:#2c2a22;--accent:#9db0d8;--gold:#d3ad5f;--t1:#6fc3a9;--t2:#9db0d8;--t3:#d3ad5f;--t4:#d39a77;--t5:#8a8579}}
+:root{color-scheme:light;--bg:#faf7f1;--card:rgba(255,253,249,.86);--ink:#1d1b18;--mute:#7a746a;--line:#e6e0d4;--accent:#3b4a6b;--gold:#b08a3e;--t1:#2f6f5e;--t2:#3b4a6b;--t3:#8a6d2f;--t4:#8b5a3c;--t5:#9a948a}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 Inter,system-ui,sans-serif}
+body::before{content:"";position:fixed;inset:0;z-index:-1;background:linear-gradient(180deg,rgba(250,247,241,.42) 0%,rgba(250,247,241,.72) 38%,rgba(250,247,241,.9) 70%),url(sorbonne.jpg) center 35%/cover no-repeat}
+.card,input,select{backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}
+table{background:var(--card);border-radius:18px;overflow:hidden;backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}
+h1,.sub,.stats{text-shadow:0 1px 14px rgba(250,247,241,.9)}
+.credit{display:block;margin-top:6px}.credit a{color:inherit}
 .wrap{max-width:1120px;margin:0 auto;padding:64px 24px 80px}
 h1{font:600 clamp(34px,5vw,54px)/1.05 Fraunces,serif;margin:0 0 12px;letter-spacing:-.02em}
 h1 em{font-style:italic;color:var(--gold)}
@@ -20,7 +24,7 @@ h1 em{font-style:italic;color:var(--gold)}
 .controls{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:28px}
 input,select{background:var(--card);color:var(--ink);border:1px solid var(--line);border-radius:999px;padding:10px 16px;font:inherit}
 input{flex:1;min-width:200px}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:18px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(320px,100%),1fr));gap:18px}
 .card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:24px;position:relative;transition:transform .2s,box-shadow .2s;cursor:pointer}
 .card:hover{transform:translateY(-3px);box-shadow:0 14px 40px -18px rgba(0,0,0,.35)}
 .tier{display:inline-block;font-size:11px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;padding:3px 10px;border-radius:999px;border:1px solid currentColor}
@@ -35,8 +39,10 @@ input{flex:1;min-width:200px}
 .detail p{margin:8px 0}.detail a{color:var(--accent)}
 .status{margin-top:14px;font-size:12px;color:var(--gold);font-weight:500}
 h3{font:600 26px Fraunces,serif;margin:64px 0 16px}
-table{width:100%;border-collapse:collapse;font-size:14px}td{padding:10px 8px;border-top:1px solid var(--line);vertical-align:top}td:first-child{font-weight:500}td:nth-child(2){color:var(--mute);white-space:nowrap}
+table{width:100%;border-collapse:collapse;font-size:14px}td{padding:10px 8px;border-top:1px solid var(--line);vertical-align:top}td:first-child{font-weight:500;padding-left:18px}td:last-child{padding-right:18px}tr:first-child td{border-top:0}td:nth-child(2){color:var(--mute);white-space:nowrap}
 footer{margin-top:48px;color:var(--mute);font-size:12px}
+@media(max-width:600px){.wrap{padding:36px 16px 56px}.stats{gap:20px 28px}input{min-width:100%}select{flex:1}.card{padding:20px}
+#disc,#disc tbody,#disc tr,#disc td{display:block}#disc tr{padding:12px 16px;border-top:1px solid var(--line)}#disc td{border:0;padding:2px 0!important}#disc tr:first-child{border-top:0}#disc td:nth-child(2){font-size:12px}}
 </style>
 </head>
 <body><div class="wrap">
@@ -52,7 +58,7 @@ footer{margin-top:48px;color:var(--mute);font-size:12px}
 <div class="grid" id="grid"></div>
 <h3>Evaluados y descartados</h3>
 <table id="disc"></table>
-<footer id="foot"></footer>
+<footer><span id="foot"></span><span class="credit">Foto: Cour d'honneur de la Sorbonne, París — <a href="https://commons.wikimedia.org/wiki/File:Sorbonne_-_Cour_d%27honneur_-_Septembre_2026.jpg" target="_blank" rel="noopener">ZeusUpsistos</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a></span></footer>
 </div>
 <script>
 const $=s=>document.querySelector(s);
