@@ -137,3 +137,9 @@ Si un programa **no** cumple los criterios, no agregarlo; opcionalmente anotarlo
 | Aalto HCI (Intelligent & Interactive Systems) | Finlandia | No top-tier en cog-sci; fit AI-cognición marginal. |
 | EMAI (Erasmus Mundus AI) | Varios | AI puro sin componente cognitivo. |
 
+
+---
+
+## 9. Dashboard (Vercel)
+
+El dashboard vive en `dashboard/` (sitio estático; `vercel.json` apunta ahí). **Regla permanente:** cada vez que se agregue, cambie o descarte un programa en este documento, actualizar también `dashboard/programs.json` (arrays `programs` y `discarded`, y el campo `updated`) en el mismo commit/PR.
