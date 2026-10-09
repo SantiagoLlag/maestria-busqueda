@@ -85,6 +85,7 @@ Programas que conectan **interacción humano-AI, modelado computacional de la co
 | **Padova CogTech** (Università di Padova, Cognitive Science for Human-Centric Technologies) | Italia | **4** | Inglés | ★★★ — cognición + tecnología | Alta (acepta STEM y psicología) | Hedge accesible. Formato blended resta peso para PhD. |
 | **Bologna AI** (Alma Mater Studiorum, MSc Artificial Intelligence) | Italia | bajo | Inglés (100%) | ★★★ — AI puro fuerte, fusión con psicología mínima | Baja sin remediar — bachelor fuera de clases elegibles (L-35 etc.) + API≥26/30 + CSCI≥18 CFU | **Probable descarte.** Admisión incierta + mal fit con CLT. Reabrir solo con remediación CS. |
 | **Padova Cognitive Neuroscience & Clinical Neuropsychology** (PS1932) | Italia | bajo | Inglés | ★★ — curriculum clínico/experimental, casi sin AI | Media-alta (acepta licenciatura en psicología) | **Probable descarte.** Accesible pero contenido equivocado (empuja a neuropsicología clínica). |
+| **Edinburgh Cognitive Science MSc** (University of Edinburgh, Informatics + PPLS) | Reino Unido | **1** (top-tier global; fuera de IT/FR) | Inglés | ★★★★ — cog-sci computacional (Informatics + Psychology/Philosophy/Language Sciences), opciones HCI y ML; building moderado | **Condicional/media** — psicología aparece como bachelor elegible, pero exige experiencia en programación + ~30 ECTS de matemáticas (calculus, álgebra lineal, discreta); el transcript ITAM lo cubre. Oferta típica pide primera clase (muy competitivo) | **Nuevo (2026-10-08).** Colegiatura internacional ~£45,410/año (provisional, sin verificar en sitio oficial): costo es la barrera principal. Verificar requisitos en sitio oficial. |
 
 ---
 
@@ -101,3 +102,44 @@ Agregar un programa a la lista **solo si cumple TODOS** los siguientes:
 Para cada programa nuevo que cumpla los criterios, registrar en la tabla: **nombre, país, tier estimado, idioma, fit temático, feasibilidad de admisión con perfil psicología, estatus/notas**, y guardar aparte (en notas) la **URL fuente, deadline de aplicación, colegiatura/becas, y labs/faculty clave**.
 
 Si un programa **no** cumple los criterios, no agregarlo; opcionalmente anotarlo en una sección de "Evaluados y descartados" con la razón de una línea, para no re-evaluarlo en el futuro.
+
+---
+
+## Notas por programa y descartes
+
+### Notas por programa (nuevos)
+
+**Edinburgh Cognitive Science MSc**
+- URL oficial: https://study.ed.ac.uk/programmes/postgraduate-taught/108-cognitive-science
+- Deadline próximo ciclo: no verificado (UK suele tener rondas escalonadas; entrada septiembre 2028 → confirmar en sitio oficial).
+- Colegiatura / becas: ~£45,410/año internacional (provisional, vía agregadores). Becas a revisar: Edinburgh Global, Chevening, SECIHTI.
+- Labs/faculty: School of Informatics + PPLS; Centre for Cognitive Science, ILCC; buscar supervisores en HCI/educational tech/cognitive modelling.
+- Requisitos reportados: IELTS 7.0 / TOEFL 100; programación; ~30 ECTS mate.
+- Limitación: datos tomados de resultados de búsqueda/agregadores; el acceso a sitios oficiales estuvo bloqueado en esta corrida.
+
+---
+
+## 8. Evaluados y descartados
+
+| Programa | País | Razón |
+|---|---|---|
+| PSL Master Artificial Intelligence and Society | Francia | Fit marginal con CLT×AI (enfoque ético/social de AI); €19,500/año no-UE; Eiffel bloqueado. Reabrir si se prioriza AI governance. |
+| Aix-Marseille MaSCo (ILCB) | Francia | No pude confirmar track en inglés ni deadline (selectivo: 252 solicitudes/36 plazas). Reevaluar con acceso al sitio oficial. |
+| UGA Cognition naturelle et artificielle (Grenoble) | Francia | ~70% en francés; sin track inglés viable. |
+| Nancy — Ingénierie cognitive, interaction, IA | Francia | Parcours en francés. |
+| Lille — Sciences cognitives pour l'entreprise | Francia | Orientación empresarial, fit marginal; sin evidencia de componente AI fuerte. |
+| Milano Statale — Cognitive Sciences and Decisional Processes (SCO) | Italia | Impartido en italiano; examen de admisión en italiano. |
+| Trento/SISSA Cognitive Science (CIMeC) | Italia | Cog-neuro sin componente AI central; el programa Trento AIS ya está en la lista. |
+| Sapienza AI and Robotics | Italia | AI/robótica sin componente cognitivo; exige bachelor CS. |
+| Torino | Italia | No se encontró maestría en inglés de cog-sci/HCAI. |
+| UCL HCI MSc | Reino Unido | Top-tier, pero fit AI/building bajo y sin verificar requisitos; reevaluar (UCLIC). |
+| Tilburg Cognitive Science & AI | Países Bajos | No top-tier global según criterio; exige bachelor CS/cog-sci con programación. |
+| Aalto HCI (Intelligent & Interactive Systems) | Finlandia | No top-tier en cog-sci; fit AI-cognición marginal. |
+| EMAI (Erasmus Mundus AI) | Varios | AI puro sin componente cognitivo. |
+
+
+---
+
+## 9. Dashboard (Vercel)
+
+El dashboard vive en `dashboard/` (sitio estático; `vercel.json` apunta ahí). **Regla permanente:** cada vez que se agregue, cambie o descarte un programa en este documento, actualizar también `dashboard/programs.json` (arrays `programs` y `discarded`, y el campo `updated`) en el mismo commit/PR.

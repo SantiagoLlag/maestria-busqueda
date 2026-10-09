@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Maestría AI × Psicología</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{color-scheme:light;--bg:#faf7f1;--card:rgba(255,253,249,.86);--ink:#1d1b18;--mute:#7a746a;--line:#e6e0d4;--accent:#3b4a6b;--gold:#b08a3e;--t1:#2f6f5e;--t2:#3b4a6b;--t3:#8a6d2f;--t4:#8b5a3c;--t5:#9a948a}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 Inter,system-ui,sans-serif}
+body::before{content:"";position:fixed;inset:0;z-index:-1;background:linear-gradient(180deg,rgba(250,247,241,.42) 0%,rgba(250,247,241,.72) 38%,rgba(250,247,241,.9) 70%),url(sorbonne.jpg) center 35%/cover no-repeat}
+.card,input,select{backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}
+table{background:var(--card);border-radius:18px;overflow:hidden;backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}
+h1,.sub,.stats{text-shadow:0 1px 14px rgba(250,247,241,.9)}
+.credit{display:block;margin-top:6px}.credit a{color:inherit}
+.wrap{max-width:1120px;margin:0 auto;padding:64px 24px 80px}
+h1{font:600 clamp(34px,5vw,54px)/1.05 Fraunces,serif;margin:0 0 12px;letter-spacing:-.02em}
+h1 em{font-style:italic;color:var(--gold)}
+.sub{color:var(--mute);max-width:620px;margin:0 0 36px}
+.stats{display:flex;gap:36px;flex-wrap:wrap;margin-bottom:32px;padding-bottom:28px;border-bottom:1px solid var(--line)}
+.stat b{display:block;font:600 34px Fraunces,serif}.stat span{color:var(--mute);font-size:12px;text-transform:uppercase;letter-spacing:.1em}
+.controls{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:28px}
+input,select{background:var(--card);color:var(--ink);border:1px solid var(--line);border-radius:999px;padding:10px 16px;font:inherit}
+input{flex:1;min-width:200px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(320px,100%),1fr));gap:18px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:24px;position:relative;transition:transform .2s,box-shadow .2s;cursor:pointer}
+.card:hover{transform:translateY(-3px);box-shadow:0 14px 40px -18px rgba(0,0,0,.35)}
+.tier{display:inline-block;font-size:11px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;padding:3px 10px;border-radius:999px;border:1px solid currentColor}
+.t1{color:var(--t1)}.t2{color:var(--t2)}.t3{color:var(--t3)}.t4{color:var(--t4)}.t5{color:var(--t5)}
+.card h2{font:600 23px/1.2 Fraunces,serif;margin:14px 0 4px}
+.school{color:var(--mute);font-size:13px}
+.full{margin:10px 0 14px;color:var(--mute);font-size:13px}
+.stars{color:var(--gold);letter-spacing:2px}.stars i{color:var(--line);font-style:normal}
+.row{display:flex;justify-content:space-between;gap:10px;font-size:13px;padding:8px 0;border-top:1px solid var(--line)}
+.row span:first-child{color:var(--mute)}.row span:last-child{text-align:right}
+.detail{display:none;margin-top:10px;font-size:13px}.card.open .detail{display:block}
+.detail p{margin:8px 0}.detail a{color:var(--accent)}
+.status{margin-top:14px;font-size:12px;color:var(--gold);font-weight:500}
+h3{font:600 26px Fraunces,serif;margin:64px 0 16px}
+table{width:100%;border-collapse:collapse;font-size:14px}td{padding:10px 8px;border-top:1px solid var(--line);vertical-align:top}td:first-child{font-weight:500;padding-left:18px}td:last-child{padding-right:18px}tr:first-child td{border-top:0}td:nth-child(2){color:var(--mute);white-space:nowrap}
+footer{margin-top:48px;color:var(--mute);font-size:12px}
+@media(max-width:600px){.wrap{padding:36px 16px 56px}.stats{gap:20px 28px}input{min-width:100%}select{flex:1}.card{padding:20px}
+#disc,#disc tbody,#disc tr,#disc td{display:block}#disc tr{padding:12px 16px;border-top:1px solid var(--line)}#disc td{border:0;padding:2px 0!important}#disc tr:first-child{border-top:0}#disc td:nth-child(2){font-size:12px}}
+</style>
+</head>
+<body><div class="wrap">
+<h1>Maestría <em>AI × Psicología</em></h1>
+<p class="sub">Programas candidatos para entrada Fall 2028 — Cognitive Load Theory × AI, interacción humano-AI y building con AI.</p>
+<div class="stats" id="stats"></div>
+<div class="controls">
+<input id="q" placeholder="Buscar programa, universidad, lab…">
+<select id="country"><option value="">Todos los países</option></select>
+<select id="rev"><option value="">Todos</option><option value="1">Revisados</option><option value="0">Propuestos (sin revisar)</option></select>
+<select id="tier"><option value="">Todos los tiers</option><option value="1">Tier 1</option><option value="2">Tier 2</option><option value="3">Tier 3</option><option value="4">Tier 4</option><option value="5">Bajo</option></select>
+</div>
+<div class="grid" id="grid"></div>
+<h3>Evaluados y descartados</h3>
+<table id="disc"></table>
+<footer><span id="foot"></span><span class="credit">Foto: Cour d'honneur de la Sorbonne, París — <a href="https://commons.wikimedia.org/wiki/File:Sorbonne_-_Cour_d%27honneur_-_Septembre_2026.jpg" target="_blank" rel="noopener">ZeusUpsistos</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a></span></footer>
+</div>
+<script>
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+let D;
+fetch("programs.json").then(r=>r.json()).then(d=>{D=d;
+ const cs=[...new Set(d.programs.map(p=>p.country))];
+ $("#country").innerHTML+=cs.map(c=>`<option>${esc(c)}</option>`).join("");
+ $("#stats").innerHTML=[[d.programs.length,"Programas activos"],[d.programs.filter(p=>p.reviewed).length,"Revisados"],[d.programs.filter(p=>p.tier==1).length,"Tier 1"],[cs.length,"Países"],[d.discarded.length,"Descartados"]].map(([n,l])=>`<div class="stat"><b>${n}</b><span>${l}</span></div>`).join("");
+ $("#disc").innerHTML=d.discarded.map(x=>`<tr><td>${esc(x.name)}</td><td>${esc(x.country)}</td><td>${esc(x.reason)}</td></tr>`).join("");
+ $("#foot").textContent="Actualizado "+d.updated+" · Fuente: contexto-maestria-ai-psicologia.md";
+ render();
+});
+function render(){
+ const q=$("#q").value.toLowerCase(),c=$("#country").value,t=$("#tier").value,r=$("#rev").value;
+ $("#grid").innerHTML=D.programs.filter(p=>(!c||p.country==c)&&(!t||p.tier==t)&&(!r||(r=="1")==!!p.reviewed)&&JSON.stringify(p).toLowerCase().includes(q)).map(p=>`
+ <article class="card" onclick="this.classList.toggle('open')">
+  <span class="tier t${p.tier}">${p.tier==5?"Bajo":"Tier "+p.tier}</span>${p.reviewed?"":' <span class="tier t5">Sin revisar</span>'}
+  <h2>${esc(p.name)}</h2><div class="school">${esc(p.school)} · ${esc(p.country)}</div>
+  <div class="full">${esc(p.full)}</div>
+  <div class="row"><span>Fit CLT×AI</span><span class="stars">${"★".repeat(p.fit)}<i>${"★".repeat(5-p.fit)}</i></span></div>
+  <div class="row"><span>Idioma</span><span>${esc(p.language)}</span></div>
+  <div class="row"><span>Admisión</span><span>${esc(p.admission)}</span></div>
+  <div class="status">${esc(p.status)}</div>
+  <div class="detail"><p>${esc(p.notes)}</p>
+   ${p.deadline?`<p><b>Deadline:</b> ${esc(p.deadline)}</p>`:""}${p.tuition?`<p><b>Costo:</b> ${esc(p.tuition)}</p>`:""}${p.labs?`<p><b>Labs:</b> ${esc(p.labs)}</p>`:""}
+   ${/^https?:\/\//.test(p.url)?`<p><a href="${esc(p.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Sitio oficial ↗</a></p>`:""}</div>
+ </article>`).join("");
+}
+["#q","#country","#tier","#rev"].forEach(s=>$(s).addEventListener("input",render));
+</script></body></html>
