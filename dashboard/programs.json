@@ -13,11 +13,14 @@
    "admission": "Alta",
    "status": "Top prioridad",
    "notes": "Lab MOCAH/LIP6 (Bouchet), curso Human-AI Interactions, ML real (Sigaud RL, Gallinari AMAL). Contactar a Bouchet/Khamassi antes de aplicar.",
-   "url": "",
+   "url": "https://u-paris.fr/master-in-cognitive-science-computational-neuroscience-and-artificial-intelligence-ncia/",
    "deadline": "",
-   "tuition": "",
+   "tuition": "€255/año (moratoria 2026-27; sin ella ~€3,950)",
    "labs": "MOCAH/LIP6 (Bouchet), Khamassi",
-   "reviewed": true
+   "reviewed": true,
+   "university": "Université Paris Cité + Sorbonne Université",
+   "duration": "2 años (120 ECTS)",
+   "description": "Formación interdisciplinaria en ciencias cognitivas, neurociencia computacional e inteligencia artificial para modelar la cognición natural y artificial; impartido en inglés."
   },
   {
    "id": "cogmaster",
@@ -31,11 +34,14 @@
    "admission": "Alta pero muy selectiva (~40 plazas M2)",
    "status": "Top prioridad",
    "notes": "Aplicar también al PSL PhD Track (deadline ~11 dic 2027). Requiere muestra escrita de investigación.",
-   "url": "",
+   "url": "https://www.psl.eu/en/education/cognitive-science-cogmaster",
    "deadline": "PhD Track ~2027-12-11",
-   "tuition": "",
+   "tuition": "Por confirmar: ~€255 con exención PSL; ~€3,950 sin ella",
    "labs": "",
-   "reviewed": true
+   "reviewed": true,
+   "university": "ENS-PSL (École normale supérieure – PSL) + EHESS",
+   "duration": "2 años (120 ECTS)",
+   "description": "Máster interdisciplinario en ciencias cognitivas con currículo único en inglés, de la psicología y neurociencia a la filosofía, lingüística y modelado computacional."
   },
   {
    "id": "edinburgh-cogsci",
@@ -53,7 +59,10 @@
    "deadline": "Sin verificar",
    "tuition": "~£45,410/año (provisional)",
    "labs": "Informatics + PPLS, Centre for Cognitive Science",
-   "reviewed": true
+   "reviewed": true,
+   "university": "University of Edinburgh",
+   "duration": "1 año (180 créditos UK)",
+   "description": "Estudio interdisciplinario de la mente que combina informática, psicología, lingüística y filosofía, con énfasis en modelado computacional de la cognición."
   },
   {
    "id": "milano-hcai",
@@ -69,9 +78,12 @@
    "notes": "Track Human-AI Interaction; orientación profesionalizante. Barato. Señal de investigación más débil.",
    "url": "https://www.unimi.it/en/education/master-programme/human-centered-artificial-intelligence",
    "deadline": "",
-   "tuition": "",
+   "tuition": "~€1,500–4,200/año según ingresos (sin verificar)",
    "labs": "",
-   "reviewed": true
+   "reviewed": true,
+   "university": "Università degli Studi di Milano + Università di Milano-Bicocca + Università di Pavia",
+   "duration": "2 años (120 ECTS)",
+   "description": "Máster interuniversitario en inteligencia artificial centrada en el humano, que integra informática, ciencias cognitivas, interacción humano-IA y aspectos éticos y sociales."
   },
   {
    "id": "trento-ais",
@@ -85,11 +97,14 @@
    "admission": "Condicional",
    "status": "Solo si se resuelven créditos CS antes de mar 2028",
    "notes": "Exige ≥12 ECTS INF/01 o ING-INF/05; psicología no califica sin remediación.",
-   "url": "",
+   "url": "https://corsi.unitn.it/en/artificial-intelligence-systems",
    "deadline": "",
-   "tuition": "",
+   "tuition": "€0–6,500/año según puntaje de admisión",
    "labs": "CIMeC",
-   "reviewed": true
+   "reviewed": true,
+   "university": "Università di Trento",
+   "duration": "2 años (120 ECTS)",
+   "description": "Máster en sistemas de inteligencia artificial con currículo Neurocognitive Architectures, desarrollado con el CIMeC, que vincula IA con mente y cerebro."
   },
   {
    "id": "padova-cogtech",
@@ -105,9 +120,12 @@
    "notes": "Formato blended resta peso para PhD.",
    "url": "https://www.unipd.it/en/corsi-di-laurea/cognitive-science-human-centric-technologies-cogtech",
    "deadline": "",
-   "tuition": "",
+   "tuition": "€2,790–2,990/año (tarifa fija no-UE 2026-27)",
    "labs": "",
-   "reviewed": true
+   "reviewed": true,
+   "university": "Università degli Studi di Padova",
+   "duration": "2 años (120 ECTS)",
+   "description": "Ciencia cognitiva aplicada al diseño de tecnologías centradas en el humano, combinando psicología, interacción humano-computadora y métodos computacionales; formato semipresencial."
   },
   {
    "id": "bologna-ai",
@@ -121,11 +139,14 @@
    "admission": "Baja sin remediar",
    "status": "Probable descarte",
    "notes": "Bachelor fuera de clases elegibles + API≥26/30 + CSCI≥18 CFU. Mal fit con CLT.",
-   "url": "",
+   "url": "https://www.unibo.it/en/study/second-cycle-degree/programme/2026/6700",
    "deadline": "",
-   "tuition": "",
+   "tuition": "Según ingresos; máximo por confirmar",
    "labs": "",
-   "reviewed": true
+   "reviewed": true,
+   "university": "Alma Mater Studiorum – Università di Bologna",
+   "duration": "2 años (120 ECTS)",
+   "description": "Máster en inglés en inteligencia artificial (clases LM-18/LM-32) sobre aprendizaje automático, razonamiento y sistemas inteligentes, con orientación a investigación e industria."
   },
   {
    "id": "padova-cnnp",
@@ -139,11 +160,14 @@
    "admission": "Media-alta",
    "status": "Probable descarte",
    "notes": "Curriculum clínico/experimental, casi sin AI.",
-   "url": "",
+   "url": "https://www.unipd.it/en/corsi-di-laurea/cognitive-neuroscience-and-clinical-neuropsychology",
    "deadline": "",
-   "tuition": "",
+   "tuition": "€2,790–2,990/año (tarifa fija no-UE 2026-27)",
    "labs": "",
-   "reviewed": true
+   "reviewed": true,
+   "university": "Università degli Studi di Padova",
+   "duration": "2 años (120 ECTS)",
+   "description": "Neurociencia cognitiva y neuropsicología clínica: evaluación y rehabilitación neuropsicológica, con laboratorios de EEG, fNIRS, TMS y neuroimagen; habilita como psicólogo en Italia."
   },
   {
    "id": "ucl-cds",
@@ -157,11 +181,14 @@
    "admission": "Alta — acepta explícitamente psicología entre backgrounds sin exigir bachelor cuantitativo específico (transcript ITAM c",
    "status": "Propuesto · sin revisar",
    "notes": "Nuevo (2026-09), top-tier global (cumple restricción geográfica por excepción). Mejor fit temático puro de toda la búsqueda. Verificar deadline exacto y becas UCL para posgrado internacional.",
-   "url": "",
+   "url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/cognitive-and-decision-sciences-msc",
    "deadline": "",
-   "tuition": "",
+   "tuition": "£39,200/año (overseas, 2026-27)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "University College London (UCL)",
+   "duration": "1 año (180 créditos UK)",
+   "description": "Estudia cómo las personas razonan, juzgan y toman decisiones, combinando psicología cognitiva, modelado computacional y ciencias de la decisión."
   },
   {
    "id": "uva-bcs",
@@ -175,11 +202,14 @@
    "admission": "Alta — Psicología (Cognitive) está primera en la lista de bachelors aceptados",
    "status": "Propuesto · sin revisar",
    "notes": "Nuevo (2026-09), top-tier global. Becas Holland Scholarship / Amsterdam Merit Scholarship — elegibilidad para mexicanos no verificada.",
-   "url": "",
+   "url": "https://www.uva.nl/en/programmes/research-masters/brain-and-cognitive-sciences/brain-and-cognitive-sciences.html",
    "deadline": "",
-   "tuition": "",
+   "tuition": "~€26,000/año (no-UE, 2026-27; tarifa Facultad Ciencias)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Universiteit van Amsterdam (UvA)",
+   "duration": "2 años (120 ECTS)",
+   "description": "Máster de investigación interdisciplinario sobre la cognición, de la molécula a la mente; el track Cognitive Science estudia modelos formales y computacionales de procesos cognitivos."
   },
   {
    "id": "cmu-mhci",
@@ -193,11 +223,14 @@
    "admission": "Alta — CMU declara explícitamente que no exige bachelor específico, valora cohortes interdisciplinarias con ciencias soc",
    "status": "Propuesto · sin revisar",
    "notes": "Nuevo (2026-09), top-tier global. Costo alto (~$70k+/año, no verificado con precisión); sin ayuda federal US para no residentes — vía Fulbright-García Robles + SECIHTI.",
-   "url": "",
+   "url": "https://hcii.cmu.edu/academics/mhci",
    "deadline": "",
-   "tuition": "",
+   "tuition": "$31,100/semestre; ~$93,300 total (2026-27)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Carnegie Mellon University (Human-Computer Interaction Institute)",
+   "duration": "1 año calendario (3 semestres)",
+   "description": "Maestría profesional intensiva en diseño de interacción, investigación UX e ingeniería de software, culminada en un proyecto capstone con un cliente real."
   },
   {
    "id": "oxford-psy",
@@ -211,11 +244,14 @@
    "admission": "Alta — psicología es el background primario esperado",
    "status": "Propuesto · sin revisar",
    "notes": "Prioridad alta si se conecta con Summerfield. Research-only degree, 2 años; puerta directa a DPhil. Requiere identificar supervisor antes de aplicar. Deadline: dic (estimado 2026 para 2027–28).",
-   "url": "",
+   "url": "https://www.ox.ac.uk/admissions/graduate/courses/msc-research-experimental-psychology",
    "deadline": "",
-   "tuition": "",
+   "tuition": "£36,260/año (overseas, 2027-28)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "University of Oxford (Department of Experimental Psychology)",
+   "duration": "1–3 años tiempo completo (por investigación)",
+   "description": "Maestría exclusivamente de investigación en psicología experimental, con proyecto supervisado y tesis; vía habitual hacia el DPhil."
   },
   {
    "id": "uva-hci",
@@ -229,11 +265,14 @@
    "admission": "Condicional — psicología aceptada pero requiere 12 EC equivalente de Python",
    "status": "Propuesto · sin revisar",
    "notes": "UvA explícitamente en criterios top-tier. Fit más directo con CLT×AI / Human-AI. ~€20-26k/año no-UE.",
-   "url": "",
+   "url": "https://www.uva.nl/en/programmes/masters/information-studies-human-computer-interaction/information-studies-human-computer-interaction.html",
    "deadline": "",
-   "tuition": "",
+   "tuition": "€34,300/año (no-UE, 2026-27)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Universiteit van Amsterdam (University of Amsterdam)",
+   "duration": "1 año (60 ECTS)",
+   "description": "Track de HCI del MSc Information Studies, centrado en dimensiones humanas y organizacionales de la IA, interacción humano-IA y métodos de investigación."
   },
   {
    "id": "stanford-symsys",
@@ -247,11 +286,14 @@
    "admission": "Alta en papel (acepta psicología entre 2+ backgrounds combinables) pero admisión ~5%, valora fuertemente investigación p",
    "status": "Propuesto · sin revisar",
    "notes": "Nuevo (2026-09), top-tier global. Sin ayuda financiera regular para el MS (solo Knight-Hennessy, muy competitivo); colegiatura ~$60,000+ USD/año. Aplicar como \"reach\" con paper/tesis fuerte en mano.",
-   "url": "",
+   "url": "https://symsys.stanford.edu/graduates/ms-admissions/external-admissions",
    "deadline": "",
-   "tuition": "",
+   "tuition": "~$65,445/año (3 trimestres × $21,815, 2026-27)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Stanford University",
+   "duration": "~2 años para externos (45 unidades + tesis)",
+   "description": "Maestría interdisciplinaria con tesis sobre cómo sistemas naturales y artificiales representan y procesan información (CS, lingüística, filosofía, psicología)."
   },
   {
    "id": "mod4neucog",
@@ -265,11 +307,14 @@
    "admission": "Alta — requisito textual admite explícitamente \"mathematics, computer science, biology, psychology, signal processing, e",
    "status": "Propuesto · sin revisar",
    "notes": "Programa institucional MSc (no siempre \"diplôme national\"). Hospedado por NeuroMod Institute (15+ labs). Tuition €5,000/año; 10 becas IDEX/año = exención total + €5,000 estipendio. Campus en Sophia Antipolis/Biot. Deadline no confirmada para 2028 (proxy: ene–jun, cierre previo visto 15 jun).",
-   "url": "",
+   "url": "https://univ-cotedazur.eu/msc/modeling-for-neuronal-and-cognitive-systems",
    "deadline": "",
-   "tuition": "",
+   "tuition": "€5,000/año (internacional, 2026-27)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Université Côte d'Azur",
+   "duration": "2 años",
+   "description": "Máster internacional en inglés que forma investigadores en modelado matemático y computacional de sistemas neuronales y cognitivos, con dos prácticas largas."
   },
   {
    "id": "grenoble",
@@ -283,11 +328,14 @@
    "admission": "Alta — Psicología listada explícitamente como licencia (L3/M1) recomendada",
    "status": "Propuesto · en disputa (descartado el 2026-10-08: ~70% en francés)",
    "notes": "Nuevo, agregado 2026-07-16. Fuerte candidato temático. El M2 casi todo en francés exige nivel B1+ (compatible con la meta de francés del candidato, pero ajustado en tiempo).",
-   "url": "",
+   "url": "https://phelma.grenoble-inp.fr/en/studies/master-sciences-cognitives-parcours-cognition-naturelle-et-artificielle-cna-1",
    "deadline": "",
-   "tuition": "",
+   "tuition": "€3,941/año no-UE (exención posible → €255, 2026-27)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Grenoble INP – Phelma / Université Grenoble Alpes",
+   "duration": "2 años (120 ECTS); M1 en inglés, M2 en francés",
+   "description": "Máster en ciencias cognitivas cuyo M2 CNA estudia percepción, memoria, lenguaje y razonamiento con neuroimagen y modelado, orientado al doctorado."
   },
   {
    "id": "psl-aisoc",
@@ -301,11 +349,14 @@
    "admission": "Alta — admite explícitamente bachelor en CS, matemáticas, o ciencias humanas y sociales (SHS) con base básica de program",
    "status": "Propuesto · en disputa (descartado el 2026-10-08: fit marginal con CLT×AI; €19,500/año)",
    "notes": "Nuevo hallazgo. Programa nuevo (primera cohorte sept. 2025). Fit más \"AI+sociedad\" que CLT/HCI estricto, pero es el candidato PSL más fuerte en ingeniería de AI real fuera de Cogmaster.",
-   "url": "",
+   "url": "https://psl.eu/formation/master-intelligence-artificielle-et-societe",
    "deadline": "",
-   "tuition": "",
+   "tuition": "€19,500/año (no residentes fiscales UE, 2026-27)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Université PSL (Paris School of AI; con ENS-PSL y Dauphine-PSL)",
+   "duration": "2 años (120 ECTS)",
+   "description": "Máster interdisciplinario en inglés que combina formación técnica en IA con análisis de sus impactos sociales, éticos y políticos; M2 en gobernanza o ciencias sociales computacionales."
   },
   {
    "id": "saclay-hci",
@@ -319,11 +370,14 @@
    "admission": "Alta — admite explícitamente perfiles de Cognitive Science/Psychology con componente cuantitativo/técnico",
    "status": "Propuesto · sin revisar",
    "notes": "Candidato sólido, nuevo. Verificar deadline exacto ciclo 2028 y becas alternativas a Eiffel (bloqueada por edad).",
-   "url": "",
+   "url": "https://www.universite-paris-saclay.fr/en/education/masters-degree/computer-science/m1-human-computer-interaction",
    "deadline": "",
-   "tuition": "",
+   "tuition": "€255/año (no-UE con exención Paris-Saclay, 2026-27)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Université Paris-Saclay (LISN)",
+   "duration": "2 años (120 ECTS, M1+M2)",
+   "description": "Máster en inglés de interacción humano-computadora que abarca diseño, evaluación e ingeniería de interfaces (web, móvil, RV/RA), con prácticas de investigación."
   },
   {
    "id": "sapienza-cn",
@@ -337,11 +391,14 @@
    "admission": "Alta — licenciatura en psicología es el perfil primario y esperado; max 40 plazas",
    "status": "Propuesto · en disputa (descartado el 2026-10-08: neuro sin AI)",
    "notes": "Opción sólida en Italia. Admisión directa con psicología. GPA mínimo 75/100. Deadline: ~mayo 2027 (Universitaly). Colegiatura: ~€2,924/año.",
-   "url": "",
+   "url": "https://dippsi.web.uniroma1.it/en/node/6703",
    "deadline": "",
-   "tuition": "",
+   "tuition": "€700/año (Banda B, México) + €156 tasas",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Sapienza Università di Roma (Dipartimento di Psicologia)",
+   "duration": "2 años (120 ECTS)",
+   "description": "Maestría en inglés (LM-51) sobre los correlatos neurales de procesos motores, perceptivos, afectivos y cognitivos, con tesis experimental en laboratorio."
   },
   {
    "id": "bicocca",
@@ -355,11 +412,14 @@
    "admission": "Alta — psicología es el background esperado y natural; programa internacional",
    "status": "Propuesto · sin revisar",
    "notes": "Safety sólido y cuantitativo. Mejor que Milano HCAI en rigor experimental. Hub NeuroMi. Colegiatura: ~€1,500–3,000/año. Call anual ~enero.",
-   "url": "",
+   "url": "https://apply.unimib.it/en_GB/courses/course/68-applied-experimental-psychological-sciences",
    "deadline": "",
-   "tuition": "",
+   "tuition": "Fija por grupo de país: ~€400–3,800/año (sin verificar)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Università degli Studi di Milano-Bicocca",
+   "duration": "2 años (120 ECTS)",
+   "description": "Maestría en inglés en ciencias psicológicas experimentales aplicadas, con fuerte formación cuantitativa y metodológica (LM-51)."
   },
   {
    "id": "trento-cogsci",
@@ -373,11 +433,14 @@
    "admission": "Alta — admite licenciatura (3 años+) con perfil psicología/filosofía/lingüística; B2 inglés",
    "status": "Propuesto · en disputa (descartado el 2026-10-08: cog-neuro sin AI central)",
    "notes": "Hedge accesible y barato. Ojo: non-UE debe tener el título antes del 30-jun del año de entrada (ciclo 2026/27) → UNAM debe estar titulada a tiempo para Fall 2028. Ver notas §6.1.",
-   "url": "",
+   "url": "https://corsi.unitn.it/en/cognitive-science",
    "deadline": "",
-   "tuition": "",
+   "tuition": "€0–4,500/año según puntaje; máx €6,000 (no-UE, 2026-27)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Università di Trento (CIMeC)",
+   "duration": "2 años (120 ECTS)",
+   "description": "Maestría en inglés en ciencia cognitiva con track de modelado computacional y teórico del lenguaje y la cognición, basada en investigación en CIMeC (Rovereto)."
   },
   {
    "id": "masco",
@@ -391,11 +454,14 @@
    "admission": "Alta — Psychologie está explícitamente en la lista de licencias recomendadas",
    "status": "Propuesto · en disputa (descartado el 2026-10-08: no confirmé track en inglés)",
    "notes": "Nuevo (2026-09). Verificar viabilidad real de track 100% inglés y tarifa exacta para no-UE antes de aplicar.",
-   "url": "",
+   "url": "https://allsh.univ-amu.fr/fr/formation/masters/master-sciences-cognitives",
    "deadline": "",
-   "tuition": "",
+   "tuition": "€3,950/año no-UE (2026-27; exención posible) + €105 CVEC",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Aix-Marseille Université (ILCB)",
+   "duration": "2 años (120 ECTS)",
+   "description": "Máster interdisciplinario en ciencias cognitivas con énfasis en neuroimagen y métodos computacionales; parcours M2 Langage, communication et cerveau con apoyo del ILCB."
   },
   {
    "id": "cambridge-hiai",
@@ -409,11 +475,14 @@
    "admission": "Condicional — exige honours First-class (o equivalente); requiere evidenciar \"preparación computacional significativa\" (",
    "status": "Propuesto · sin revisar",
    "notes": "Mayor techo temático del bloque para la ambición de investigación tipo Anthropic; mayor riesgo de admisión. Deadline en conflicto entre fuentes (20 ene 2026 vs. 1 oct 2026) — verificar directamente.",
-   "url": "",
+   "url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/iethmphia",
    "deadline": "",
-   "tuition": "",
+   "tuition": "£51,084/año (overseas, 2027-28)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "University of Cambridge (Centre for Human-Inspired AI)",
+   "duration": "9 meses",
+   "description": "MPhil técnico e interdisciplinario sobre desarrollo de IA responsable inspirada en la cognición humana, con módulos y tesis de investigación supervisada."
   },
   {
    "id": "cambridge-neuroai",
@@ -427,11 +496,14 @@
    "admission": "Alta — requisito textual: diseñado para graduados de \"neuroscience, psychology, engineering, computer science, or relate",
    "status": "Propuesto · sin revisar",
    "notes": "Programa nuevo (primeras cohortes 2025–26/2026–27) — cumple con el pedido de detectar tracks recién lanzados. Deadline 2026/27: cerró 2 dic 2025; 2027/28 abre ~sep 2026 (proxy 2028: deadline ~inicios dic 2027 — cae al arranque de su ventana de aplicación). Tuition no confirmada (asumir £40k+, banda internacional de Cambridge); Gates Cambridge como ruta de beca a verificar. Débil en CLT/EdTech; fuerte en modelado comp",
-   "url": "",
+   "url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/cvbsmpnis",
    "deadline": "",
-   "tuition": "",
+   "tuition": "£45,894/año (overseas, 2027-28)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "University of Cambridge (Cambridge Mind and Brain Institute / MRC CBU)",
+   "duration": "10 meses",
+   "description": "MPhil que combina neurociencia e inteligencia artificial con cursos avanzados y un proyecto de investigación individual extenso."
   },
   {
    "id": "aire",
@@ -445,11 +517,14 @@
    "admission": "Alta — sin gate disciplinar; selección por entrevista con equipo pedagógico",
    "status": "Propuesto · sin revisar",
    "notes": "Único track de learning sciences en inglés encontrado en Francia — combinar con el track Digital Sciences para el eje \"building con AI\". ⚠️ el marketing del programa enfatiza sostenibilidad/salud planetaria más que EdTech — verificar directamente que el contenido ML/DL sea sustancial antes de comprometerse. Deadline 2026: 28 ene–30 mar (proxy 2028 similar). Tuition €254+€105 CVEC (re-verificar, ver notas transversale",
-   "url": "",
+   "url": "https://master.learningplanetinstitute.org/en",
    "deadline": "",
-   "tuition": "",
+   "tuition": "€255/año (moratoria 2026-27); riesgo €3,950 no-UE",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Université Paris Cité / Learning Planet Institute",
+   "duration": "2 años (120 ECTS)",
+   "description": "Máster interdisciplinario en inglés (AIRE) con parcours en learning sciences, ciencias digitales y ciencias de la vida, basado en proyectos y prácticas."
   },
   {
    "id": "tuebingen",
@@ -463,11 +538,14 @@
    "admission": "Alta — psicología listada explícitamente (DAAD-listed program)",
    "status": "Propuesto · en disputa (descartado el 2026-10-08: sin verificar)",
    "notes": "~€6,800 total (4 sem.) — más barato del portafolio global. DAAD beca disponible. 15 plazas; muy selectivo. Distinto del MSc Cognitive Science (alemán) ya descartado.",
-   "url": "",
+   "url": "https://uni-tuebingen.de/en/study/finding-a-course/degree-programs-available/detail/course/neural-and-behavioural-sciences-master/",
    "deadline": "",
-   "tuition": "",
+   "tuition": "€1,500/semestre no-UE (€3,000/año) + tasa semestral",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Eberhard Karls Universität Tübingen (con institutos Max Planck)",
+   "duration": "2 años (4 semestres, 120 ECTS)",
+   "description": "Maestría en inglés orientada a investigación en neurociencia y comportamiento, con rotaciones de laboratorio y tesis experimental de seis meses."
   },
   {
    "id": "cmu-edtech",
@@ -481,11 +559,14 @@
    "admission": "Alta — HCII declara explícitamente que no exige un grado específico y valora perfiles interdisciplinarios de ciencias so",
    "status": "Propuesto · sin revisar",
    "notes": "Candidato de alta prioridad, nuevo. Verificar deadline exacto y costo (~$27k/semestre; becas parciales METALS Merit).",
-   "url": "",
+   "url": "https://metals.hcii.cmu.edu/",
    "deadline": "",
-   "tuition": "",
+   "tuition": "$27,000/semestre (~$81,000 total, 2026-27) + cuotas",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Carnegie Mellon University (Human-Computer Interaction Institute)",
+   "duration": "12 meses (3 semestres)",
+   "description": "Maestría profesional que integra ciencias del aprendizaje, diseño, tecnología y analítica, con un proyecto capstone para un cliente externo."
   },
   {
    "id": "mit-media",
@@ -499,11 +580,14 @@
    "admission": "Alta — acepta explícitamente psicología, sin bachelor STEM, sin GRE",
    "status": "Propuesto · sin revisar",
    "notes": "Nuevo — agregado 2026-07. Hallazgo top del research. Financiamiento completo (tuition+stipend) incluso a nivel SM. Admisión por grupo/PI — contactar a Maes/Breazeal/Picard antes de aplicar.",
-   "url": "",
+   "url": "https://www.media.mit.edu/graduate-program/about-media-arts-sciences/",
    "deadline": "",
-   "tuition": "",
+   "tuition": "Financiado (tuition+stipend); nominal $66,720/año 2026-27",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Massachusetts Institute of Technology (MIT Media Lab)",
+   "duration": "2 años",
+   "description": "Maestría de investigación en el MIT Media Lab, con admisión por grupo de investigación y tesis; posible paso al doctorado MAS."
   },
   {
    "id": "stanford-ldt",
@@ -517,11 +601,14 @@
    "admission": "Condicional / por confirmar — terminal, sin GRE, abierto a externos de diversos backgrounds, pero no se confirmó explíci",
    "status": "Propuesto · sin revisar",
    "notes": "Nuevo — agregado 2026-07. Verificar directamente con admisiones GSE antes de aplicar.",
-   "url": "",
+   "url": "https://ed.stanford.edu/ldt",
    "deadline": "",
-   "tuition": "",
+   "tuition": "$73,953 total (45 unidades, 2026-27)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Stanford University (Graduate School of Education)",
+   "duration": "11 meses (4 trimestres, 45 unidades)",
+   "description": "Maestría (MS) residencial en diseño de experiencias de aprendizaje con tecnología, que combina teoría del aprendizaje, diseño, evaluación, prácticas y proyecto final."
   },
   {
    "id": "nyu-psy",
@@ -535,11 +622,14 @@
    "admission": "Alta — es la vía natural para un bachelor en psicología",
    "status": "Propuesto · sin revisar",
    "notes": "Nuevo — agregado 2026-07. ⚠️ Sin financiamiento institucional para el MA (autofinanciado) — riesgo financiero alto, explorar SECIHTI/Fulbright-García Robles antes de comprometer.",
-   "url": "",
+   "url": "https://as.nyu.edu/departments/psychology/graduate/ma-psychology.html",
    "deadline": "",
-   "tuition": "",
+   "tuition": "$2,426/crédito; ~$87,300 total (36 cr., 2026-27)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "New York University (Graduate School of Arts & Science)",
+   "duration": "2 años (36 créditos)",
+   "description": "Maestría en psicología general con área de enfoque opcional, cursos de estadística y núcleo, y examen comprensivo o tesis."
   },
   {
    "id": "trento-hci",
@@ -553,11 +643,14 @@
    "admission": "Condicional — exige créditos SSD M-PSI (psicología) e ING-INF/INF01 (informática) explícitos",
    "status": "Propuesto · sin revisar",
    "notes": "Nuevo (2026-09). Requeriría remediación de créditos de programación/informática. 30 plazas, 20 reservadas a no-UE.",
-   "url": "",
+   "url": "https://corsi.unitn.it/en/human-computer-interaction",
    "deadline": "",
-   "tuition": "",
+   "tuition": "€0–6,500/año según mérito (máx. €10,000; no-UE 26-27)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Università di Trento",
+   "duration": "2 años (120 ECTS)",
+   "description": "Maestría en inglés en Rovereto sobre diseño de tecnologías centradas en necesidades humanas, combinando psicología, ciencia cognitiva e informática."
   },
   {
    "id": "bari",
@@ -571,11 +664,14 @@
    "admission": "Alta (probable) — admite psicología (L-24) explícitamente; verificar los 30 CFU de sectores exactos antes de aplicar",
    "status": "Propuesto · sin revisar",
    "notes": "Agregado 2026-07-09. Programa nuevo (1ª cohorte AY2025-26), único en Italia con esta combinación. Tuition muy baja (ISEE-based, exención posible).",
-   "url": "",
+   "url": "https://www.uniba.it/it/corsi/decision-science",
    "deadline": "",
-   "tuition": "",
+   "tuition": "€1,000/año + tasa regional (Grupo C, 2026-27)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Università degli Studi di Bari Aldo Moro",
+   "duration": "2 años (120 ECTS)",
+   "description": "Maestría en inglés (LM-55) que integra análisis cuantitativo, ciencia cognitiva, neurociencia, machine learning e IA aplicados a la toma de decisiones."
   },
   {
    "id": "messina",
@@ -589,11 +685,14 @@
    "admission": "Alta — admisión libre, acepta psicología explícitamente",
    "status": "Propuesto · sin revisar",
    "notes": "Agregado 2026-07-09. Amplitud sobre profundidad; HuM-HI lab es el más directo a interacción humano-IA de las opciones italianas nuevas.",
-   "url": "",
+   "url": "https://cognitive-science-and-theory-of-communication.cdl.unime.it/en",
    "deadline": "",
-   "tuition": "",
+   "tuition": "€356/año (Grupo C, no-UE; vigente desde 2025-26)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Università degli Studi di Messina",
+   "duration": "2 años (120 ECTS)",
+   "description": "Maestría interclase en inglés (LM-55/LM-92) que combina filosofía de la mente, psicología cognitiva, neurociencia, IA y teorías de la comunicación."
   },
   {
    "id": "nyu-ltxd",
@@ -607,11 +706,14 @@
    "admission": "Alta — no exige background cuantitativo; da la bienvenida explícita a psicología",
    "status": "Propuesto · sin revisar",
    "notes": "Agregado 2026-07-09. Mejor fit CLT×AI encontrado hasta ahora (CLT nace en learning sciences). Débil en becas — costoso sin financiamiento institucional garantizado.",
-   "url": "",
+   "url": "https://steinhardt.nyu.edu/degree/ma-learning-technology-experience-design",
    "deadline": "",
-   "tuition": "",
+   "tuition": "$2,363/crédito + cuotas (30-36 cr; est. 2026-27)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "New York University (Steinhardt)",
+   "duration": "~2 años (30-36 créditos)",
+   "description": "Maestría basada en proyectos sobre diseño y evaluación de tecnologías y experiencias de aprendizaje, con fundamentos en ciencias del aprendizaje."
   },
   {
    "id": "jhu",
@@ -625,11 +727,14 @@
    "admission": "Alta — admite explícitamente psicología, GRE opcional",
    "status": "Propuesto · sin revisar",
    "notes": "Agregado 2026-07-09, con cautela. Incluido bajo la excepción de geografía como top-tier específicamente en ciencia cognitiva (primer departamento de su tipo en EE.UU., 1985) — no por ranking general de la universidad. Sin financiamiento para el MA (a diferencia del PhD) y programa de solo 1 año — riesgo de costo alto sin beca.",
-   "url": "",
+   "url": "https://cogsci.jhu.edu/graduate/ma-program/",
    "deadline": "",
-   "tuition": "",
+   "tuition": "$66,670/año (posgrado KSAS, 2025-26)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Johns Hopkins University (Krieger School of Arts & Sciences)",
+   "duration": "1 año",
+   "description": "Maestría de un año con vías de investigación o de cursos, mentoría docente y proyecto final (capstone) en ciencia cognitiva."
   },
   {
    "id": "bologna-dm",
@@ -643,11 +748,14 @@
    "admission": "Alta — admite directamente la clase L-24 (Psicología); acceso abierto con verificación por entrevista en línea",
    "status": "Propuesto · sin revisar",
    "notes": "Nuevo (2026-09). Programa de nueva creación (primera cohorte 2026/27): sin historial de colocación a PhD. Buen fit en interacción humano-AI, débil en \"building\". La beca International Talents @Unibo tiene tope de edad de 30 años: bloqueada para el candidato.",
-   "url": "",
+   "url": "https://corsi.unibo.it/2cycle/DigitalMinds",
    "deadline": "",
-   "tuition": "",
+   "tuition": "≤€2,550/año + €157 fijo (máx. 2026-27; reducible)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Alma Mater Studiorum – Università di Bologna",
+   "duration": "2 años (120 ECTS)",
+   "description": "Maestría en inglés (LM-55) que combina filosofía, psicología, informática y derecho, centrada en interacción humano-máquina, ética digital y creatividad tecnológica."
   },
   {
    "id": "chieti",
@@ -661,11 +769,14 @@
    "admission": "Alta — acceso libre, sin examen de ingreso; admite explícitamente L-24 (Psicología) junto con L-31/L-35/L-8/L-41",
    "status": "Propuesto · sin revisar",
    "notes": "Nuevo hallazgo, prioridad alta. Único programa hallado con admisión sin fricción para psicología y curso de IA/ML explícito dentro de currículo cognitivo. Verificar fechas exactas ciclo 2027/28.",
-   "url": "",
+   "url": "https://scicomp.unich.it/home-lmscc-16240",
    "deadline": "",
-   "tuition": "",
+   "tuition": "Por confirmar",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Università degli Studi \"G. d'Annunzio\" Chieti-Pescara",
+   "duration": "2 años (120 ECTS)",
+   "description": "Maestría (LM-55) en italiano e inglés que forma analistas de datos con bases psicológicas, técnico-científicas y de programación."
   },
   {
    "id": "nice-edtech",
@@ -679,11 +790,14 @@
    "admission": "Probable — diseño explícitamente interdisciplinario; requisito exacto de admisión no confirmado, verificar directamente",
    "status": "Propuesto · sin revisar",
    "notes": "Nuevo hallazgo, prioridad alta. Fit temático más cercano a CLT×AI de toda esta búsqueda. Fuera de la lista original de universidades a revisar; calificó vía búsqueda de anuncios nuevos.",
-   "url": "",
+   "url": "https://univ-cotedazur.fr/formation/offre-de-formation/msc-in-smart-edtech-co-creativity-and-digital-tools-for-educational-innovation",
    "deadline": "",
-   "tuition": "",
+   "tuition": "€1,500/año (MSc internacional, 2026-27)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "Université Côte d'Azur",
+   "duration": "2 años",
+   "description": "MSc en inglés que combina informática, ciencias de la educación y ciencia cognitiva aplicada para diseñar tecnologías educativas, incluido machine learning."
   },
   {
    "id": "ucl-hci",
@@ -697,11 +811,14 @@
    "admission": "Alta — acepta explícitamente \"computer science, psychology or ergonomics\"",
    "status": "Propuesto · en disputa (descartado el 2026-10-08: fit AI bajo; sin verificar)",
    "notes": "Nuevo (2026-09), top-tier global. Colegiatura ~£39-42k/año (no verificado con precisión).",
-   "url": "",
+   "url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/human-computer-interaction-msc",
    "deadline": "",
-   "tuition": "",
+   "tuition": "£42,700 total (overseas, 2026-27)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "University College London (UCL)",
+   "duration": "1 año (tiempo completo)",
+   "description": "Maestría del UCL Interaction Centre sobre diseño y evaluación de sistemas interactivos, integrando psicología, ciencia cognitiva e informática."
   },
   {
    "id": "nyu-ds",
@@ -715,11 +832,14 @@
    "admission": "Condicional — requiere prerrequisitos cuantitativos (Cálculo I, Álgebra Lineal, Intro CS), cubiertos por transcript ITAM",
    "status": "Propuesto · sin revisar",
    "notes": "Agregado 2026-08-28. Programa generalista de Data Science; el fit depende de documentar en el SOP la intención de trabajar con el cluster Lake/Gureckis. ~$41,994/año.",
-   "url": "",
+   "url": "https://cds.nyu.edu/masters-program/",
    "deadline": "",
-   "tuition": "",
+   "tuition": "~$2,391/crédito, 36 cr (GSAS 2024-25) (sin verificar)",
    "labs": "",
-   "reviewed": false
+   "reviewed": false,
+   "university": "New York University (Center for Data Science)",
+   "duration": "2 años (36 créditos)",
+   "description": "Maestría selectiva en métodos avanzados de ciencia de datos, con base en matemáticas, computación y estadística, y opciones de concentración."
   }
  ],
  "discarded": [

@@ -31,7 +31,8 @@ input{flex:1;min-width:200px}
 .t1{color:var(--t1)}.t2{color:var(--t2)}.t3{color:var(--t3)}.t4{color:var(--t4)}.t5{color:var(--t5)}
 .card h2{font:600 23px/1.2 Fraunces,serif;margin:14px 0 4px}
 .school{color:var(--mute);font-size:13px}
-.full{margin:10px 0 14px;color:var(--mute);font-size:13px}
+.desc{margin:12px 0 14px;font-size:14px;line-height:1.5}
+.link{display:inline-block;margin-top:12px;font-size:13px;font-weight:600;color:var(--accent);text-decoration:none}.link:hover{text-decoration:underline}.link.off{color:var(--mute);font-weight:400}
 .stars{color:var(--gold);letter-spacing:2px}.stars i{color:var(--line);font-style:normal}
 .row{display:flex;justify-content:space-between;gap:10px;font-size:13px;padding:8px 0;border-top:1px solid var(--line)}
 .row span:first-child{color:var(--mute)}.row span:last-child{text-align:right}
@@ -52,7 +53,7 @@ footer{margin-top:48px;color:var(--mute);font-size:12px}
 <div class="controls">
 <input id="q" placeholder="Buscar programa, universidad, lab…">
 <select id="country"><option value="">Todos los países</option></select>
-<select id="rev"><option value="">Todos</option><option value="1">Revisados</option><option value="0">Propuestos (sin revisar)</option></select>
+<select id="rev"><option value="">Revisados y propuestos</option><option value="1">Revisados</option><option value="0">Propuestos (sin revisar)</option></select>
 <select id="tier"><option value="">Todos los tiers</option><option value="1">Tier 1</option><option value="2">Tier 2</option><option value="3">Tier 3</option><option value="4">Tier 4</option><option value="5">Bajo</option></select>
 </div>
 <div class="grid" id="grid"></div>
@@ -77,15 +78,18 @@ function render(){
  $("#grid").innerHTML=D.programs.filter(p=>(!c||p.country==c)&&(!t||p.tier==t)&&(!r||(r=="1")==!!p.reviewed)&&JSON.stringify(p).toLowerCase().includes(q)).map(p=>`
  <article class="card" onclick="this.classList.toggle('open')">
   <span class="tier t${p.tier}">${p.tier==5?"Bajo":"Tier "+p.tier}</span>${p.reviewed?"":' <span class="tier t5">Sin revisar</span>'}
-  <h2>${esc(p.name)}</h2><div class="school">${esc(p.school)} · ${esc(p.country)}</div>
-  <div class="full">${esc(p.full)}</div>
+  <h2>${esc(p.name)}</h2><div class="school">${esc(p.full)} · ${esc(p.country)}</div>
+  ${p.description?`<p class="desc">${esc(p.description)}</p>`:""}
+  <div class="row"><span>Universidad</span><span>${esc(p.university||p.school)}</span></div>
+  <div class="row"><span>Precio</span><span>${esc(p.tuition||"Por confirmar")}</span></div>
+  <div class="row"><span>Duración</span><span>${esc(p.duration||"Por confirmar")}</span></div>
   <div class="row"><span>Fit CLT×AI</span><span class="stars">${"★".repeat(p.fit)}<i>${"★".repeat(5-p.fit)}</i></span></div>
   <div class="row"><span>Idioma</span><span>${esc(p.language)}</span></div>
   <div class="row"><span>Admisión</span><span>${esc(p.admission)}</span></div>
   <div class="status">${esc(p.status)}</div>
+  ${/^https?:\/\//.test(p.url)?`<a class="link" href="${esc(p.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Ver programa oficial ↗</a>`:`<span class="link off">Link por confirmar</span>`}
   <div class="detail"><p>${esc(p.notes)}</p>
-   ${p.deadline?`<p><b>Deadline:</b> ${esc(p.deadline)}</p>`:""}${p.tuition?`<p><b>Costo:</b> ${esc(p.tuition)}</p>`:""}${p.labs?`<p><b>Labs:</b> ${esc(p.labs)}</p>`:""}
-   ${/^https?:\/\//.test(p.url)?`<p><a href="${esc(p.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Sitio oficial ↗</a></p>`:""}</div>
+   ${p.deadline?`<p><b>Deadline:</b> ${esc(p.deadline)}</p>`:""}${p.labs?`<p><b>Labs:</b> ${esc(p.labs)}</p>`:""}</div>
  </article>`).join("");
 }
 ["#q","#country","#tier","#rev"].forEach(s=>$(s).addEventListener("input",render));

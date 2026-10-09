@@ -117,6 +117,21 @@ Si un programa **no** cumple los criterios, no agregarlo; opcionalmente anotarlo
 - Requisitos reportados: IELTS 7.0 / TOEFL 100; programación; ~30 ECTS mate.
 - Limitación: datos tomados de resultados de búsqueda/agregadores; el acceso a sitios oficiales estuvo bloqueado en esta corrida.
 
+### Ficha por programa: universidad, precio, duración, link (estudiante no-UE; datos 2026-27, re-verificar para Fall 2028)
+
+| Programa | Universidad | Precio de referencia | Duración | Link oficial | Fuente / nota |
+|---|---|---|---|---|---|
+| cog-SUP NCIA | Université Paris Cité + Sorbonne Université | €255/año (moratoria 2026-27; sin ella ~€3,950) | 2 años (120 ECTS) | https://u-paris.fr/master-in-cognitive-science-computational-neuroscience-and-artificial-intelligence-ncia/ | Université Paris Cité mantiene moratoria de tarifas diferenciadas en 2026-27 (no-UE paga tarifa UE). Decreto del 19-may-2026 limita exenciones; sin moratoria la tarifa diferenciada de máster es ~€3,950. https://u-paris.fr/droits-dinscription-tarifs-exonerations |
+| ENS-PSL Cogmaster | ENS-PSL (École normale supérieure – PSL) + EHESS | Por confirmar: ~€255 con exención PSL; ~€3,950 sin ella | 2 años (120 ECTS) | https://www.psl.eu/en/education/cognitive-science-cogmaster | PSL históricamente iguala a no-UE con tarifa UE; ENS fija su propia tarifa. Confirmar con cognition.ens.fr. El nombre "Cogmaster" ya no se usa: desde 2024 es el Master Cognitive Science ENS-PSL + EHESS. |
+| Milano HCAI | Università degli Studi di Milano + Università di Milano-Bicocca + Università di Pavia | ~€1,500–4,200/año según ingresos (sin verificar) | 2 años (120 ECTS) | https://www.unimi.it/en/education/master-programme/human-centered-artificial-intelligence | Cifra de agregador, sin verificar en unimi.it. |
+| Trento AIS | Università di Trento | €0–6,500/año según puntaje de admisión | 2 años (120 ECTS) | https://corsi.unitn.it/en/artificial-intelligence-systems | Tabla no-UE residentes fuera de Italia: 90–100 exento; 70–89.9 €1,000; 60–69.9 €3,000; 50–59.9 €6,500 (tabla de 2024/25; confirmar vigencia). |
+| Padova CogTech | Università degli Studi di Padova | €2,790–2,990/año (tarifa fija no-UE 2026-27) | 2 años (120 ECTS) | https://www.unipd.it/en/corsi-di-laurea/cognitive-science-human-centric-technologies-cogtech | Tarifa fija no-UE no residente 2026-27: grupo A €2,790 / grupo B €2,990 (confirmar grupo del programa). https://www.unipd.it/en/tuition-fees |
+| Padova CNNP (PS1932) | Università degli Studi di Padova | €2,790–2,990/año (tarifa fija no-UE 2026-27) | 2 años (120 ECTS) | https://www.unipd.it/en/corsi-di-laurea/cognitive-neuroscience-and-clinical-neuropsychology | Igual que CogTech. Código actual PS2966 (antes PS1932). |
+| Bologna AI | Alma Mater Studiorum – Università di Bologna | Según ingresos; máximo por confirmar | 2 años (120 ECTS) | https://www.unibo.it/en/study/second-cycle-degree/programme/2026/6700 | Máximo en "Tabella importi massimi 2026-2027" de unibo.it. La tarifa reducida no-OCDE (€1,200 + €157.04) no aplica: México es miembro de la OCDE. Código del programa cambió de 9063 a 6700 en 2026-27. |
+| Edinburgh Cognitive Science MSc | University of Edinburgh | ~£45,410/año (provisional) | 1 año (180 créditos UK) | https://study.ed.ac.uk/programmes/postgraduate-taught/108-cognitive-science | Ver notas del programa arriba (provisional). |
+
+Descripción breve de cada programa: ver `description` en `dashboard/programs.json`.
+
 ---
 
 ## 8. Evaluados y descartados
