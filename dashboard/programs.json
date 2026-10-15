@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09",
+ "updated": "2026-10-15",
  "programs": [
   {
    "id": "cogsup-ncia",
@@ -30,9 +30,9 @@
    "fit": 4,
    "admission": "Alta pero muy selectiva (~40 plazas M2)",
    "status": "Top prioridad",
-   "notes": "Aplicar también al PSL PhD Track (deadline ~11 dic 2027). Requiere muestra escrita de investigación.",
-   "url": "",
-   "deadline": "PhD Track ~2027-12-11",
+   "notes": "Aplicar también al PSL PhD Track (deadline ~11 dic 2027). Requiere muestra escrita de investigación. Actualización 2026-10-15: página oficial indica ~50 plazas y entrada solo a M1 (no M2); abierto a bachelors de ciencias o humanidades; solicitud solo por portal PSL (no Mon Master).",
+   "url": "https://master-cognitive-science.ens.psl.eu/",
+   "deadline": "Ventana esperada ene–feb 2028 (2027: \"por anunciar\", ene 15–feb 24 en 2026); PhD Track ~2027-12-11",
    "tuition": "",
    "labs": "",
    "reviewed": true
@@ -720,6 +720,24 @@
    "tuition": "",
    "labs": "",
    "reviewed": false
+  },
+  {
+   "id": "upf-csim",
+   "name": "UPF Cognitive Systems and Interactive Media",
+   "full": "Master in Cognitive Systems and Interactive Media (CSIM)",
+   "school": "Universitat Pompeu Fabra (Barcelona)",
+   "country": "España",
+   "tier": 3,
+   "language": "Inglés (B2.1 requerido)",
+   "fit": 3,
+   "admission": "Alta (probable) — acepta cualquier licenciatura oficial",
+   "status": "Nuevo (2026-10-15) · datos sin verificar en sitio oficial",
+   "notes": "Sistemas cognitivos + medios interactivos (ingeniería UPF); fit con human-AI interaction y modelado cognitivo, pero CLT/learning sciences no confirmado. Requiere CV, carta de motivación 600–800 palabras y 1 carta de recomendación en inglés. Acceso al sitio oficial bloqueado en esta corrida: admisión/idioma vienen de agregador (Mastersportal); revisar currículo real antes de priorizar.",
+   "url": "https://www.upf.edu/web/cognitive-systems-interactive-media",
+   "deadline": "Sin verificar",
+   "tuition": "~€5,750/año no-UE (inferido de tabla oficial de precios UPF; columnas sin etiquetar) · becas: SECIHTI, becas propias UPF por revisar",
+   "labs": "UPF Engineering (Music Technology Group, Center for Brain and Cognition) — faculty por identificar",
+   "reviewed": false
   }
  ],
  "discarded": [
@@ -757,6 +775,61 @@
    "name": "EMAI (Erasmus Mundus)",
    "country": "Varios",
    "reason": "AI puro."
+  },
+  {
+   "name": "UPF Master in Brain and Cognition",
+   "country": "España",
+   "reason": "Neurociencia cognitiva con AI/ML marginal; fit CLT×AI bajo."
+  },
+  {
+   "name": "Birkbeck MSc Cognitive Science and AI",
+   "country": "Reino Unido",
+   "reason": "No top-tier global según criterio; entrada 2027-28 listada, 2028 sin confirmar."
+  },
+  {
+   "name": "Aarhus MSc Cognitive Science",
+   "country": "Dinamarca",
+   "reason": "No top-tier global; fit AI-cognición marginal."
+  },
+  {
+   "name": "VU Amsterdam AI – Cognitive Science",
+   "country": "Países Bajos",
+   "reason": "No top-tier global; redundante con UvA BCS ya en lista."
+  },
+  {
+   "name": "Utrecht MSc Artificial Intelligence",
+   "country": "Países Bajos",
+   "reason": "AI puro sin componente cognitivo central."
+  },
+  {
+   "name": "Lisboa (ULisboa) MSc Cognitive Science",
+   "country": "Portugal",
+   "reason": "Clases por defecto en portugués; sin track inglés viable."
+  },
+  {
+   "name": "Lisboa MSc Interaction Design",
+   "country": "Portugal",
+   "reason": "Orientación diseño/UX, sin componente AI; fit marginal."
+  },
+  {
+   "name": "Lusófona Cognitive Science and Education",
+   "country": "Portugal",
+   "reason": "Idioma de instrucción no confirmado; sin evidencia de AI."
+  },
+  {
+   "name": "Pavia Psychology, Neuroscience and Human Sciences",
+   "country": "Italia",
+   "reason": "Psicología cognitiva/neurociencia sin componente AI."
+  },
+  {
+   "name": "Pisa Neuroscience",
+   "country": "Italia",
+   "reason": "Neurociencia sistémica; sin AI-cognición central. Info solo de agregador."
+  },
+  {
+   "name": "EPFL / ETH Zürich (maestrías)",
+   "country": "Suiza",
+   "reason": "No hay MSc de cog-sci/learning sciences/human-AI; el JDPLS Learning Sciences es PhD (sin plazas abiertas) y admisión de MSc exige prerrequisitos por programa."
   }
  ]
 }
