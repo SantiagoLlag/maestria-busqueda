@@ -79,13 +79,14 @@ Programas que conectan **interacción humano-AI, modelado computacional de la co
 | Programa | País | Tier | Idioma | Fit temático (CLT×AI + building) | Feasibilidad admisión (perfil psicología) | Estatus / Notas |
 |---|---|---|---|---|---|---|
 | **cog-SUP NCIA** (Paris Cité + Sorbonne, Master Cognitive Science, track Computational Neuroscience & AI) | Francia | **1** | Inglés (mayoría) + algunas electivas en francés | ★★★★★ — lab MOCAH/LIP6 (Human Learning-Centered Computing, Bouchet) + curso Human-AI Interactions + ML real (Sigaud RL, Gallinari AMAL) | Alta — perfil "psicología con herramientas computacionales" es su perfil ideal alterno | **Top prioridad.** Coincidencia más limpia con el objetivo. Contactar a Bouchet/Khamassi antes de aplicar. |
-| **ENS-PSL Cogmaster** (ENS-PSL & EHESS, Master Cognitive Science) | Francia | **1** | Inglés (algo de contenido en francés) | ★★★★ — cog-sci de élite, modelling track; menos ingeniería de building que NCIA | Alta pero muy selectiva (~40 plazas M2) | **Top prioridad.** Aplicar también al PSL PhD Track (5 años financiado). Requiere muestra escrita de investigación. |
+| **ENS-PSL Cogmaster** (ENS-PSL & EHESS, Master Cognitive Science) | Francia | **1** | Inglés (algo de contenido en francés) | ★★★★ — cog-sci de élite, modelling track; menos ingeniería de building que NCIA | Alta pero muy selectiva (~50 plazas, entrada M1) | **Top prioridad.** Aplicar también al PSL PhD Track (5 años financiado). Requiere muestra escrita de investigación. Actualizado 2026-10-15: ~50 plazas, entrada solo M1; ventana esperada ene–feb. |
 | **Milano HCAI** (Università di Milano Statale + Bicocca + Pavia, Human-Centered AI) | Italia | **2** | Inglés (100%) | ★★ — track Human-AI Interaction; orientación profesionalizante | Alta — el requisito 12 CFU cuantitativos + 12 CFU psico calza con el perfil mixto | **Safety de admisión.** Barato. Señal de investigación más débil. |
 | **Trento AIS — Neurocognitive Architectures** (Università di Trento, MSc AI Systems) | Italia | **3** | Inglés (100%) | ★★★★ — fusión neuro-AI real vía CIMeC | **Condicional** — exige ≥12 ECTS INF/01 o ING-INF/05; psicología no califica sin remediación | Aplicar solo si se resuelven créditos CS vía single courses antes de marzo 2028. |
 | **Padova CogTech** (Università di Padova, Cognitive Science for Human-Centric Technologies) | Italia | **4** | Inglés | ★★★ — cognición + tecnología | Alta (acepta STEM y psicología) | Hedge accesible. Formato blended resta peso para PhD. |
 | **Bologna AI** (Alma Mater Studiorum, MSc Artificial Intelligence) | Italia | bajo | Inglés (100%) | ★★★ — AI puro fuerte, fusión con psicología mínima | Baja sin remediar — bachelor fuera de clases elegibles (L-35 etc.) + API≥26/30 + CSCI≥18 CFU | **Probable descarte.** Admisión incierta + mal fit con CLT. Reabrir solo con remediación CS. |
 | **Padova Cognitive Neuroscience & Clinical Neuropsychology** (PS1932) | Italia | bajo | Inglés | ★★ — curriculum clínico/experimental, casi sin AI | Media-alta (acepta licenciatura en psicología) | **Probable descarte.** Accesible pero contenido equivocado (empuja a neuropsicología clínica). |
 | **Edinburgh Cognitive Science MSc** (University of Edinburgh, Informatics + PPLS) | Reino Unido | **1** (top-tier global; fuera de IT/FR) | Inglés | ★★★★ — cog-sci computacional (Informatics + Psychology/Philosophy/Language Sciences), opciones HCI y ML; building moderado | **Condicional/media** — psicología aparece como bachelor elegible, pero exige experiencia en programación + ~30 ECTS de matemáticas (calculus, álgebra lineal, discreta); el transcript ITAM lo cubre. Oferta típica pide primera clase (muy competitivo) | **Nuevo (2026-10-08).** Colegiatura internacional ~£45,410/año (provisional, sin verificar en sitio oficial): costo es la barrera principal. Verificar requisitos en sitio oficial. |
+| **UPF Cognitive Systems and Interactive Media** (Universitat Pompeu Fabra, Barcelona) | España | **3** | Inglés (B2.1) | ★★★ — sistemas cognitivos + medios interactivos; CLT/learning sciences no confirmado | Alta (probable) — acepta cualquier licenciatura oficial | **Nuevo (2026-10-15).** Datos sin verificar en sitio oficial. ~€5,750/año no-UE (inferido). |
 
 ---
 
@@ -117,6 +118,13 @@ Si un programa **no** cumple los criterios, no agregarlo; opcionalmente anotarlo
 - Requisitos reportados: IELTS 7.0 / TOEFL 100; programación; ~30 ECTS mate.
 - Limitación: datos tomados de resultados de búsqueda/agregadores; el acceso a sitios oficiales estuvo bloqueado en esta corrida.
 
+**UPF Cognitive Systems and Interactive Media (CSIM)**
+- URL oficial: https://www.upf.edu/web/cognitive-systems-interactive-media (no se pudo abrir; bloqueado). Tabla de precios oficial: https://www.upf.edu/en/web/masters/preus
+- Deadline próximo ciclo: sin verificar.
+- Colegiatura / becas: ~€5,750/año no-UE (inferido; columnas sin etiquetar). Becas: SECIHTI, UPF por revisar.
+- Admisión (de agregador): cualquier licenciatura oficial; CV, carta 600–800 palabras y 1 recomendación en inglés; inglés B2.1.
+- Labs/faculty: UPF Engineering (MTG, Center for Brain and Cognition); identificar supervisores en HCI/cognitive modelling.
+
 ---
 
 ## 8. Evaluados y descartados
@@ -136,6 +144,17 @@ Si un programa **no** cumple los criterios, no agregarlo; opcionalmente anotarlo
 | Tilburg Cognitive Science & AI | Países Bajos | No top-tier global según criterio; exige bachelor CS/cog-sci con programación. |
 | Aalto HCI (Intelligent & Interactive Systems) | Finlandia | No top-tier en cog-sci; fit AI-cognición marginal. |
 | EMAI (Erasmus Mundus AI) | Varios | AI puro sin componente cognitivo. |
+| UPF Master in Brain and Cognition | España | Neurociencia cognitiva, AI/ML marginal. |
+| Birkbeck MSc Cognitive Science and AI | Reino Unido | No top-tier global; 2028 sin confirmar. |
+| Aarhus MSc Cognitive Science | Dinamarca | No top-tier; fit marginal. |
+| VU Amsterdam AI – Cognitive Science | Países Bajos | No top-tier; redundante con UvA BCS. |
+| Utrecht MSc AI | Países Bajos | AI puro. |
+| ULisboa MSc Cognitive Science | Portugal | Clases en portugués. |
+| ULisboa MSc Interaction Design | Portugal | Diseño/UX sin AI. |
+| Lusófona Cognitive Science and Education | Portugal | Idioma no confirmado; sin AI. |
+| Pavia Psychology, Neuroscience and Human Sciences | Italia | Sin componente AI. |
+| Pisa Neuroscience | Italia | Neurociencia sin AI-cognición central. |
+| EPFL / ETH Zürich (maestrías) | Suiza | Sin MSc relevante; JDPLS es PhD sin plazas abiertas. |
 
 
 ---
