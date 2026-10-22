@@ -86,6 +86,8 @@ Programas que conectan **interacción humano-AI, modelado computacional de la co
 | **Bologna AI** (Alma Mater Studiorum, MSc Artificial Intelligence) | Italia | bajo | Inglés (100%) | ★★★ — AI puro fuerte, fusión con psicología mínima | Baja sin remediar — bachelor fuera de clases elegibles (L-35 etc.) + API≥26/30 + CSCI≥18 CFU | **Probable descarte.** Admisión incierta + mal fit con CLT. Reabrir solo con remediación CS. |
 | **Padova Cognitive Neuroscience & Clinical Neuropsychology** (PS1932) | Italia | bajo | Inglés | ★★ — curriculum clínico/experimental, casi sin AI | Media-alta (acepta licenciatura en psicología) | **Probable descarte.** Accesible pero contenido equivocado (empuja a neuropsicología clínica). |
 | **Edinburgh Cognitive Science MSc** (University of Edinburgh, Informatics + PPLS) | Reino Unido | **1** (top-tier global; fuera de IT/FR) | Inglés | ★★★★ — cog-sci computacional (Informatics + Psychology/Philosophy/Language Sciences), opciones HCI y ML; building moderado | **Condicional/media** — psicología aparece como bachelor elegible, pero exige experiencia en programación + ~30 ECTS de matemáticas (calculus, álgebra lineal, discreta); el transcript ITAM lo cubre. Oferta típica pide primera clase (muy competitivo) | **Nuevo (2026-10-08).** Colegiatura internacional ~£45,410/año (provisional, sin verificar en sitio oficial): costo es la barrera principal. Verificar requisitos en sitio oficial. |
+| **UPF Cognitive Systems and Interactive Media (CSIM)** (Universitat Pompeu Fabra, Barcelona) | España | **2** | Inglés (100%) | ★★★★ — cog-sci + HCI + sistemas interactivos/ML; currículo CLT/human-AI por confirmar | Alta — psicología listada explícitamente como perfil de entrada; B2 inglés valorado | **Nuevo (2026-10-22).** Master 12 meses, ~€5,750/año no-UE (barato). Datos vía buscador; sitio oficial inaccesible por fetch en esta corrida: verificar. |
+
 
 ---
 
@@ -117,6 +119,19 @@ Si un programa **no** cumple los criterios, no agregarlo; opcionalmente anotarlo
 - Requisitos reportados: IELTS 7.0 / TOEFL 100; programación; ~30 ECTS mate.
 - Limitación: datos tomados de resultados de búsqueda/agregadores; el acceso a sitios oficiales estuvo bloqueado en esta corrida.
 
+**UPF Cognitive Systems and Interactive Media (CSIM)**
+- URL oficial: https://www.upf.edu/web/csim (admisión: https://www.upf.edu/web/csim/access-admission)
+- Deadline: UPF opera 5 convocatorias por año (ciclo 2025-26: 1ª 14/11/2025–14/01/2026; la 5ª no se recomienda a internacionales por visa). Confirmar calendario 2027-28 para Fall 2028.
+- Colegiatura / becas: €5,749.8/año no-UE (2026-27) vs €1,302 UE; +€218,15 si el título no-UE no está homologado. Becas: ver https://www.upf.edu/web/csim/grants-scholarships; SECIHTI.
+- Labs/faculty: Music Technology Group, SPECS (Verschure), Dept. of Engineering UPF; verificar supervisores en human-AI/educational tech.
+- Admisión: bachelor oficial + transcript + CV en inglés; psicología listada como perfil válido (fuente secundaria; confirmar en oficial).
+
+### Cambios detectados en programas ya listados (2026-10-22)
+- **Edinburgh Cog Sci:** rondas 31 mar y 31 may (entrada sep 2027); requisitos 2028-29 salen ~oct 2027; pide 2:1 o equivalente en disciplina relevante.
+- **UCL HCI:** solicitudes entrada sep 2027: 19 oct 2026–12 feb 2027.
+- **ENS-PSL Cogmaster:** M1 2027: 14 ene–24 feb 2027, 100% en inglés, sin test oficial de inglés.
+- **Milano HCAI:** clase LM-55 (cognitive science), 100% inglés; fechas 2027/28 sin confirmar.
+
 ---
 
 ## 8. Evaluados y descartados
@@ -136,6 +151,16 @@ Si un programa **no** cumple los criterios, no agregarlo; opcionalmente anotarlo
 | Tilburg Cognitive Science & AI | Países Bajos | No top-tier global según criterio; exige bachelor CS/cog-sci con programación. |
 | Aalto HCI (Intelligent & Interactive Systems) | Finlandia | No top-tier en cog-sci; fit AI-cognición marginal. |
 | EMAI (Erasmus Mundus AI) | Varios | AI puro sin componente cognitivo. |
+| Elisava Human Interaction and AI | España | Escuela de diseño privada; fit psicología/CLT marginal. |
+| Univ. Lisboa Cognitive Science | Portugal | Docencia en portugués por defecto; sin track inglés confirmado. |
+| Minho AI / Évora AI&DS | Portugal | AI/ML puro sin componente cognitivo. |
+| UC3M Applied AI | España | AI aplicada sin componente cognitivo. |
+| Nottingham Comp. Neuroscience, Cognition & AI | Reino Unido | Buen fit pero no top-tier global; exige mate/CS. |
+| Brunel Human-AI Interaction / Newcastle HCAI | Reino Unido | No top-tier global; HCI/UX profesionalizante. |
+| Gothenburg HCAI / TU/e HCAI | Suecia / Países Bajos | No top-tier en cog-sci; bachelor técnico. |
+| Radboud Computational Cognitive Science | Países Bajos | Aún no inicia; revisar para 2028. |
+| UdeM/Mila DESS Machine Learning | Canadá | ML puro, compuerta CS. |
+| ETH / EPFL | Suiza | Sin maestría relevante; solo doctorado conjunto learning sciences (STEM). |
 
 
 ---

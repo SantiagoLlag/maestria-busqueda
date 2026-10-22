@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09",
+ "updated": "2026-10-22",
  "programs": [
   {
    "id": "cogsup-ncia",
@@ -32,7 +32,7 @@
    "status": "Top prioridad",
    "notes": "Aplicar también al PSL PhD Track (deadline ~11 dic 2027). Requiere muestra escrita de investigación.",
    "url": "",
-   "deadline": "PhD Track ~2027-12-11",
+   "deadline": "PhD Track ~2027-12-11. M1 entrada 2027: 14 ene – 24 feb 2027 (referencia 2028); 100% en inglés, sin test de inglés oficial",
    "tuition": "",
    "labs": "",
    "reviewed": true
@@ -48,11 +48,29 @@
    "fit": 4,
    "admission": "Condicional / media",
    "status": "Nuevo · verificar en sitio oficial",
-   "notes": "Acepta psicología; exige programación + ~30 ECTS de matemáticas (cubiertos por transcript ITAM). Oferta típica pide primera clase. IELTS 7.0 / TOEFL 100.",
+   "notes": "Acepta psicología; exige programación + ~30 ECTS de matemáticas (cubiertos por transcript ITAM). Oferta típica pide primera clase. IELTS 7.0 / TOEFL 100. Requisito oficial: 2:1 UK o equivalente en disciplina relevante (2027-28); requisitos 2028-29 salen oct 2027.",
    "url": "https://study.ed.ac.uk/programmes/postgraduate-taught/108-cognitive-science",
-   "deadline": "Sin verificar",
+   "deadline": "Rondas: 31 mar y 31 may (decisión 31 may/31 jul) para entrada sep 2027; requisitos 2028-29 se publican ~oct 2027. Puede cerrar antes por demanda.",
    "tuition": "~£45,410/año (provisional)",
    "labs": "Informatics + PPLS, Centre for Cognitive Science",
+   "reviewed": true
+  },
+  {
+   "id": "upf-csim",
+   "name": "UPF Cognitive Systems and Interactive Media (CSIM)",
+   "full": "Master in Cognitive Systems and Interactive Media",
+   "school": "Universitat Pompeu Fabra (Barcelona)",
+   "country": "España",
+   "tier": 2,
+   "language": "Inglés (100%)",
+   "fit": 4,
+   "admission": "Alta — psicología listada explícitamente como perfil de entrada",
+   "status": "Nuevo (2026-10-22) · verificar deadlines 2028",
+   "notes": "Master de 12 meses, interdisciplinario (cog-sci + HCI + ML/sistemas interactivos). Acepta psicología; entrevista posible; B2 inglés valorado. Pendiente confirmar currículo CLT/human-AI y calendario Fall 2028 en sitio oficial. Check: homologación de título no-UE (€218,15).",
+   "url": "https://www.upf.edu/web/csim",
+   "deadline": "UPF publica 5 convocatorias/año (ciclo 25-26: 14/11/2025–14/01/2026 la 1ª; 5ª no recomendada a internacionales por visa). Confirmar ciclo 2027-28.",
+   "tuition": "€5,749.8 no-UE (2026-27) vs €1,302 UE",
+   "labs": "Music Technology Group, SPECS lab (Verschure), Dept. of Engineering (UPF); confirmar faculty CLT/human-AI",
    "reviewed": true
   },
   {
@@ -698,7 +716,7 @@
    "status": "Propuesto · en disputa (descartado el 2026-10-08: fit AI bajo; sin verificar)",
    "notes": "Nuevo (2026-09), top-tier global. Colegiatura ~£39-42k/año (no verificado con precisión).",
    "url": "",
-   "deadline": "",
+   "deadline": "Entrada sep 2027: 19 oct 2026 – 12 feb 2027 (referencia para ciclo 2028)",
    "tuition": "",
    "labs": "",
    "reviewed": false
@@ -757,6 +775,61 @@
    "name": "EMAI (Erasmus Mundus)",
    "country": "Varios",
    "reason": "AI puro."
+  },
+  {
+   "name": "Elisava Master in Human Interaction and AI",
+   "country": "España",
+   "reason": "Escuela privada de diseño; fit psicología/CLT marginal, sin señal de investigación; costo alto."
+  },
+  {
+   "name": "Univ. Lisboa Master in Cognitive Science",
+   "country": "Portugal",
+   "reason": "Docencia por defecto en portugués; sin track inglés confirmado. Reevaluar con sitio oficial."
+  },
+  {
+   "name": "Minho Master in Artificial Intelligence",
+   "country": "Portugal",
+   "reason": "AI puro sin componente cognitivo."
+  },
+  {
+   "name": "Évora AI and Data Science",
+   "country": "Portugal",
+   "reason": "ML/data science sin componente cognitivo."
+  },
+  {
+   "name": "UC3M Applied Artificial Intelligence",
+   "country": "España",
+   "reason": "AI aplicada sin componente cognitivo; exige perfil técnico."
+  },
+  {
+   "name": "Nottingham MSc Computational Neuroscience, Cognition and AI",
+   "country": "Reino Unido",
+   "reason": "Buen fit temático pero no top-tier global; exige matemáticas/CS. Reabrir solo si se amplía criterio UK."
+  },
+  {
+   "name": "Brunel Human-AI Interaction MSc / Newcastle Human-Centred AI MSc",
+   "country": "Reino Unido",
+   "reason": "No top-tier global en cog-sci; orientación HCI/UX profesionalizante."
+  },
+  {
+   "name": "Gothenburg Human-centered AI / TU/e HCAI track",
+   "country": "Suecia / Países Bajos",
+   "reason": "No top-tier global en cog-sci; exigen bachelor técnico."
+  },
+  {
+   "name": "Radboud Computational Cognitive Science (especialización)",
+   "country": "Países Bajos",
+   "reason": "Aún no inicia (no disponible para 2027); revisar para 2028."
+  },
+  {
+   "name": "UdeM/Mila DESS Machine Learning",
+   "country": "Canadá",
+   "reason": "ML puro con compuerta CS/mate y práctica industrial; sin componente cognitivo."
+  },
+  {
+   "name": "ETH / EPFL (maestrías)",
+   "country": "Suiza",
+   "reason": "No se encontró maestría de cog-sci/learning sciences/human-AI; solo doctorado conjunto en learning sciences (STEM)."
   }
  ]
 }
