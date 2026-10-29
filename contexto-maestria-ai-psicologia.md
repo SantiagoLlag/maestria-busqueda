@@ -136,7 +136,20 @@ Si un programa **no** cumple los criterios, no agregarlo; opcionalmente anotarlo
 | Tilburg Cognitive Science & AI | Países Bajos | No top-tier global según criterio; exige bachelor CS/cog-sci con programación. |
 | Aalto HCI (Intelligent & Interactive Systems) | Finlandia | No top-tier en cog-sci; fit AI-cognición marginal. |
 | EMAI (Erasmus Mundus AI) | Varios | AI puro sin componente cognitivo. |
+| Vienna MEi:CogSci (Middle European Interdisciplinary Master in Cognitive Science) | Austria | Nuevo enfoque AI/computacional (2026/27) pero no top-tier global según criterio; sin verificar en sitio oficial. Reevaluar si se relaja el criterio geográfico. |
+| Lyon 2 — M2 Sciences cognitives / Interaction homme-machine | Francia | Parcours en francés (solo seminarios en inglés); sin track inglés viable. |
+| Université Côte d'Azur — Master Cognitive Sciences (NeuroMod) | Francia | Idioma no confirmado y sin componente AI claro; el track en inglés relevante (Mod4NeuCog) ya está en la lista. |
 
+
+---
+
+## 8b. Cambios detectados en programas ya listados (corrida 2026-10-29)
+
+- **Padova CogTech:** convocatoria oficial 2026/27 reporta 50 plazas UE y 30 plazas no-UE residentes en el extranjero (el programa SÍ admite mexicanos). Ventana no-UE 2026/27: 7 ene – 7 mar 2026 (fuente secundaria); UE: 10 mar – 10 abr 2026. Esperar convocatoria 2027/28. Contacto: cdl.cogtech@unipd.it. URL: https://www.unipd.it/en/corsi-di-laurea/cognitive-science-human-centric-technologies-cogtech
+- **Edinburgh Cognitive Science MSc:** la página oficial confirma entrada septiembre 2027 (1 año). Las fuentes secundarias contradicen la colegiatura (£22,705 vs £45,410 vs £18,000); el £45,410 de la tabla es dudoso. Verificar en https://study.ed.ac.uk/programmes/postgraduate-taught/108-cognitive-science. Deadline no confirmado (típicamente ~marzo-abril).
+- **cog-SUP / ENS-PSL Cogmaster:** deadlines 2026 observados: cog-SUP 1 mar 2026, Cogmaster M1 24 feb 2026 (fuente secundaria); esperar fechas 2027/28.
+
+> Búsqueda del 2026-10-29: no se agregó ningún programa nuevo; los sitios oficiales de varias universidades no eran accesibles desde el entorno, por lo que no se pudo verificar ningún candidato al nivel requerido.
 
 ---
 
