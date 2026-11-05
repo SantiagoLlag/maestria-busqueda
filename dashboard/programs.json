@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09",
+ "updated": "2026-11-05",
  "programs": [
   {
    "id": "cogsup-ncia",
@@ -720,6 +720,24 @@
    "tuition": "",
    "labs": "",
    "reviewed": false
+  },
+  {
+   "id": "upf-csim",
+   "name": "UPF CSIM — Cognitive Systems and Interactive Media",
+   "full": "Master in Cognitive Systems and Interactive Media",
+   "school": "Universitat Pompeu Fabra, Barcelona",
+   "country": "España",
+   "tier": 3,
+   "language": "Inglés (100%)",
+   "fit": 3,
+   "admission": "Alta/condicional — psicología listada como perfil de ingreso; exige programación previa (coursework ITAM)",
+   "status": "Nuevo · sin revisar",
+   "notes": "1 año, 60 ECTS, ~30 plazas. Cog-sci + HCI + sistemas interactivos; ML/AI limitado (grupo Robotics/AI-ML). Beca del programa sólo para españoles; usar SECIHTI. Datos vía búsqueda (sitio oficial bloqueado).",
+   "url": "https://www.upf.edu/en/web/masters/master-sistemes-cognitius-i-media-interactius",
+   "deadline": "5 convocatorias por ciclo (ej. 2026-27: 14/11/2025–23/08/2026); esperar nov 2027–jun 2028",
+   "tuition": "€5,749.80 total no-UE (2026-27)",
+   "labs": "SPECS-lab, MTG, TIDE, FubIntLab, UbiCA, Robotics/AI-ML",
+   "reviewed": false
   }
  ],
  "discarded": [
@@ -757,6 +775,66 @@
    "name": "EMAI (Erasmus Mundus)",
    "country": "Varios",
    "reason": "AI puro."
+  },
+  {
+   "name": "UPF Master in Brain and Cognition",
+   "country": "España",
+   "reason": "Neurociencia computacional; fit AI×cognición marginal, sin componente human-AI/CLT."
+  },
+  {
+   "name": "Granada MSc Cognitive and Behavioural Neuroscience",
+   "country": "España",
+   "reason": "Experimental/neuropsicológico, sin AI."
+  },
+  {
+   "name": "UB Cognitive Science and Language",
+   "country": "España",
+   "reason": "Orientado a lingüística; sin AI ni human-AI central; no top-tier."
+  },
+  {
+   "name": "Spain AI masters (UA, UDC, UC3M, USC, UB AI)",
+   "country": "España",
+   "reason": "AI técnico; exigen bachelor CS/STEM; sin componente cognitivo."
+  },
+  {
+   "name": "CMU Portugal MHCI (Madeira-ITI)",
+   "country": "Portugal",
+   "reason": "Programa ya no activo."
+  },
+  {
+   "name": "IADE Creative Computing & AI (Lisboa)",
+   "country": "Portugal",
+   "reason": "Orientación diseño/arte, no cognitiva."
+  },
+  {
+   "name": "Lyon 2 M2 Sciences cognitives / Interaction homme-machine",
+   "country": "Francia",
+   "reason": "Sólo M2 (requiere M1 cogsci), mayormente en francés."
+  },
+  {
+   "name": "Paris-Saclay AI Master",
+   "country": "Francia",
+   "reason": "Exige bachelor CS/mate/física; >2,000 solicitudes por ~25 plazas."
+  },
+  {
+   "name": "Toulouse (HMI) / Bordeaux (IPCVAI)",
+   "country": "Francia",
+   "reason": "HMI es CS en francés; IPCVAI es visión por computadora sin componente cognitivo."
+  },
+  {
+   "name": "Tufts MS Computational Cognitive Science (nuevo)",
+   "country": "EE.UU.",
+   "reason": "Programa nuevo pero no top-tier global en el área; reevaluar si gana reputación."
+  },
+  {
+   "name": "Radboud Computational Cognitive Science (track)",
+   "country": "Países Bajos",
+   "reason": "Track pospuesto; no iniciará 2026-27 ni 2027-28."
+  },
+  {
+   "name": "Elisava Human Interaction and AI",
+   "country": "España",
+   "reason": "Posgrado de diseño propio, no maestría académica."
   }
  ]
 }
