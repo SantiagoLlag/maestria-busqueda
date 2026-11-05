@@ -67,7 +67,7 @@ Programas que conectan **interacción humano-AI, modelado computacional de la co
 - **Timeline:** debe ofrecer entrada Fall 2028.
 
 ### Restricción geográfica
-- **Italia o Francia:** incluir si es relevante según los ejes anteriores.
+- **Italia, Francia, España o Portugal:** incluir si es relevante según los ejes anteriores.
 - **Cualquier otra parte del mundo:** incluir **solo si el programa es top-tier global** en ciencia cognitiva / AI-cognición y vale claramente la pena (p. ej. instituciones de primer nivel mundial en el área). No incluir programas mediocres fuera de Italia/Francia solo por existir.
 
 ---
@@ -86,6 +86,7 @@ Programas que conectan **interacción humano-AI, modelado computacional de la co
 | **Bologna AI** (Alma Mater Studiorum, MSc Artificial Intelligence) | Italia | bajo | Inglés (100%) | ★★★ — AI puro fuerte, fusión con psicología mínima | Baja sin remediar — bachelor fuera de clases elegibles (L-35 etc.) + API≥26/30 + CSCI≥18 CFU | **Probable descarte.** Admisión incierta + mal fit con CLT. Reabrir solo con remediación CS. |
 | **Padova Cognitive Neuroscience & Clinical Neuropsychology** (PS1932) | Italia | bajo | Inglés | ★★ — curriculum clínico/experimental, casi sin AI | Media-alta (acepta licenciatura en psicología) | **Probable descarte.** Accesible pero contenido equivocado (empuja a neuropsicología clínica). |
 | **Edinburgh Cognitive Science MSc** (University of Edinburgh, Informatics + PPLS) | Reino Unido | **1** (top-tier global; fuera de IT/FR) | Inglés | ★★★★ — cog-sci computacional (Informatics + Psychology/Philosophy/Language Sciences), opciones HCI y ML; building moderado | **Condicional/media** — psicología aparece como bachelor elegible, pero exige experiencia en programación + ~30 ECTS de matemáticas (calculus, álgebra lineal, discreta); el transcript ITAM lo cubre. Oferta típica pide primera clase (muy competitivo) | **Nuevo (2026-10-08).** Colegiatura internacional ~£45,410/año (provisional, sin verificar en sitio oficial): costo es la barrera principal. Verificar requisitos en sitio oficial. |
+| **UPF CSIM — Cognitive Systems and Interactive Media** (Universitat Pompeu Fabra, Barcelona; SPECS-lab/MTG/TIDE) | España | **3** | Inglés (100%) | ★★★ — cog-sci + HCI + sistemas interactivos; ML/AI sólo vía grupo Robotics/AI-ML y optativas; building moderado; 1 año (60 ECTS) | **Alta/condicional** — psicología nombrada explícitamente como perfil de ingreso, pero exige conocimiento previo de programación (el coursework ITAM lo respalda); ~30 plazas | **Nuevo (2026-11-05).** Barato (~€5,750 total no-UE). Sin beca para mexicanos en el programa (la de CSIM es sólo para españoles). Datos vía búsqueda; sitio oficial bloqueado en esta corrida. |
 
 ---
 
@@ -93,7 +94,7 @@ Programas que conectan **interacción humano-AI, modelado computacional de la co
 
 Agregar un programa a la lista **solo si cumple TODOS** los siguientes:
 
-1. **Geografía:** está en **Italia o Francia**; O bien está en cualquier otro país **y es top-tier global** en ciencia cognitiva / AI-cognición (instituciones de primer nivel mundial en el área).
+1. **Geografía:** está en **Italia, Francia, España o Portugal**; O bien está en cualquier otro país **y es top-tier global** en ciencia cognitiva / AI-cognición (instituciones de primer nivel mundial en el área).
 2. **Fit temático:** conecta AI con psicología/ciencia cognitiva — idealmente CLT, interacción humano-AI, modelado computacional de la cognición, learning sciences/educational technology, o ciencia cognitiva computacional. **Excluir** AI/ML puro sin componente cognitivo (salvo que sea excepcional y top-tier). **Excluir** neuro/psicología clínica sin AI.
 3. **Viabilidad de admisión:** admite con una **licenciatura en psicología** (o acepta explícitamente perfiles interdisciplinarios / de ciencia cognitiva). Si tiene compuerta dura de bachelor cuantitativo/CS, marcar como **"condicional"**, no como recomendado.
 4. **Idioma:** existe un track viable en **inglés** (o inglés + francés/italiano manejable). Excluir programas solo en idioma local sin track inglés.
@@ -117,6 +118,22 @@ Si un programa **no** cumple los criterios, no agregarlo; opcionalmente anotarlo
 - Requisitos reportados: IELTS 7.0 / TOEFL 100; programación; ~30 ECTS mate.
 - Limitación: datos tomados de resultados de búsqueda/agregadores; el acceso a sitios oficiales estuvo bloqueado en esta corrida.
 
+
+**UPF CSIM — Cognitive Systems and Interactive Media** (agregado 2026-11-05)
+- URL oficial: https://www.upf.edu/en/web/masters/master-sistemes-cognitius-i-media-interactius (info adicional: https://www.upf.edu/web/csim/about-this-master)
+- Deadline próximo ciclo: UPF abre 5 convocatorias por ciclo (ciclo 2026-27: 14/11/2025–14/01/2026, 15/01–04/03, 05/03–27/04, 28/04–05/06, 01/07–23/08/2026). Para Fall 2028 esperar convocatorias análogas nov 2027–jun 2028; verificar calendario en https://www.upf.edu/en/web/masters/calendari-de-preinscripcio
+- Colegiatura / becas: €5,749.80 total (60 ECTS) para no-UE en 2026-27; +€218.15 si el título no-UE no está homologado. Beca Catalunya-La Pedrera (€5,000) sólo para nacionalidad española; La Caixa postgrad. excluye mexicanos. Palanca realista: SECIHTI.
+- Labs/faculty: SPECS-lab (Verschure, cognitive systems/robótica), MTG, TIDE (educational tech/games — relevante a learning sciences), FubIntLab, UbiCA, grupo Robotics/AI-ML. Confirmar docentes en sitio oficial.
+- Admisión: título EHEA o equivalente de cualquier área; psicología listada entre perfiles; programación previa obligatoria; inglés B2.1; CV, carta (600-800 palabras), 1 recomendación; posible entrevista.
+- Limitación: datos de snippets de búsqueda (upf.edu no accesible desde esta sesión); no se pudo confirmar el listado de cursos ML/HCI. Fit CLT×AI moderado.
+
+**Cambios detectados en programas ya listados (2026-11-05)**
+- PSL Cogmaster: M1 PSL abre candidaturas 14-ene a 24-feb-2027 (indicio de ventana para ciclo 2028: ~ene-feb 2028; confirmar). Sigue 100% en inglés.
+- Paris-Saclay HCI: 20 plazas; perfiles no-informática (cogsci) aceptados en número limitado con notas excelentes y refuerzo en computación; IELTS 6.0/TOEFL 90.
+- Trento Cognitive Science: página indica solicitudes a inicios del año previo a entrada (ciclo 2027 confirmado: inicio 2027-09-15); misma lógica para 2028.
+- Padova CogTech y Milano HCAI: páginas oficiales sólo muestran 2026/27; sin confirmación 2027/28.
+- Edinburgh: sigue sin verificarse tuition/deadline en sitio oficial.
+
 ---
 
 ## 8. Evaluados y descartados
@@ -136,6 +153,18 @@ Si un programa **no** cumple los criterios, no agregarlo; opcionalmente anotarlo
 | Tilburg Cognitive Science & AI | Países Bajos | No top-tier global según criterio; exige bachelor CS/cog-sci con programación. |
 | Aalto HCI (Intelligent & Interactive Systems) | Finlandia | No top-tier en cog-sci; fit AI-cognición marginal. |
 | EMAI (Erasmus Mundus AI) | Varios | AI puro sin componente cognitivo. |
+| UPF Master in Brain and Cognition | España | Neurociencia computacional; fit AI×cognición marginal, sin componente human-AI/CLT. |
+| Granada MSc Cognitive and Behavioural Neuroscience | España | Experimental/neuropsicológico, sin AI. |
+| UB Cognitive Science and Language | España | Orientado a lingüística; sin AI ni human-AI central; no top-tier. |
+| Spain AI masters (UA, UDC, UC3M, USC, UB AI) | España | AI técnico; exigen bachelor CS/STEM; sin componente cognitivo. |
+| CMU Portugal MHCI (Madeira-ITI) | Portugal | Programa ya no activo. |
+| IADE Creative Computing & AI (Lisboa) | Portugal | Orientación diseño/arte, no cognitiva. |
+| Lyon 2 M2 Sciences cognitives / Interaction homme-machine | Francia | Sólo M2 (requiere M1 cogsci), mayormente en francés. |
+| Paris-Saclay AI Master | Francia | Exige bachelor CS/mate/física; >2,000 solicitudes por ~25 plazas. |
+| Toulouse (HMI) / Bordeaux (IPCVAI) | Francia | HMI es CS en francés; IPCVAI es visión por computadora sin componente cognitivo. |
+| Tufts MS Computational Cognitive Science (nuevo) | EE.UU. | Programa nuevo pero no top-tier global en el área; reevaluar si gana reputación. |
+| Radboud Computational Cognitive Science (track) | Países Bajos | Track pospuesto; no iniciará 2026-27 ni 2027-28. |
+| Elisava Human Interaction and AI | España | Posgrado de diseño propio, no maestría académica. |
 
 
 ---
