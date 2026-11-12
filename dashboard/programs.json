@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05",
+ "updated": "2026-11-12",
  "programs": [
   {
    "id": "cogsup-ncia",
@@ -14,7 +14,7 @@
    "status": "Top prioridad",
    "notes": "Lab MOCAH/LIP6 (Bouchet), curso Human-AI Interactions, ML real (Sigaud RL, Gallinari AMAL). Contactar a Bouchet/Khamassi antes de aplicar.",
    "url": "",
-   "deadline": "",
+   "deadline": "Ciclo 2026: 1 de marzo; 2027 sin publicar (proxy 2028: ~1 mar)",
    "tuition": "",
    "labs": "MOCAH/LIP6 (Bouchet), Khamassi",
    "reviewed": true
@@ -30,9 +30,9 @@
    "fit": 4,
    "admission": "Alta pero muy selectiva (~40 plazas M2)",
    "status": "Top prioridad",
-   "notes": "Aplicar también al PSL PhD Track (deadline ~11 dic 2027). Requiere muestra escrita de investigación.",
-   "url": "",
-   "deadline": "PhD Track ~2027-12-11",
+   "notes": "⚠️ 2026-11-12: PSL indica que el PhD Track de Cognitive Sciences NO reabre para entrada 2027; convocatoria 2028 sin información — hito del 11-dic-2027 en riesgo. Ruta base: admisión regular al M1 (ciclo 2027: 14 ene–24 feb). Requiere muestra escrita de investigación.",
+   "url": "https://psl.eu/en/education/cognitive-science",
+   "deadline": "M1 regular ~ene–feb 2028 (proxy). PhD Track ~2027-12-11 sólo si reabre",
    "tuition": "",
    "labs": "",
    "reviewed": true
@@ -50,8 +50,8 @@
    "status": "Nuevo · verificar en sitio oficial",
    "notes": "Acepta psicología; exige programación + ~30 ECTS de matemáticas (cubiertos por transcript ITAM). Oferta típica pide primera clase. IELTS 7.0 / TOEFL 100.",
    "url": "https://study.ed.ac.uk/programmes/postgraduate-taught/108-cognitive-science",
-   "deadline": "Sin verificar",
-   "tuition": "~£45,410/año (provisional)",
+   "deadline": "31 de marzo (ciclo 2027, ed.ac.uk); requisitos 2028-29 salen oct 2027",
+   "tuition": "Sin verificar (agregadores: £22,705–£45,410/año)",
    "labs": "Informatics + PPLS, Centre for Cognitive Science",
    "reviewed": true
   },
@@ -68,7 +68,7 @@
    "status": "Safety de admisión",
    "notes": "Track Human-AI Interaction; orientación profesionalizante. Barato. Señal de investigación más débil.",
    "url": "https://www.unimi.it/en/education/master-programme/human-centered-artificial-intelligence",
-   "deadline": "",
+   "deadline": "Ciclo 2026/27: no-UE con visa hasta 30 abr; proxy 2028: antes del 30-abr-2028",
    "tuition": "",
    "labs": "",
    "reviewed": true
@@ -428,7 +428,7 @@
    "status": "Propuesto · sin revisar",
    "notes": "Programa nuevo (primeras cohortes 2025–26/2026–27) — cumple con el pedido de detectar tracks recién lanzados. Deadline 2026/27: cerró 2 dic 2025; 2027/28 abre ~sep 2026 (proxy 2028: deadline ~inicios dic 2027 — cae al arranque de su ventana de aplicación). Tuition no confirmada (asumir £40k+, banda internacional de Cambridge); Gates Cambridge como ruta de beca a verificar. Débil en CLT/EdTech; fuerte en modelado comp",
    "url": "",
-   "deadline": "",
+   "deadline": "Entrada oct 2027: plazas financiadas hasta 8 dic 2026 (proxy 2028: ~inicios dic 2027)",
    "tuition": "",
    "labs": "",
    "reviewed": false
@@ -738,6 +738,24 @@
    "tuition": "€5,749.80 total no-UE (2026-27)",
    "labs": "SPECS-lab, MTG, TIDE, FubIntLab, UbiCA, Robotics/AI-ML",
    "reviewed": false
+  },
+  {
+   "id": "tc-columbia-cogsci-ed",
+   "name": "TC Columbia — Cognitive Science in Education MA",
+   "full": "MA in Cognitive Science in Education",
+   "school": "Teachers College, Columbia University",
+   "country": "Estados Unidos",
+   "tier": 2,
+   "language": "Inglés",
+   "fit": 3,
+   "admission": "Alta — psicología es el perfil natural",
+   "status": "Nuevo · sin revisar",
+   "notes": "32 puntos. Ciencia cognitiva aplicada al aprendizaje (terreno de CLT); áreas de enfoque: Cognition and Learning, Intelligent Technologies. Building/ML limitado; costo muy alto. Faculty por verificar. Datos vía búsqueda sobre páginas oficiales (sitio no accesible desde la sesión).",
+   "url": "https://www.tc.columbia.edu/human-development/cognitive-studies-in-education/degrees--requirements/cognitive-science-in-education-ma",
+   "deadline": "Ciclo 2026-27: prioridad 15 ene, final 1 abr (general TC); esperar ~15 ene / 1 abr 2028",
+   "tuition": "~US$65–70k colegiatura estimada (US$1,970/punto en 2023-24 × 32) + NYC",
+   "labs": "Cognitive Studies in Education (Dept. of Human Development)",
+   "reviewed": false
   }
  ],
  "discarded": [
@@ -835,6 +853,116 @@
    "name": "Elisava Human Interaction and AI",
    "country": "España",
    "reason": "Posgrado de diseño propio, no maestría académica."
+  },
+  {
+   "name": "Erasmus Mundus NeuroData (Brain and Data Science)",
+   "country": "Israel + UE (Padova, IST Lisboa, VU, Jyväskylä, Zagreb)",
+   "reason": "Primer año obligatorio en Bar-Ilan (Israel); 4 ediciones financiadas, la última 2026-27 → intake 2028 sin confirmar; enfoque neuro-datos más que AI×cognición."
+  },
+  {
+   "name": "Groningen MSc Computational Cognitive Science",
+   "country": "Países Bajos",
+   "reason": "Buen fit (tracks Human-Centred AI y Cognitive Modelling) pero no top-tier global según criterio; psicología probablemente requiere pre-master de AI; ~€24,900/año no-UE. Reabrir si se relaja geografía."
+  },
+  {
+   "name": "Osnabrück MSc Cognitive Science",
+   "country": "Alemania",
+   "reason": "Exige bachelor en cognitive science o equivalente; institución no top-tier global según criterio."
+  },
+  {
+   "name": "Max Planck School of Cognition",
+   "country": "Alemania",
+   "reason": "Es un PhD de 4 años (año de orientación + 3), no maestría. Anotar como ruta de doctorado (deadline ~1 dic; elegibilidad con sólo licenciatura sin confirmar)."
+  },
+  {
+   "name": "UvA MSc Psychology: Behavioural Data Science",
+   "country": "Países Bajos",
+   "reason": "Data science conductual sin componente AI×cognición/human-AI; UvA ya cubierta (BCS, HCI)."
+  },
+  {
+   "name": "Harvard GSE — Ed.M. Learning Design, Innovation, and Technology",
+   "country": "EE.UU.",
+   "reason": "Ed.M. profesional de 1 año; AI/building bajo; categoría ya cubierta por Stanford LDT, NYU LTXD y CMU METALS; ~US$62k/año."
+  },
+  {
+   "name": "Georgia Tech MS-HCI (track Psychology)",
+   "country": "EE.UU.",
+   "reason": "HCI profesional sin eje AI-cognición; categoría ya cubierta por CMU MHCI y UCL HCI."
+  },
+  {
+   "name": "UPF Master in Intelligent Interactive Systems",
+   "country": "España",
+   "reason": "Máster técnico (agentes/robots, big data, visión); exige base matemática/CS; la opción UPF con fit cognitivo es CSIM (ya listada)."
+  },
+  {
+   "name": "UB Máster de Investigación en Comportamiento y Cognición",
+   "country": "España",
+   "reason": "90% en inglés y admite psicología, pero es investigación experimental sin AI."
+  },
+  {
+   "name": "Sheffield MSc Cognitive and Computational Neuroscience",
+   "country": "Reino Unido",
+   "reason": "No top-tier global según criterio."
+  },
+  {
+   "name": "Vienna MEi:CogSci",
+   "country": "Austria",
+   "reason": "Enfoque AI/computacional nuevo pero no top-tier global según criterio (corrida 2026-10-29)."
+  },
+  {
+   "name": "Université Côte d'Azur — Master Sciences Cognitives (NeuroMod)",
+   "country": "Francia",
+   "reason": "Idioma no confirmado y sin componente AI claro; el track en inglés relevante (Mod4NeuCog) ya está en el dashboard (2026-10-29)."
+  },
+  {
+   "name": "ULisboa MSc Cognitive Science",
+   "country": "Portugal",
+   "reason": "Docencia en portugués por defecto; track inglés sin confirmar (2026-10-15/22)."
+  },
+  {
+   "name": "ULisboa Interaction Design / Lusófona Cognitive Science and Education",
+   "country": "Portugal",
+   "reason": "Diseño/UX sin AI; idioma no confirmado, sin AI (2026-10-15)."
+  },
+  {
+   "name": "Minho AI / Évora AI & Data Science",
+   "country": "Portugal",
+   "reason": "AI/ML puro sin componente cognitivo (2026-10-22)."
+  },
+  {
+   "name": "Nottingham Computational Neuroscience, Cognition & AI",
+   "country": "Reino Unido",
+   "reason": "Buen fit pero no top-tier global; exige mate/CS (2026-10-22)."
+  },
+  {
+   "name": "Brunel Human-AI Interaction / Newcastle HCAI / Birkbeck Cognitive Science & AI",
+   "country": "Reino Unido",
+   "reason": "No top-tier global; HCI/UX profesionalizante o 2028 sin confirmar (2026-10-15/22)."
+  },
+  {
+   "name": "Gothenburg HCAI / TU/e HCAI / Aarhus Cognitive Science",
+   "country": "Suecia / Países Bajos / Dinamarca",
+   "reason": "No top-tier en cog-sci; bachelor técnico o fit marginal (2026-10-15/22)."
+  },
+  {
+   "name": "VU Amsterdam AI (track Cognitive Science) / Utrecht MSc AI",
+   "country": "Países Bajos",
+   "reason": "No top-tier / AI puro; redundante con UvA BCS (2026-10-15)."
+  },
+  {
+   "name": "UdeM/Mila DESS Machine Learning",
+   "country": "Canadá",
+   "reason": "ML puro, compuerta CS (2026-10-22)."
+  },
+  {
+   "name": "ETH Zürich / EPFL (maestrías)",
+   "country": "Suiza",
+   "reason": "Sin MSc relevante; el doctorado conjunto en learning sciences (JDPLS) es PhD (2026-10-15/22)."
+  },
+  {
+   "name": "Pavia Psychology, Neuroscience and Human Sciences / Pisa Neuroscience",
+   "country": "Italia",
+   "reason": "Sin componente AI-cognición central (2026-10-15)."
   }
  ]
 }
