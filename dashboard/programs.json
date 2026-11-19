@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-19",
  "programs": [
   {
    "id": "cogsup-ncia",
@@ -30,7 +30,7 @@
    "fit": 4,
    "admission": "Alta pero muy selectiva (~40 plazas M2)",
    "status": "Top prioridad",
-   "notes": "⚠️ 2026-11-12: PSL indica que el PhD Track de Cognitive Sciences NO reabre para entrada 2027; convocatoria 2028 sin información — hito del 11-dic-2027 en riesgo. Ruta base: admisión regular al M1 (ciclo 2027: 14 ene–24 feb). Requiere muestra escrita de investigación.",
+   "notes": "⚠️ 2026-11-12: PSL indica que el PhD Track de Cognitive Sciences NO reabre para entrada 2027; convocatoria 2028 sin información — hito del 11-dic-2027 en riesgo. Ruta base: admisión regular al M1 (ciclo 2027: 14 ene–24 feb). Requiere muestra escrita de investigación.  [2026-11-19] No-UE que ingresen desde sept 2027 pagan cuota diferenciada (~€3,950/año): ENS ya no exenta a todos. M1 2027: candidaturas 14 ene–24 feb 2027.",
    "url": "https://psl.eu/en/education/cognitive-science",
    "deadline": "M1 regular ~ene–feb 2028 (proxy). PhD Track ~2027-12-11 sólo si reabre",
    "tuition": "",
@@ -156,7 +156,7 @@
    "fit": 5,
    "admission": "Alta — acepta explícitamente psicología entre backgrounds sin exigir bachelor cuantitativo específico (transcript ITAM c",
    "status": "Propuesto · sin revisar",
-   "notes": "Nuevo (2026-09), top-tier global (cumple restricción geográfica por excepción). Mejor fit temático puro de toda la búsqueda. Verificar deadline exacto y becas UCL para posgrado internacional.",
+   "notes": "Nuevo (2026-09), top-tier global (cumple restricción geográfica por excepción). Mejor fit temático puro de toda la búsqueda. Verificar deadline exacto y becas UCL para posgrado internacional.  [2026-11-19] Cuota overseas 2026/27: £39,200; ventana para visa 20 oct–27 mar.",
    "url": "",
    "deadline": "",
    "tuition": "",
@@ -444,7 +444,7 @@
    "fit": 5,
    "admission": "Alta — sin gate disciplinar; selección por entrevista con equipo pedagógico",
    "status": "Propuesto · sin revisar",
-   "notes": "Único track de learning sciences en inglés encontrado en Francia — combinar con el track Digital Sciences para el eje \"building con AI\". ⚠️ el marketing del programa enfatiza sostenibilidad/salud planetaria más que EdTech — verificar directamente que el contenido ML/DL sea sustancial antes de comprometerse. Deadline 2026: 28 ene–30 mar (proxy 2028 similar). Tuition €254+€105 CVEC (re-verificar, ver notas transversale",
+   "notes": "Único track de learning sciences en inglés encontrado en Francia — combinar con el track Digital Sciences para el eje \"building con AI\". ⚠️ el marketing del programa enfatiza sostenibilidad/salud planetaria más que EdTech — verificar directamente que el contenido ML/DL sea sustancial antes de comprometerse. Deadline 2026: 28 ene–30 mar (proxy 2028 similar). Tuition €254+€105 CVEC (re-verificar, ver notas transversale  [2026-11-19] La paridad de cuotas para internacionales (€254) queda en riesgo por el decreto francés de mayo 2026.",
    "url": "",
    "deadline": "",
    "tuition": "",
@@ -660,7 +660,7 @@
    "fit": 4,
    "admission": "Alta — acceso libre, sin examen de ingreso; admite explícitamente L-24 (Psicología) junto con L-31/L-35/L-8/L-41",
    "status": "Propuesto · sin revisar",
-   "notes": "Nuevo hallazgo, prioridad alta. Único programa hallado con admisión sin fricción para psicología y curso de IA/ML explícito dentro de currículo cognitivo. Verificar fechas exactas ciclo 2027/28.",
+   "notes": "Nuevo hallazgo, prioridad alta. Único programa hallado con admisión sin fricción para psicología y curso de IA/ML explícito dentro de currículo cognitivo. Verificar fechas exactas ciclo 2027/28.  [2026-11-19] Ojo: la descripción oficial dice docencia en italiano E inglés, no sólo inglés — verificar antes de mantenerlo como opción en inglés.",
    "url": "",
    "deadline": "",
    "tuition": "",
@@ -678,7 +678,7 @@
    "fit": 5,
    "admission": "Probable — diseño explícitamente interdisciplinario; requisito exacto de admisión no confirmado, verificar directamente",
    "status": "Propuesto · sin revisar",
-   "notes": "Nuevo hallazgo, prioridad alta. Fit temático más cercano a CLT×AI de toda esta búsqueda. Fuera de la lista original de universidades a revisar; calificó vía búsqueda de anuncios nuevos.",
+   "notes": "Nuevo hallazgo, prioridad alta. Fit temático más cercano a CLT×AI de toda esta búsqueda. Fuera de la lista original de universidades a revisar; calificó vía búsqueda de anuncios nuevos.  [2026-11-19] Es \"diplôme d'établissement\" (no diploma nacional de máster): verificar reconocimiento para PhD. Cuota 2026-27: €1,500/año internacionales.",
    "url": "",
    "deadline": "",
    "tuition": "",
@@ -755,6 +755,96 @@
    "deadline": "Ciclo 2026-27: prioridad 15 ene, final 1 abr (general TC); esperar ~15 ene / 1 abr 2028",
    "tuition": "~US$65–70k colegiatura estimada (US$1,970/punto en 2023-24 × 32) + NYC",
    "labs": "Cognitive Studies in Education (Dept. of Human Development)",
+   "reviewed": false
+  },
+  {
+   "id": "mcgill-learning-sciences",
+   "name": "McGill — MA Educational Psychology (Learning Sciences)",
+   "full": "MA Educational Psychology (Thesis), Learning Sciences",
+   "school": "McGill University, Dept. of Educational & Counselling Psychology",
+   "country": "Canadá",
+   "tier": 2,
+   "language": "Inglés",
+   "fit": 5,
+   "admission": "Alta — bachelor en educación/psicología o afín, CGPA ≥3.0/4.0; hay que nombrar supervisor(es) preferido(s); sin compuerta cuantitativa",
+   "notes": "Maestría de investigación con tesis (45 créditos, 2 años) en learning sciences: ciencia del aprendizaje, autorregulación, tecnología educativa y data science aplicada; incluye cursos de machine learning (EDPE 510, EDPE 561). PhD en la misma unidad. La admisión depende del match con supervisor; financiamiento no garantizado. Datos vía extractos de búsqueda de páginas mcgill.ca (sitio no accesible desde la sesión).",
+   "url": "https://www.mcgill.ca/edu-ecp/programs/learningsciences/ma",
+   "deadline": "1 de diciembre (ciclo Fall 2027; abre 15 sep) → proxy Fall 2028: 1 dic 2027",
+   "tuition": "~CAD 10,674 por término internacional (2026-27), ~CAD 21.3k/año; existen exenciones de cuota diferencial (CAD 18,231) no garantizadas",
+   "labs": "Adam Dubé (Technology, Learning & Cognition Lab; IA generativa y chatbots en aprendizaje), Maria Cutumisu (ML, educational data mining), Nikki Lobczowski (tecnologías adaptativas); Lajoie en post-retiro",
+   "status": "Nuevo (2026-11-19) · sin revisar",
+   "reviewed": false
+  },
+  {
+   "id": "wpi-lst",
+   "name": "WPI — MS Learning Sciences & Technologies",
+   "full": "MS in Learning Sciences & Technologies",
+   "school": "Worcester Polytechnic Institute",
+   "country": "Estados Unidos",
+   "tier": 3,
+   "language": "Inglés",
+   "fit": 5,
+   "admission": "Alta — psicología cognitiva/educativa nombrada como disciplina de ingreso (GPA ≥3.0); GRE recomendado, no obligatorio; el núcleo incluye 2 cursos de CS (el transcript ITAM ayuda)",
+   "notes": "Núcleo explícito CS + psicología cognitiva + estadística, construido alrededor de tutores inteligentes y educational data mining (33 créditos, opción de tesis). Grupo líder en AI-in-education; PhD en el mismo programa. Marca institucional no élite; costo alto sin assistantship. Datos vía extractos de búsqueda de páginas wpi.edu.",
+   "url": "https://www.wpi.edu/academics/departments/learning-sciences-technologies",
+   "deadline": "15 de enero para consideración de financiamiento (otra página dice 1 ene; año del ciclo no indicado) → proxy: ene 2028",
+   "tuition": "US$1,775 por crédito (2026-27) ≈ US$58.6k total; montos de assistantship sin verificar",
+   "labs": "Neil Heffernan (ASSISTments, educational data mining), Jacob Whitehill (ML para educación), Erin Ottmar (MAPLE Lab)",
+   "status": "Nuevo (2026-11-19) · sin revisar",
+   "reviewed": false
+  },
+  {
+   "id": "tufts-ccs",
+   "name": "Tufts — MS Computational Cognitive Science",
+   "full": "MS in Computational Cognitive Science",
+   "school": "Tufts University",
+   "country": "Estados Unidos",
+   "tier": 3,
+   "language": "Inglés",
+   "fit": 4,
+   "admission": "Alta — dirigido a cog-sci, psicología, neurociencia, CS; sin prerrequisito formal de programación (el statement debe describir base cuantitativa); sin GRE",
+   "notes": "Reevaluado: estaba descartado sólo por \"no top-tier\" y USA ya califica por geografía. Cognición + modelado + ML orientado a human-centred AI (30 créditos, 15 meses, co-op/internship final). Sin tesis y programa nuevo (1ª cohorte Fall 2027): señal de PhD débil salvo que se consiga investigación por fuera. Datos vía extractos de búsqueda de páginas tufts.edu.",
+   "url": "https://cogsci.tufts.edu/academics/graduate-programs/ms-computational-cognitive-science",
+   "deadline": "Ciclo Fall 2027: 15 ene prioridad, 15 abr regular, rolling hasta 1 ago → proxy 2028 análogo",
+   "tuition": "US$1,849 por crédito, ~US$55,470 total; becas sin verificar",
+   "labs": "Sin faculty verificada",
+   "status": "Nuevo (2026-11-19) · sin revisar",
+   "reviewed": false
+  },
+  {
+   "id": "pitt-isp",
+   "name": "Pittsburgh — MS Intelligent Systems",
+   "full": "MS in Intelligent Systems (General Track)",
+   "school": "University of Pittsburgh, Intelligent Systems Program",
+   "country": "Estados Unidos",
+   "tier": 3,
+   "language": "Inglés",
+   "fit": 4,
+   "admission": "Condicional — psicología cognitiva figura como perfil \"bien preparado\", pero el núcleo es AI técnico y hay que documentar programación (transcript ITAM); GRE opcional; TOEFL 90 / IELTS 7",
+   "notes": "AI aplicada con proyecto de MS (30 créditos): AI, ML, NLP, visión, minería de datos. Cumple el eje \"building\"; el lado cognitivo/AI-en-educación depende del asesor y proyecto. PhD en el mismo programa. Colegiatura y faculty sin verificar. Datos vía extractos de búsqueda de páginas isp.pitt.edu.",
+   "url": "https://www.isp.pitt.edu/academics/master-science-intelligent-systems",
+   "deadline": "15 de enero para Fall (ciclo actual) → proxy: 15 ene 2028",
+   "tuition": "Sin verificar",
+   "labs": "Sin nombres verificados; las páginas mencionan faculty asociada de School of Education",
+   "status": "Nuevo (2026-11-19) · sin revisar",
+   "reviewed": false
+  },
+  {
+   "id": "unsw-mres-clt",
+   "name": "UNSW — Masters by Research (Education, CLT)",
+   "full": "Masters by Research, School of Education",
+   "school": "UNSW Sydney",
+   "country": "Australia",
+   "tier": 3,
+   "language": "Inglés",
+   "fit": 3,
+   "admission": "Condicional — exige bachelor de 4 años con honours de segunda clase o equivalente + experiencia de investigación (equivalencia de la licenciatura UNAM se decide caso por caso); acuerdo de supervisor; IELTS 7.0",
+   "notes": "Cuna de Cognitive Load Theory. Sólo tesis (1.5–2 años), sin cursos: no aporta formación ML. Sweller es emérito y el estatus de Kalyuga no está claro: antes de invertir, escribir a la School of Education para saber quién supervisa CLT hoy y si hay ángulo AI. Fuerte para un PhD específico en CLT, débil como señal computacional. Datos vía extractos de búsqueda de páginas unsw.edu.au.",
+   "url": "https://www.unsw.edu.au/research/hdr/master-by-research",
+   "deadline": "3 términos/año; ronda de becas para inicio ago 2028 ≈ mediados de ago 2027 (proxy); Term 1 2028 cierra 16 abr 2027",
+   "tuition": "Colegiatura internacional sin verificar; beca = colegiatura + estipendio (AUD 38,438 en 2025), exige equivalente a honours de primera clase",
+   "labs": "Educational Psychology research strength (Sweller emérito; Kalyuga, estatus sin verificar)",
+   "status": "Nuevo (2026-11-19) · sin revisar",
    "reviewed": false
   }
  ],
@@ -838,11 +928,6 @@
    "name": "Toulouse (HMI) / Bordeaux (IPCVAI)",
    "country": "Francia",
    "reason": "HMI es CS en francés; IPCVAI es visión por computadora sin componente cognitivo."
-  },
-  {
-   "name": "Tufts MS Computational Cognitive Science (nuevo)",
-   "country": "EE.UU.",
-   "reason": "Programa nuevo pero no top-tier global en el área; reevaluar si gana reputación."
   },
   {
    "name": "Radboud Computational Cognitive Science (track)",
@@ -963,6 +1048,131 @@
    "name": "Pavia Psychology, Neuroscience and Human Sciences / Pisa Neuroscience",
    "country": "Italia",
    "reason": "Sin componente AI-cognición central (2026-10-15)."
+  },
+  {
+   "name": "Carleton Master of Cognitive Science",
+   "country": "Canadá",
+   "reason": "Borderline: buen fit en modelado cognitivo (ACT-R, RL), pero exige honours A-, supervisor acordado antes de aplicar y casi sin fondos para internacionales; sin eje learning/human-AI. Reabrir si se consigue supervisor. (2026-11-19)"
+  },
+  {
+   "name": "UTS Master of Learning Analytics (Research)",
+   "country": "Australia",
+   "reason": "Borderline: única maestría de investigación sobre datos/AI en aprendizaje (Connected Intelligence Centre), pero sólo tesis y colegiatura/beca internacional sin verificar. Reabrir con acceso al sitio oficial. (2026-11-19)"
+  },
+  {
+   "name": "Stanford GSE MS Education Data Science / TC Columbia MS Learning Analytics",
+   "country": "EE.UU.",
+   "reason": "Fit moderado (datos educativos, poca cognición); instituciones ya cubiertas por SymSys/LDT y TC CogSci in Education; ~US$70k+. (2026-11-19)"
+  },
+  {
+   "name": "Penn GSE M.S.Ed. Learning Sciences and Technologies / Learning Analytics and AI",
+   "country": "EE.UU.",
+   "reason": "LST: profesional con capstone, ~US$83k; Learning Analytics & AI es 100% online. (2026-11-19)"
+  },
+  {
+   "name": "Concordia MA Educational Technology / SFU MA Educational Technology & Learning Design",
+   "country": "Canadá",
+   "reason": "Diseño instruccional con poca computación; SFU en horario vespertino para profesionistas e intake anual sin confirmar. (2026-11-19)"
+  },
+  {
+   "name": "ASU MS Human Systems Engineering / UT Dallas MS Applied Cognition and Neuroscience / Vanderbilt MS Cognitive Psychology in Context",
+   "country": "EE.UU.",
+   "reason": "Fit CLT×AI marginal (human factors o cognición sin AI en el núcleo); sólo valdrían con asesor de tesis computacional. (2026-11-19)"
+  },
+  {
+   "name": "Western, UBC y Alberta — MSc/MA Psychology (rutas financiadas)",
+   "country": "Canadá",
+   "reason": "Psicología experimental sin AI en el currículo; fit depende 100% del supervisor. Ojo: Western garantiza CAD 42,600 y UBC CAD 27,400/año; UBC no admite a quien sólo quiere el MA. (2026-11-19)"
+  },
+  {
+   "name": "USA sin maestría terminal: Indiana CogSci, UC San Diego, Rochester BCS, Rensselaer, UIUC, Northwestern MA",
+   "country": "EE.UU.",
+   "reason": "No admiten a maestría terminal (sólo PhD o alumnos internos). (2026-11-19)"
+  },
+  {
+   "name": "USA profesionales/AI puro: Northwestern MSEd, UChicago MACSS y Applied AI, UW–Madison Learning Analytics, Michigan MSI, UW HCDE, George Mason, CMU MSAII, Rice MAI, Georgia Tech OMS-AI",
+   "country": "EE.UU.",
+   "reason": "Profesionales, online o AI técnico sin componente cognitivo; HCI ya cubierto. (2026-11-19)"
+  },
+  {
+   "name": "Toronto (MScAC, MI, OISE) / Waterloo MASc SDE / Carleton HCI / Calgary Learning Sciences / UBC HDLC / SFU SIAT",
+   "country": "Canadá",
+   "reason": "Compuerta cuantitativa/ingeniería, profesional, sin AI, o no aceptan internacionales/solicitudes. (2026-11-19)"
+  },
+  {
+   "name": "UdeM / Mila (reevaluado)",
+   "country": "Canadá",
+   "reason": "Sin maestría de cog-sci/psicología en inglés; las MSc ligadas a Mila son de informática. (2026-11-19)"
+  },
+  {
+   "name": "Macquarie Master of Research (Psychological Sciences)",
+   "country": "Australia",
+   "reason": "Buen pipeline a PhD australiano y beca con estipendio, pero sin línea AI/CLT/human-AI encontrada; AUD 52,000/año. (2026-11-19)"
+  },
+  {
+   "name": "Sydney Master of Learning Sciences and Technology",
+   "country": "Australia",
+   "reason": "Sólo aparecieron handbooks archivados (2021-22): vigencia 2027-28 sin confirmar; pide posgrado o experiencia profesional; autofinanciado. (2026-11-19)"
+  },
+  {
+   "name": "Australia — otros: Monash (Master of AI, MEd Digital Learning), Melbourne (CHDH, MPhil Psych, MCS), UniSA C3L, Wollongong, UNSW MEd",
+   "country": "Australia",
+   "reason": "AI puro, profesional para docentes, o sin vehículo de maestría (sólo Honours/PhD). (2026-11-19)"
+  },
+  {
+   "name": "UAEM Maestría en Ciencias Cognitivas (CINCCO)",
+   "country": "México",
+   "reason": "Cog-sci real y accesible, pero humanística, sin línea AI/computacional verificada; inicia en enero; trampolín internacional débil. Fallback nacional si se busca beca SECIHTI. (2026-11-19)"
+  },
+  {
+   "name": "México — otros: UNAM (Psicología, Filosofía de la Ciencia, PCIC), Tec de Monterrey MCC/IA Aplicada, UV Maestría en IA, UdeG Ciencia del Comportamiento, IBERO MIDE, Cinvestav",
+   "country": "México",
+   "reason": "Sin AI, o CS puro con compuerta de título en computación; UV merece una verificación directa. (2026-11-19)"
+  },
+  {
+   "name": "Argentina: UBA (Psicología Cognitiva, Data Mining), San Andrés MIA, Di Tella, Favaloro",
+   "country": "Argentina",
+   "reason": "Ninguna maestría califica: profesional/part-time, AI puro con compuerta de ingeniería, o neuro clínica. Nota: el Doctorado en Ciencia Aplicada y Tecnología de Di Tella admite con licenciatura y da beca (ruta de PhD, no maestría). (2026-11-19)"
+  },
+  {
+   "name": "LMU Munich MSc Psychology: Learning Sciences and Human Development",
+   "country": "Alemania",
+   "reason": "Borderline fuerte: learning sciences de investigación, inglés, casi gratis, deadline 15 ene–1 mar; pero fuera de geografía y exige ECTS específicos; AI/CLT en optativas sin verificar. Reabrir si se amplía geografía. (2026-11-19)"
+  },
+  {
+   "name": "TU Darmstadt MSc Cognitive Science / Copenhagen MSc IT and Cognition / KU Leuven Master of AI",
+   "country": "Alemania / Dinamarca / Bélgica",
+   "reason": "Buen fit computacional pero fuera de geografía y con compuerta CS/cog-sci dura. (2026-11-19)"
+  },
+  {
+   "name": "Tübingen MSc Quantitative Data Science Methods / MSc Machine Learning / MSc Cognitive Science",
+   "country": "Alemania",
+   "reason": "QDS admite psicología pero es métodos sin cognición; ML exige informática; idioma de Cognitive Science sin confirmar. (2026-11-19)"
+  },
+  {
+   "name": "UCL MA Education and Technology / MSc Educational Neuroscience / MASc Philosophy, Logic and AI",
+   "country": "Reino Unido",
+   "reason": "Sin building ni modelado (MA crítico-profesional, £35,400), neuro sin AI, o filosofía; UCL ya cubierta por CDS. (2026-11-19)"
+  },
+  {
+   "name": "Oxford (Law Governance & AI, AI for Business, Education Digital & Social Change) / Edinburgh (otros MSc de PPLS) / LMU Neuro-Cognitive Psychology",
+   "country": "Reino Unido / Alemania",
+   "reason": "Sin componente AI×cognición. (2026-11-19)"
+  },
+  {
+   "name": "Francia nuevos: ISAE-SUPAERO neuroergonomía, IP Paris IGD, Sorbonne ANDROIDE/AI2D, Bordeaux Sciences cognitives, UT2J ECIT-FH, Lyon 1 Neuroscience",
+   "country": "Francia",
+   "reason": "Sin máster independiente, compuerta CS, en francés, o neuro sin AI. (2026-11-19)"
+  },
+  {
+   "name": "Italia nuevos: Siena Language and Mind, Trieste Neuroscience (NeuroCog), Trieste/SISSA Data Science & AI, Sapienza Cognitive Forensic Sciences, Milano AI for Science and Technology",
+   "country": "Italia",
+   "reason": "Lingüística/neuro sin AI, o AI/datos con compuerta cuantitativa. (2026-11-19)"
+  },
+  {
+   "name": "España/Portugal nuevos: BCBL Cognitive Neuroscience of Language, UPV/EHU Language Analysis and Processing, UAM/UCM IA, ISPA, Algarve",
+   "country": "España / Portugal",
+   "reason": "Neuro del lenguaje sin AI, NLP/AI técnico, o en idioma local. (2026-11-19)"
   }
  ]
 }
