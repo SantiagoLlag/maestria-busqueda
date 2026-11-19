@@ -86,7 +86,7 @@
    "status": "Solo si se resuelven créditos CS antes de mar 2028",
    "notes": "Exige ≥12 ECTS INF/01 o ING-INF/05; psicología no califica sin remediación.",
    "url": "",
-   "deadline": "",
+   "deadline": "Ciclo 2026/27: no-UE hasta 4 mar 2026; convocatoria 2027/28 esperada dic 2026 → proxy 2028: inicios de marzo",
    "tuition": "",
    "labs": "CIMeC",
    "reviewed": true
@@ -102,10 +102,10 @@
    "fit": 3,
    "admission": "Alta",
    "status": "Hedge accesible",
-   "notes": "Formato blended resta peso para PhD.",
+   "notes": "Formato mayormente online (\"mainly held online\" según el portal) resta peso para PhD. Primera cohorte 2026/27.",
    "url": "https://www.unipd.it/en/corsi-di-laurea/cognitive-science-human-centric-technologies-cogtech",
-   "deadline": "",
-   "tuition": "",
+   "deadline": "Ciclo 2027/28: 7 ene – 7 mar 2027 → proxy 2028: ene–inicios de mar 2028",
+   "tuition": "€2,950/año (portal 2027/28) + €60 de solicitud",
    "labs": "",
    "reviewed": true
   },
@@ -247,8 +247,8 @@
    "admission": "Alta en papel (acepta psicología entre 2+ backgrounds combinables) pero admisión ~5%, valora fuertemente investigación p",
    "status": "Propuesto · sin revisar",
    "notes": "Nuevo (2026-09), top-tier global. Sin ayuda financiera regular para el MS (solo Knight-Hennessy, muy competitivo); colegiatura ~$60,000+ USD/año. Aplicar como \"reach\" con paper/tesis fuerte en mano.",
-   "url": "",
-   "deadline": "",
+   "url": "https://symsys.stanford.edu/graduates/ms-admissions/external-admissions",
+   "deadline": "Externos 2027-28: 15 ene 2027 → proxy 2028: 15 ene 2028",
    "tuition": "",
    "labs": "",
    "reviewed": false
@@ -481,9 +481,9 @@
    "admission": "Alta — HCII declara explícitamente que no exige un grado específico y valora perfiles interdisciplinarios de ciencias so",
    "status": "Propuesto · sin revisar",
    "notes": "Candidato de alta prioridad, nuevo. Verificar deadline exacto y costo (~$27k/semestre; becas parciales METALS Merit).",
-   "url": "",
-   "deadline": "",
-   "tuition": "",
+   "url": "https://metals.hcii.cmu.edu/admissions/",
+   "deadline": "Fall 2027: temprano 9 dic 2026, final 15 mar 2027 (confirmar) → proxy 2028 análogo",
+   "tuition": "US$27,000/semestre (2026-27); 12 meses; becas parciales METALS Merit",
    "labs": "",
    "reviewed": false
   },
@@ -752,9 +752,9 @@
    "status": "Nuevo · sin revisar",
    "notes": "32 puntos. Ciencia cognitiva aplicada al aprendizaje (terreno de CLT); áreas de enfoque: Cognition and Learning, Intelligent Technologies. Building/ML limitado; costo muy alto. Faculty por verificar. Datos vía búsqueda sobre páginas oficiales (sitio no accesible desde la sesión).",
    "url": "https://www.tc.columbia.edu/human-development/cognitive-studies-in-education/degrees--requirements/cognitive-science-in-education-ma",
-   "deadline": "Ciclo 2026-27: prioridad 15 ene, final 1 abr (general TC); esperar ~15 ene / 1 abr 2028",
-   "tuition": "~US$65–70k colegiatura estimada (US$1,970/punto en 2023-24 × 32) + NYC",
-   "labs": "Cognitive Studies in Education (Dept. of Human Development)",
+   "deadline": "Prioridad 15 ene 2027, final 1 abr 2027 → proxy 2028: ~15 ene / 1 abr",
+   "tuition": "US$2,216/punto (2026-27) × 32 ≈ US$70.9k + US$538/término + NYC",
+   "labs": "Xiaodong Lin (directora), Robert Siegler, Kay James, Jie Gao (lista parcial)",
    "reviewed": false
   },
   {
@@ -845,6 +845,42 @@
    "tuition": "Colegiatura internacional sin verificar; beca = colegiatura + estipendio (AUD 38,438 en 2025), exige equivalente a honours de primera clase",
    "labs": "Educational Psychology research strength (Sweller emérito; Kalyuga, estatus sin verificar)",
    "status": "Nuevo (2026-11-19) · sin revisar",
+   "reviewed": false
+  },
+  {
+   "id": "berkeley-ma-lshd",
+   "name": "UC Berkeley — MA Education (Learning Sciences & Human Development)",
+   "full": "MA in Education, cluster Learning Sciences and Human Development",
+   "school": "UC Berkeley, Berkeley School of Education",
+   "country": "Estados Unidos",
+   "tier": 2,
+   "language": "Inglés",
+   "fit": 4,
+   "admission": "Alta en lo formal — sin compuerta cuantitativa ni GRE en los extractos; 3 cartas (≥2 académicas); umbral de GPA sin verificar; selectividad esperable alta",
+   "notes": "MA de investigación en learning sciences (24 unidades + capstone con asesor) con un lab de ML real aplicado al aprendizaje (Pardos); sin currículo propio de AI: el building depende del asesor y de electivas. MA de 24 unidades (≥18 en cursos EDUC serie 200, ≥1 de métodos) + capstone (estudio piloto o position paper con asesor); duración sin verificar (~1 año). La estructura de clusters es nueva (aplica a admitidos desde Fall 2027) y hay páginas viejas con requisitos distintos. Antes de aplicar, confirmar que Pardos tome alumnos de MA. Datos vía extractos de búsqueda de páginas bse.berkeley.edu (sitio no accesible desde la sesión).",
+   "url": "https://bse.berkeley.edu/masters-arts-education-ma",
+   "deadline": "Fall 2027: 1 dic 2026 → proxy Fall 2028: ~1 dic 2027",
+   "tuition": "Sin verificar para este programa; estimado ~US$30–33k/año (colegiatura de posgrado US$17,550 en 2026-27 + suplemento de no residente, cifras en conflicto); costo total de asistencia ~US$60k/año; financiamiento para MA sin verificar",
+   "labs": "Zachary Pardos (Computational Approaches to Human Learning), Marcia Linn, Michelle Wilkerson, Michael Ranney (listado puede estar desactualizado)",
+   "status": "Nuevo (2026-11-19, 2ª corrida) · sin revisar",
+   "reviewed": false
+  },
+  {
+   "id": "umn-edpsych-ma",
+   "name": "Minnesota — MA Educational Psychology (Learning & Cognition / EdTech)",
+   "full": "MA Educational Psychology, Psychological Foundations — énfasis Learning & Cognition / Educational Technology",
+   "school": "University of Minnesota Twin Cities",
+   "country": "Estados Unidos",
+   "tier": 3,
+   "language": "Inglés",
+   "fit": 3,
+   "admission": "Alta — psicología es el perfil natural; sin GRE ni compuerta cuantitativa en los extractos; 3 cartas + statement; sólo ingreso en otoño",
+   "notes": "MA con opción de tesis en psicología del aprendizaje y tecnología, con faculty en AI educativa y learning analytics (Kendeou, Hutt); CLT no figura en el currículo y el ML depende de electivas y del lab. Plan A = 24 créditos de cursos + 10 de tesis + examen oral; Plan B = 33 créditos + paper. Confirmar que el Plan A (tesis) esté disponible y contactar a Kendeou o Hutt antes de aplicar. Menos caro que las opciones de costa. Datos vía extractos de búsqueda de páginas umn.edu (sitio no accesible desde la sesión).",
+   "url": "https://edpsych.umn.edu/academics/education-technology-learning-cognition/graduate-degrees",
+   "deadline": "1 feb (página departamental; un catálogo viejo dice 1 mar) → proxy Fall 2028: ~1 feb 2028",
+   "tuition": "Tarifa general de posgrado no residente 2026-27: US$17,364/semestre (≈US$34.7k/año); tarifa específica del programa y assistantships para MA internacionales sin verificar",
+   "labs": "Panayiota Kendeou (Reading + Learning Lab; CEHD Learning Informatics Lab), Stephen Hutt (learning analytics/AI y metacognición); Caitlin Mills (afiliación actual sin verificar)",
+   "status": "Nuevo (2026-11-19, 2ª corrida) · sin revisar",
    "reviewed": false
   }
  ],
@@ -1173,6 +1209,86 @@
    "name": "España/Portugal nuevos: BCBL Cognitive Neuroscience of Language, UPV/EHU Language Analysis and Processing, UAM/UCM IA, ISPA, Algarve",
    "country": "España / Portugal",
    "reason": "Neuro del lenguaje sin AI, NLP/AI técnico, o en idioma local. (2026-11-19)"
+  },
+  {
+   "name": "NYU Steinhardt — MS in Artificial Intelligence for Learning",
+   "country": "EE.UU.",
+   "reason": "Borderline fuerte: learning sciences + AI aplicada con cursos de building y admite cualquier bachelor (deadline 15 ene), pero capstone profesional sin tesis, ~US$71–85k, redundante con NYU LTXD (ya listado) y sin vínculo confirmado con Plass/CREATE. Reabrir si se confirma ese vínculo. https://steinhardt.nyu.edu/degree/ms-artificial-intelligence-learning (2026-11-19, 2ª corrida)"
+  },
+  {
+   "name": "Stevens MS Human-Centered AI / Syracuse MS Applied Human-Centered AI (nuevos, Fall 2026)",
+   "country": "EE.UU.",
+   "reason": "Profesionales, sin señal de investigación ni componente cognitivo/CLT; Stevens nombra psicología como perfil (posible safety) pero sin colegiatura publicada. (2026-11-19, 2ª corrida)"
+  },
+  {
+   "name": "USA sin maestría terminal (2): Brown CoPsy, Dartmouth PBS, UC Irvine Cognitive Sciences, MIT MEng Computation and Cognition",
+   "country": "EE.UU.",
+   "reason": "Sólo PhD o sólo para alumnos internos. (2026-11-19, 2ª corrida)"
+  },
+  {
+   "name": "Boston University MA Psychological & Brain Sciences / Cornell MA Human Development y MPS Information Science / UC Irvine MS Informatics / UC Berkeley MIMS",
+   "country": "EE.UU.",
+   "reason": "Psicología general sin AI, puente a PhD sin fondos, o HCI profesional/sociotécnico sin eje AI×cognición (UC Irvine Informatics es el borderline: reabrir sólo con asesor de human-AI). (2026-11-19, 2ª corrida)"
+  },
+  {
+   "name": "USA nuevos AI puro/negocios: Columbia MS in AI, American MS AI, GW AI for Business, Illinois MSBAi, Georgia Tech OMS-AI (Human-AI Interactions)",
+   "country": "EE.UU.",
+   "reason": "AI puro, de negocios u online, sin componente cognitivo. (2026-11-19, 2ª corrida)"
+  },
+  {
+   "name": "York MA Psychology (BBCS) / Queen's MSc Psychology y MSc Computing / Dalhousie MSc Psychology & Neuroscience / McMaster MSc PNB",
+   "country": "Canadá",
+   "reason": "Psicología experimental sin AI (o informática con compuerta CS); York no financia internacionales. Nota: Queen's garantiza mínimo CAD 24,000/año. (2026-11-19, 2ª corrida)"
+  },
+  {
+   "name": "ANU (Master of Applied Cybernetics, Master of Computing HCCC) / UQ (MEdSt Science of Learning, MPhil) / Adelaide (AI & ML) / UWA (MIT AI, MDS) / Wollongong MPhil Education",
+   "country": "Australia",
+   "reason": "Sin cognición/CLT×AI, AI con compuerta CS, coursework para docentes, o sólo tesis con honours + supervisor previo (sin supervisor CLT confirmado). (2026-11-19, 2ª corrida)"
+  },
+  {
+   "name": "México (2): INAOE Ciencias Computacionales, CIMAT Cómputo Estadístico, ITAM Ciencia de Datos, UAM",
+   "country": "México",
+   "reason": "Perfil/examen de CS o ciencias exactas, sin eje cognitivo; en UAM no se encontró maestría de cog-sci/HCI que admita psicología (cobertura débil). (2026-11-19, 2ª corrida)"
+  },
+  {
+   "name": "Argentina (2): FLACSO Psicología del Conocimiento y Aprendizaje, UNSAM, UNC (MMICC, FAMAF), Austral Filosofía",
+   "country": "Argentina",
+   "reason": "Online orientada a escuela sin AI, sin maestría de cog-sci/AI, o filosofía/metodología sin AI. (2026-11-19, 2ª corrida)"
+  },
+  {
+   "name": "Genova — LM Digital Humanities, track Affective Computing, Arts and Cultural Welfare",
+   "country": "Italia",
+   "reason": "Borderline: track en inglés, pero pide ≥18 ECTS de informática y es cómputo afectivo aplicado a artes (Casa Paganini), no cognición/aprendizaje. Reabrir sólo si aceptan créditos sueltos de CS. https://corsi.unige.it/en/corsi/11945 (2026-11-19, 2ª corrida)"
+  },
+  {
+   "name": "emlyon — MSc in Innovation & Technology for Education",
+   "country": "Francia",
+   "reason": "Borderline: 2 años en inglés con módulos de cog-sci y AI en educación, pero escuela de negocios privada, profesional, sin labs ni pipeline a PhD; no es diploma nacional; colegiatura sin verificar. (2026-11-19, 2ª corrida)"
+  },
+  {
+   "name": "Italia (3): UniTo (Scienze del corpo e della mente; Language Technologies & DH), PoliTo/PoliMi, Napoli Federico II (Data Science, HCAIM), Pisa (AIDE, CS/AI), Verona AI, Firenze AI, Trento Data Science, Bologna Applied Cognitive Psychology, UNINT",
+   "country": "Italia",
+   "reason": "En italiano, AI/ingeniería con compuerta L-8/L-31, o máster de I nivel (no LM). Sin LM-55/HCAI nueva en inglés anunciada para 2027/28. (2026-11-19, 2ª corrida)"
+  },
+  {
+   "name": "Francia (3): Paris 8 (Psychologie de la cognition, I2A), Arts et Métiers TEEF, UTC Compiègne, Nantes ATAL, Rennes IA, Montpellier Sciences de l'éducation",
+   "country": "Francia",
+   "reason": "En francés y/o informática-ingeniería sin track cognitivo en inglés. (2026-11-19, 2ª corrida)"
+  },
+  {
+   "name": "Erasmus Mundus: LCT, EMILDAI, AI for Sustainable Societies, DEAI",
+   "country": "Varios",
+   "reason": "NLP técnico (LCT sin convocatoria 2026), gobernanza de AI, sostenibilidad o ingeniería de datos; ninguno AI×cognición. (2026-11-19, 2ª corrida)"
+  },
+  {
+   "name": "España/Portugal (2): UAB (títulos propios AI), UPC Master in AI, UIB Cognition and Society, Católica/Évora/Algarve psicología, Lusófona Cyberspace Behaviour",
+   "country": "España / Portugal",
+   "reason": "Títulos propios, AI técnico, en idioma local o sin verificar idioma/vigencia (UIB). (2026-11-19, 2ª corrida)"
+  },
+  {
+   "name": "NYU Abu Dhabi MSc Interdisciplinary Data Science & AI",
+   "country": "EAU",
+   "reason": "Fuera de geografía; datos/AI generalista. (2026-11-19, 2ª corrida)"
   }
  ]
 }
