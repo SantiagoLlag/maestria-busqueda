@@ -40,6 +40,19 @@ input{flex:1;min-width:200px}
 .status{margin-top:14px;font-size:12px;color:var(--gold);font-weight:500}
 h3{font:600 26px Fraunces,serif;margin:64px 0 16px}
 table{width:100%;border-collapse:collapse;font-size:14px}td{padding:10px 8px;border-top:1px solid var(--line);vertical-align:top}td:first-child{font-weight:500;padding-left:18px}td:last-child{padding-right:18px}tr:first-child td{border-top:0}td:nth-child(2){color:var(--mute);white-space:nowrap}
+.neuro{margin:72px -24px 0;padding:56px 24px 48px;background:linear-gradient(160deg,rgba(18,38,48,.94),rgba(24,52,62,.92));color:#e8f1f2;border-radius:28px;backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px)}
+.neuro .eyebrow{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:#7fd1c7;font-weight:600}
+.neuro h3{margin:8px 0 10px;color:#f4fbfb}.neuro h3 em{font-style:italic;color:#7fd1c7}
+.neuro .sub,.neuro .stats{text-shadow:none;color:#a9c3c6}.neuro .stats{border-bottom-color:rgba(255,255,255,.12)}.neuro .stat b{color:#f4fbfb}.neuro .stat span{color:#8fb0b4}
+.neuro .card{background:rgba(255,255,255,.06);border-color:rgba(255,255,255,.14);color:#e8f1f2}
+.neuro .card:hover{box-shadow:0 14px 40px -18px rgba(0,0,0,.7)}
+.neuro .school,.neuro .full,.neuro .row span:first-child{color:#9bb8bc}.neuro .row{border-top-color:rgba(255,255,255,.12)}
+.neuro .stars{color:#7fd1c7}.neuro .stars i{color:rgba(255,255,255,.18)}.neuro .status{color:#e7c27d}.neuro .detail a{color:#7fd1c7}
+.neuro .tier{color:#7fd1c7}.neuro .tier.t5{color:#9bb8bc}
+.xref{margin:26px 0 0;font-size:13px;color:#a9c3c6}.xref b{color:#e8f1f2}.chip{display:inline-block;margin:6px 6px 0 0;padding:4px 12px;border-radius:999px;border:1px solid rgba(127,209,199,.45);color:#cdeeea;font-size:12px}
+.sec{display:inline-block;min-width:22px;text-align:center;font-size:11px;font-weight:600;padding:2px 7px;border-radius:999px;border:1px solid var(--line);color:var(--accent)}.sec.b{color:#2c7a72;border-color:#2c7a72}
+.empty{color:#9bb8bc;font-size:14px}
+@media(max-width:600px){.neuro{margin:56px -16px 0;padding:40px 16px 36px;border-radius:20px}}
 footer{margin-top:48px;color:var(--mute);font-size:12px}
 @media(max-width:600px){.wrap{padding:36px 16px 56px}.stats{gap:20px 28px}input{min-width:100%}select{flex:1}.card{padding:20px}
 #disc,#disc tbody,#disc tr,#disc td{display:block}#disc tr{padding:12px 16px;border-top:1px solid var(--line)}#disc td{border:0;padding:2px 0!important}#disc tr:first-child{border-top:0}#disc td:nth-child(2){font-size:12px}}
@@ -56,6 +69,14 @@ footer{margin-top:48px;color:var(--mute);font-size:12px}
 <select id="tier"><option value="">Todos los tiers</option><option value="1">Tier 1</option><option value="2">Tier 2</option><option value="3">Tier 3</option><option value="4">Tier 4</option><option value="5">Bajo</option></select>
 </div>
 <div class="grid" id="grid"></div>
+<section class="neuro" id="neuro">
+<div class="eyebrow">Sección B</div>
+<h3>AI y <em>neurociencias</em></h3>
+<p class="sub">Neurociencia computacional, NeuroAI, modelado de redes neuronales biológicas, ML para datos neurales y BCI con AI. Mismos criterios de geografía, admisión, idioma y timeline; la conexión con la tesis (CLT × AI / colaboración humano-AI) es secundaria pero visible.</p>
+<div class="stats" id="nstats"></div>
+<div class="grid" id="ngrid"></div>
+<div class="xref" id="xref"></div>
+</section>
 <h3>Evaluados y descartados</h3>
 <table id="disc"></table>
 <footer><span id="foot"></span><span class="credit">Foto: Cour d'honneur de la Sorbonne, París — <a href="https://commons.wikimedia.org/wiki/File:Sorbonne_-_Cour_d%27honneur_-_Septembre_2026.jpg" target="_blank" rel="noopener">ZeusUpsistos</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a></span></footer>
@@ -68,9 +89,13 @@ fetch("programs.json").then(r=>r.json()).then(d=>{D=d;
  const cs=[...new Set(d.programs.map(p=>p.country))];
  $("#country").innerHTML+=cs.map(c=>`<option>${esc(c)}</option>`).join("");
  $("#stats").innerHTML=[[d.programs.length,"Programas activos"],[d.programs.filter(p=>p.reviewed).length,"Revisados"],[d.programs.filter(p=>p.tier==1).length,"Tier 1"],[cs.length,"Países"],[d.discarded.length,"Descartados"]].map(([n,l])=>`<div class="stat"><b>${n}</b><span>${l}</span></div>`).join("");
- $("#disc").innerHTML=d.discarded.map(x=>`<tr><td>${esc(x.name)}</td><td>${esc(x.country)}</td><td>${esc(x.reason)}</td></tr>`).join("");
+ $("#disc").innerHTML=d.discarded.map(x=>`<tr><td>${esc(x.name)}</td><td>${esc(x.country)}</td><td><span class="sec ${x.section=="B"?"b":""}" title="${x.section=="B"?"AI y neurociencias":"AI + psicología"}">${esc(x.section||"A")}</span></td><td>${esc(x.reason)}</td></tr>`).join("");
+ const N=d.neuro||[];
+ $("#nstats").innerHTML=[[N.length,"Programas"],[N.filter(p=>p.tier==1).length,"Tier 1"],[N.filter(p=>/condicional/i.test(p.admission)).length,"Condicionales"],[d.discarded.filter(x=>x.section=="B").length,"Descartados (B)"]].map(([n,l])=>`<div class="stat"><b>${n}</b><span>${l}</span></div>`).join("");
+ const X=d.programs.filter(p=>p.alsoB);
+ $("#xref").innerHTML=X.length?`<b>También aplican a esta sección</b> (viven en la lista principal): `+X.map(p=>`<span class="chip">${esc(p.name)}</span>`).join(""):"";
  $("#foot").textContent="Actualizado "+d.updated+" · Fuente: contexto-maestria-ai-psicologia.md";
- render();
+ render();renderN();
 });
 function render(){
  const q=$("#q").value.toLowerCase(),c=$("#country").value,t=$("#tier").value,r=$("#rev").value;
@@ -88,5 +113,23 @@ function render(){
    ${/^https?:\/\//.test(p.url)?`<p><a href="${esc(p.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Sitio oficial ↗</a></p>`:""}</div>
  </article>`).join("");
 }
+function renderN(){
+ const q=$("#q").value.toLowerCase(),N=(D.neuro||[]).filter(p=>JSON.stringify(p).toLowerCase().includes(q));
+ $("#ngrid").innerHTML=N.length?N.map(p=>`
+ <article class="card" onclick="this.classList.toggle('open')">
+  <span class="tier t${p.tier}">${p.tier==5?"Bajo":"Tier "+p.tier}</span>
+  <h2>${esc(p.name)}</h2><div class="school">${esc(p.school)} · ${esc(p.country)}</div>
+  <div class="full">${esc(p.full)}</div>
+  <div class="row"><span>Fit NeuroAI</span><span class="stars">${"★".repeat(p.fit)}<i>${"★".repeat(5-p.fit)}</i></span></div>
+  <div class="row"><span>Conexión tesis CLT×AI</span><span class="stars">${"★".repeat(p.thesis||0)}<i>${"★".repeat(5-(p.thesis||0))}</i></span></div>
+  <div class="row"><span>Idioma</span><span>${esc(p.language)}</span></div>
+  <div class="row"><span>Admisión</span><span>${esc(p.admission)}</span></div>
+  <div class="status">${esc(p.status)}</div>
+  <div class="detail"><p>${esc(p.notes)}</p>
+   ${p.deadline?`<p><b>Deadline:</b> ${esc(p.deadline)}</p>`:""}${p.tuition?`<p><b>Costo:</b> ${esc(p.tuition)}</p>`:""}${p.labs?`<p><b>Labs:</b> ${esc(p.labs)}</p>`:""}
+   ${/^https?:\/\//.test(p.url)?`<p><a href="${esc(p.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Sitio oficial ↗</a></p>`:""}</div>
+ </article>`).join(""):`<p class="empty">Sin resultados.</p>`;
+}
+$("#q").addEventListener("input",()=>D&&renderN());
 ["#q","#country","#tier","#rev"].forEach(s=>$(s).addEventListener("input",render));
 </script></body></html>
