@@ -101,6 +101,85 @@ Programas que conectan **interacción humano-AI, modelado computacional de la co
 
 ---
 
+## 6B. AI y neurociencias
+
+> Sección B (creada 2026-11-20). Mismos criterios de geografía, admisión, idioma y timeline que la lista principal; el fit temático cambia a programas que unen AI/ML con neurociencia: neurociencia computacional, NeuroAI (AI inspirada en el cerebro y modelos de AI para entender el cerebro), modelado de redes neuronales biológicas, análisis de datos neurales con ML, BCI con componente de AI. Se descarta neuro molecular/celular/clínica sin componente computacional y ML puro sin vínculo con el cerebro. La columna de fit muestra dos ejes: **NeuroAI** (fit con esta sección) y **Tesis CLT×AI** (conexión con predictores psicológicos de colaboración humano-AI; secundario aquí). Un programa vive en una sola sección.
+>
+> **Viven en la lista principal pero también aplican a B:** cog-SUP NCIA, Mod4NeuCog, Cambridge MPhil NeuroAI and Intelligent Systems, Tübingen Neural & Behavioural Sciences, Trento AIS (Neurocognitive Architectures), Grenoble CNA, UvA Brain and Cognitive Sciences.
+
+| Programa | País | Tier | Idioma | Fit temático (NeuroAI · tesis CLT×AI) | Feasibilidad admisión (perfil psicología) | Estatus / Notas |
+|---|---|---|---|---|---|---|
+| **UPF — Master in Brain and Cognition** (Universitat Pompeu Fabra, Barcelona) | España | **2** | Inglés (100%, B2) | NeuroAI ★★★★☆ · Tesis CLT×AI ★★☆☆☆ | Alta — "degrees in any academic field of study will be accepted"; muy selectivo (~120 solicitudes / 25 plazas) | Nuevo en B (reevaluado: antes descartado en A). 1 año, 60 ECTS. |
+| **Radboud/Donders — Research MSc Cognitive Neuroscience** (Radboud University, Donders Institute (Nijmegen)) | Países Bajos | **1** | Inglés (100%) | NeuroAI ★★★★☆ · Tesis CLT×AI ★★★☆☆ | Alta para el programa ("Behavioural Sciences (e.g., Psychology), Artificial Intelligence…"); el track de computación neural es condicional (requisitos propios) | Nuevo · top-tier (Donders). Máster de investigación de 2 años en uno de los institutos de neurociencia cognitiva top del mundo. |
+| **Lyon 1 — Master Neurosciences, M2 Computational Neurosciences (CNS)** (Université Claude Bernard Lyon 1) | Francia | **3** | Inglés (100% en M1 y M2 desde 2022) | NeuroAI ★★★★☆ · Tesis CLT×AI ★★☆☆☆ | Condicional / media — M1 exige 3 años de educación superior y pondera experiencia en "neurosciences and related fields (e.g. physiology, psychology, computer science)"; ≥3 ECTS de neurociencia | Nuevo · reevaluado (antes descartado en A bajo 'Lyon 1 Neuroscience'). El M2 CNS es teoría + modelado por proyectos. |
+| **Tübingen — MSc Computational Neuroscience (ex Neural Information Processing)** (Universität Tübingen + MPI Biological Cybernetics / Hertie AI) | Alemania | **1** | Inglés (B2/C1) | NeuroAI ★★★★★ · Tesis CLT×AI ★★☆☆☆ | Condicional — orientado a física, mate, CS, bioinformática o ingeniería; matemáticas, estadística, probabilidad y programación "compulsory"; examen de materia. Psicología no listada; transcript ITAM cubre mate/programación, física sería brecha | Nuevo · condicional. Núcleo NeuroAI genuino (machine learning para neurociencia, modelos de redes). |
+| **BCCN Berlin — MSc Computational Neuroscience** (Bernstein Center for Computational Neuroscience Berlin) | Alemania | **1** | Inglés | NeuroAI ★★★★★ · Tesis CLT×AI ★★☆☆☆ | Condicional — bachelor "in the natural sciences, in an engineering discipline, or in mathematics" + ≥24 ECTS en álgebra lineal, cálculo/sistemas dinámicos y probabilidad/estadística (ITAM probablemente cubre los 24 ECTS; psicología como 'ciencia natural' requiere confirmación escrita) | Nuevo · condicional. Programa de referencia en neurociencia computacional en Europa. |
+| **McGill — MSc Integrated Program in Neuroscience (IPN)** (McGill University (vínculo con Mila vía supervisores)) | Canadá | **2** | Inglés | NeuroAI ★★★☆☆ · Tesis CLT×AI ★★☆☆☆ | Condicional — acepta cualquier bachelor con CGPA ≥3.3/4.0, pero exige supervisor confirmado antes del deadline (si no, se rechaza) | Nuevo · condicional (supervisor). Estipendio garantizado (no se permite autofinanciarse): la opción B mejor financiada. |
+| **CMU — M.S. in Neural Technologies (MiNT-R, track NCAI)** (Carnegie Mellon University, Neuroscience Institute) | Estados Unidos | **1** | Inglés | NeuroAI ★★★★★ · Tesis CLT×AI ★★★☆☆ | Condicional — bachelors objetivo: física, biología, química, matemáticas, CS, neurociencia o ingeniería; requiere estadística, ciencia de datos y programación (Python/R/C++). Sin corte de GPA; pesa el fit con faculty | Nuevo (lanzado 2026) · condicional. MiNT-R: 5 semestres, 147 unidades, tesis. |
+| **CityU HK — MSc Brain Computing and Artificial Intelligence** (City University of Hong Kong, Department of Neuroscience) | China (Hong Kong) | **3** | Inglés | NeuroAI ★★★★☆ · Tesis CLT×AI ★★★☆☆ | Alta — "recognised undergraduate degree in Science / Bioengineering / Psychology / Medicine / … / Computer Science or related"; preferencia por formación en estadística, neurociencia, psicología | Nuevo (programa 2027) · taught. Cursos núcleo 'Human and Artificial Intelligence' y 'Advanced Computational Neuroscience'. |
+
+### Notas por programa — sección B
+
+**UPF — Master in Brain and Cognition**
+- URL oficial: https://www.upf.edu/web/mbc
+- Deadline próximo ciclo: Varios periodos; 2027 no publicado (agregadores: 10 jun 2027). Proxy 2028: aplicar en el 1er periodo (nov 2027–mar 2028); confirmar con mbc@upf.edu
+- Colegiatura / becas (mexicano no-UE): ≈€93.5/crédito no-UE → ≈€5,750 total (tabla UPF 2026-27, sin verificar columnas). Sin beca específica; SECIHTI
+- Labs/faculty NeuroAI: Rubén Moreno-Bote (neuro teórica, decisión y AI), Gustavo Deco (whole-brain modelling), CBC
+- Notas: 1 año, 60 ECTS. Cursos de Computational Neuroscience (spiking, plasticidad, aprendizaje), Data Analysis for Cognitive Neuroscience (Python/Matlab) y neuroimagen. El transcript ITAM es un plus (piden base cuantitativa). Sin componente human-AI; fuerte en toma de decisiones y modelado.
+
+**Radboud/Donders — Research MSc Cognitive Neuroscience**
+- URL oficial: https://www.ru.nl/en/education/masters/cognitive-neuroscience-research
+- Deadline próximo ciclo: Ciclo 2027: no-UE 1 abr 2027; becas 31 ene 2027. Proxy 2028: 31 ene 2028
+- Colegiatura / becas (mexicano no-UE): €19,714/año no-UE (2026-27). Becas: Radboud Scholarship Programme (por verificar elegibilidad), SECIHTI
+- Labs/faculty NeuroAI: Marcel van Gerven, Umut Güçlü (AI y computación neural), Donders Centre for Cognition
+- Notas: Máster de investigación de 2 años en uno de los institutos de neurociencia cognitiva top del mundo. Especialización de computación neural/neurotecnología con AI (nombre exacto por confirmar). Admisión por especialización; con psicología entra a tracks cognitivos y puede optar a computación si acredita mate/programación (ITAM).
+
+**Lyon 1 — Master Neurosciences, M2 Computational Neurosciences (CNS)**
+- URL oficial: https://masterneuro.univ-lyon1.fr/m2-cns/
+- Deadline próximo ciclo: M1 2026: 17 feb–16 mar (MonMaster). Proxy 2028: dic 2027–mar 2028 (Études en France antes)
+- Colegiatura / becas (mexicano no-UE): Derechos diferenciados no-UE ≈€3,941/año (exención en Lyon 1 sin verificar). Eiffel bloqueado; SECIHTI
+- Labs/faculty NeuroAI: Jérémie Mattout, Matteo di Volo (coordinadores M2 CNS); CRNL
+- Notas: El M2 CNS es teoría + modelado por proyectos. Entrada por M1 (2 años). Desde México la ruta probable es Études en France (Campus France), con plazos más tempranos que MonMaster. Sitio oficial no accesible desde la sesión: verificar.
+
+**Tübingen — MSc Computational Neuroscience (ex Neural Information Processing)**
+- URL oficial: https://uni-tuebingen.de/en/study/finding-a-course/degree-programs-available/detail/course/computational-neuroscience-master/
+- Deadline próximo ciclo: 31 mar (semestre de invierno). Proxy 2028: 31 mar 2028
+- Colegiatura / becas (mexicano no-UE): €1,500/semestre no-UE (Baden-Württemberg). Becas: DAAD, SECIHTI
+- Labs/faculty NeuroAI: Jakob Macke, Matthias Bethge, Philipp Berens, Peter Dayan (MPI)
+- Notas: Núcleo NeuroAI genuino (machine learning para neurociencia, modelos de redes). 15 plazas/año. Parece renombre del MSc Neural Information Processing (handbook 'CN'); confirmar. Distinto del MSc Neural & Behavioural Sciences (ya en la lista principal).
+
+**BCCN Berlin — MSc Computational Neuroscience**
+- URL oficial: https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/computational-neuroscience-m-sc
+- Deadline próximo ciclo: Fuentes divergen: 15 ene (uni-assist) / 15 mar. Proxy seguro 2028: 15 ene 2028
+- Colegiatura / becas (mexicano no-UE): Sin colegiatura; sólo contribución semestral (~€300–350). Becas: DAAD, SECIHTI
+- Labs/faculty NeuroAI: Henning Sprekeler, Klaus Obermayer, Richard Kempter, John-Dylan Haynes
+- Notas: Programa de referencia en neurociencia computacional en Europa. Aplicación sólo vía TU Berlin. Pedir confirmación por escrito sobre psicología + créditos ITAM antes de invertir en la aplicación.
+
+**McGill — MSc Integrated Program in Neuroscience (IPN)**
+- URL oficial: https://www.mcgill.ca/ipn/prospective/admission-requirements
+- Deadline próximo ciclo: Internacionales, otoño: 15 ene. Proxy 2028: 15 ene 2028 (supervisor asegurado antes)
+- Colegiatura / becas (mexicano no-UE): Financiado: estipendio mínimo garantizado (monto internacional 2026-27 no recuperado)
+- Labs/faculty NeuroAI: Computational Neuroscience en IPN; faculty con afiliación Mila (verificar)
+- Notas: Estipendio garantizado (no se permite autofinanciarse): la opción B mejor financiada. El contenido NeuroAI depende del supervisor; la vía realista a faculty afiliado a Mila (p. ej. Blake Richards — afiliación por confirmar). Contactar supervisores en 2027.
+
+**CMU — M.S. in Neural Technologies (MiNT-R, track NCAI)**
+- URL oficial: https://www.cmu.edu/ni/academics/grad/programs/ms-neural-technologies
+- Deadline próximo ciclo: 2026: 15 feb (MiNT-R/AS). Proxy 2028: ~1–15 feb 2028
+- Colegiatura / becas (mexicano no-UE): No publicada; referencia CMU MS ≈US$60k/año (sin verificar). Sin financiamiento declarado; SECIHTI/Fulbright-García Robles
+- Labs/faculty NeuroAI: CMU Neuroscience Institute; Center for the Neural Basis of Cognition (CNBC, con Pitt)
+- Notas: MiNT-R: 5 semestres, 147 unidades, tesis. Track NCAI incluye Machine Learning y 'Representation and Generation in Neuroscience and AI'. El transcript ITAM puede cubrir el requisito cuantitativo. Pittsburgh: cercanía con Pitt ISP y CMU HCII (ya en lista principal).
+
+**CityU HK — MSc Brain Computing and Artificial Intelligence**
+- URL oficial: https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-biomedicine/department-of-neuroscience/p100
+- Deadline próximo ciclo: Entrada 2027: rondas 15 sep 2026 y 30 abr 2027 (revisión continua). Proxy 2028: sep 2027–abr 2028
+- Colegiatura / becas (mexicano no-UE): P98 de referencia: HK$7,100/crédito → ≈HK$213,000 (≈US$27k) total; P100 sin confirmar. Autofinanciado; SECIHTI
+- Labs/faculty NeuroAI: Department of Neuroscience, CityU
+- Notas: Cursos núcleo 'Human and Artificial Intelligence' y 'Advanced Computational Neuroscience'. 30 créditos, 1 año, autofinanciado, cupo 50. Alternativa hermana: MSc Neuroscience (P98) con stream 'Human and Artificial Intelligence'. Componente de investigación pequeño; CityU no es top-tier en neuro pero China entra por geografía.
+
+- **Limitación:** varios sitios oficiales (upf.edu, univ-lyon1.fr, uni-tuebingen.de, bccn-berlin.de, mcgill.ca, cmu.edu, cityu.edu.hk) no fueron accesibles desde la sesión; los datos provienen de extractos de búsqueda de las páginas oficiales. Verificar deadlines y costos antes de aplicar.
+
+---
+
 ## 7. Criterios de inclusión para nuevos programas
 
 Agregar un programa a la lista **solo si cumple TODOS** los siguientes:
@@ -298,7 +377,6 @@ Si un programa **no** cumple los criterios, no agregarlo; opcionalmente anotarlo
 | Tilburg Cognitive Science & AI | Países Bajos | No top-tier global según criterio; exige bachelor CS/cog-sci con programación. |
 | Aalto HCI (Intelligent & Interactive Systems) | Finlandia | No top-tier en cog-sci; fit AI-cognición marginal. |
 | EMAI (Erasmus Mundus AI) | Varios | AI puro sin componente cognitivo. |
-| UPF Master in Brain and Cognition | España | Neurociencia computacional; fit AI×cognición marginal, sin componente human-AI/CLT. |
 | Granada MSc Cognitive and Behavioural Neuroscience | España | Experimental/neuropsicológico, sin AI. |
 | UB Cognitive Science and Language | España | Orientado a lingüística; sin AI ni human-AI central; no top-tier. |
 | Spain AI masters (UA, UDC, UC3M, USC, UB AI) | España | AI técnico; exigen bachelor CS/STEM; sin componente cognitivo. |
@@ -394,9 +472,34 @@ Si un programa **no** cumple los criterios, no agregarlo; opcionalmente anotarlo
 | España/Portugal (3): Navarra, Deusto, IE, UNIR, Málaga, UPM Neurotechnology, UV/UPV/URV, Salamanca, Sevilla, La Laguna, Porto, Coimbra, Aveiro, NOVA, IST, ISCTE | España / Portugal | AI puro, títulos propios online en español, neurotecnología de ingeniería, o sin máster AI×cognición en inglés. (2026-11-20) |
 | Erasmus Mundus (2): MAIA, Navigating AI Business Transformation, MARIHE; EIT Digital HCI and Design; HU Berlin Mind and Brain; TUM Research on Teaching and Learning | Varios / Alemania | Imagen médica, negocios o gestión; EIT Digital con compuerta CS; HU Berlin cerró el track Mind (mar 2026) y TUM dejó de admitir. (2026-11-20) |
 
+| A (3ª corrida 2026-11-20): St. Thomas MA Collaborative Intelligence, Algoma MCS (human-centred AI), Florencia LM AI, Artois master IA, Neuchâtel MA Cognitive Science | EE.UU. / Canadá / Italia / Francia / Suiza | Online sin visa, compuerta CS, AI puro, o fuera de geografía y en francés. |
+
+> Todas las filas anteriores se evaluaron para la **sección A** (AI + psicología). *UPF Master in Brain and Cognition* se retiró de esta tabla: se reevaluó y vive ahora en la sección B.
+
+### Descartados — sección B (AI y neurociencias)
+
+| Programa | País | Razón |
+|---|---|---|
+| Oxford MSc Neuroscience | Reino Unido | Admite psicología explícitamente, pero la computación es 1 de 5 ramas (molecular→cognitiva) y no hay ML/AI en el núcleo; fit B marginal. (2026-11-20) |
+| UCL MSc Cognitive Neuroscience / MSc Neuroscience | Reino Unido | Cog-neuro con un módulo de modelado (sin ML central); MSc Neuroscience exige bio/biomédica. ~£42–43k. (2026-11-20) |
+| ETH/UZH MSc Neural Systems and Computation | Suiza | Psicología no está entre disciplinas listadas (caso por caso + entrevista + cursos extra); factibilidad muy baja. (2026-11-20) |
+| EPFL MSc Neuro-X / Edinburgh (sin MSc de neuro computacional) / Weizmann Brain Sciences | Suiza / Reino Unido / Israel | Neuro-X es ingeniería; Edinburgh no tiene MSc taught de comp-neuro (Integrative Neuroscience exige biología); Weizmann exige ciencias exactas/vida y es vía PhD. (2026-11-20) |
+| Imperial MSc Neurotechnology | Reino Unido | Exige ingeniería/mate/física o bio con habilidades cuantitativas; psicología no listada; BCI de ingeniería. (2026-11-20) |
+| LMU Munich GSN — MSc Neurosciences | Alemania | Admite psicología y sin colegiatura, pero no se verificó componente de ML/AI (neuro de sistemas). Reevaluar si se confirma track computacional. (2026-11-20) |
+| European Master in Neurotechnology (NeurotechEU, Bonn, nuevo sep 2027) | Varios (UE) | Consorcio no top-tier en conjunto; socios/admisión sin confirmar. (2026-11-20) |
+| Paris-Saclay M2 Computational Neurosciences and Neuroengineering | Francia | Sólo M2; rutas de admisión en CS/mate/física/vida/ingeniería; M1 de alimentación en francés o con base biológica. (2026-11-20) |
+| Coimbra MSc Psychological Science (track inglés) | Portugal | Admite psicología, pero AI sólo como electiva; neuro cognitiva sin componente AI central. (2026-11-20) |
+| Italia B: SISSA (sin máster propio; Physics of Complex Systems exige física), Genova Neuroengineering, Pisa/Sant'Anna Bionics, PoliMi Biomedical, Padova Bioengineering/Physics of Data, UniTo Biotech for Neuroscience | Italia | Compuerta de ingeniería/física (psicología no cuenta) o biotecnología sin AI. (2026-11-20) |
+| Francia B: Bordeaux NeuroBIM / ENSC Cognitique, Toulouse NCI, ENS Lyon, Aix-Marseille | Francia | Comp-neuro sólo como electiva, en francés, ingeniería, o sin máster propio en el área. (2026-11-20) |
+| España/Portugal B: UPC/UAB Neuroengineering & Rehabilitation, UB/UAB Neurociencias, IST Biomedical Engineering, NOVA Biomedical Research, Coimbra Molecular Neuroscience, Champalimaud | España / Portugal | Ingeniería/física, en español/catalán, biomédica sin AI, o sin máster (Champalimaud: sólo PhD INDP — acepta licenciatura de 4+ años, deadline ~31 ene; lead para el PhD). (2026-11-20) |
+| CityU HK MSc Neuroscience (P98) — stream Human & AI | China (Hong Kong) | Se registra como alternativa dentro de la ficha de CityU P100 (no entrada separada). (2026-11-20) |
+| Western MSc Neuroscience (BrainsCAN) / UBC MSc Neuroscience / Brandeis MS Neuroscience / USC MS Neuroimaging & Informatics / Drexel MS Neuroscience / Georgetown MS Integrative Neuroscience / WPI MS Neuroscience | Canadá / EE.UU. | Componente computacional dependiente del supervisor, AI menor, sin tesis o sin fondos; WPI sin verificar admisión de psicología. Western: deadline internacional 26 mar 2027. (2026-11-20) |
+| Johns Hopkins BME MSE / Columbia, NYU CNS, Stanford, USC, Penn, BU, UW, UCSD (sólo PhD) / Waterloo CTN / Toronto | EE.UU. / Canadá | Compuerta de ingeniería o sin maestría terminal en neuro computacional; Waterloo CTN 'setting up a graduate program'. (2026-11-20) |
+| Australia B (Melbourne, Sydney, Monash, UNSW, UQ, ANU Master of Neuroscience, Western Sydney Neuromorphic Engineering) / China continental (Tsinghua Brain & Cognition) / HKU, HKUST, CityU MSc AI | Australia / China | Sin máster de comp-neuro por cursos, sin contenido computacional, ingeniería, en chino, o AI puro con compuerta CS. (2026-11-20) |
+| México/Argentina B: UNAM Neurobiología, Cinvestav, INB, UBA | México / Argentina | Neurociencia experimental sin componente AI/computacional central (español sería viable). (2026-11-20) |
 
 ---
 
 ## 9. Dashboard (Vercel)
 
-El dashboard vive en `dashboard/` (sitio estático; `vercel.json` apunta ahí). **Regla permanente:** cada vez que se agregue, cambie o descarte un programa en este documento, actualizar también `dashboard/programs.json` (arrays `programs` y `discarded`, y el campo `updated`) en el mismo commit/PR.
+El dashboard vive en `dashboard/` (sitio estático; `vercel.json` apunta ahí). **Regla permanente:** cada vez que se agregue, cambie o descarte un programa en este documento, actualizar también `dashboard/programs.json` (arrays `programs`, `neuro` —sección B— y `discarded` con campo `section` A/B; marcar `alsoB: true` en programas de la lista principal que también aplican a B; y el campo `updated`) en el mismo commit/PR.
