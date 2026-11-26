@@ -117,6 +117,7 @@ Programas que conectan **interacción humano-AI, modelado computacional de la co
 | **McGill — MSc Integrated Program in Neuroscience (IPN)** (McGill University (vínculo con Mila vía supervisores)) | Canadá | **2** | Inglés | NeuroAI ★★★☆☆ · Tesis CLT×AI ★★☆☆☆ | Condicional — acepta cualquier bachelor con CGPA ≥3.3/4.0, pero exige supervisor confirmado antes del deadline (si no, se rechaza) | Nuevo · condicional (supervisor). Estipendio garantizado (no se permite autofinanciarse): la opción B mejor financiada. |
 | **CMU — M.S. in Neural Technologies (MiNT-R, track NCAI)** (Carnegie Mellon University, Neuroscience Institute) | Estados Unidos | **1** | Inglés | NeuroAI ★★★★★ · Tesis CLT×AI ★★★☆☆ | Condicional — bachelors objetivo: física, biología, química, matemáticas, CS, neurociencia o ingeniería; requiere estadística, ciencia de datos y programación (Python/R/C++). Sin corte de GPA; pesa el fit con faculty | Nuevo (lanzado 2026) · condicional. MiNT-R: 5 semestres, 147 unidades, tesis. |
 | **CityU HK — MSc Brain Computing and Artificial Intelligence** (City University of Hong Kong, Department of Neuroscience) | China (Hong Kong) | **3** | Inglés | NeuroAI ★★★★☆ · Tesis CLT×AI ★★★☆☆ | Alta — "recognised undergraduate degree in Science / Bioengineering / Psychology / Medicine / … / Computer Science or related"; preferencia por formación en estadística, neurociencia, psicología | Nuevo (programa 2027) · taught. Cursos núcleo 'Human and Artificial Intelligence' y 'Advanced Computational Neuroscience'. |
+| **uOttawa — MSc Neuroscience (opción Master's research project 12 meses / tesis 24 meses), lab en CNDAI** (University of Ottawa, Faculty of Medicine + Centre for Neural Dynamics and Artificial Intelligence) | Canadá | **3** | Inglés (universidad bilingüe; programa disponible en inglés) | NeuroAI ★★★★☆ · Tesis CLT×AI ★★☆☆☆ | Condicional — honours bachelor con promedio ≥B+ (75%); la opción de 12 meses está diseñada para estudiantes con poca formación previa en neurociencia, pero exige conseguir laboratorio anfitrión (contacto previo con Naud/Longtin/Thivierge) | Nuevo (2026-11-26) · condicional (supervisor). Mismo tipo de programa que McGill IPN, menor prestigio, pero con núcleo NeuroAI explícito vía CNDAI. Deadline y colegiatura sin verificar. |
 
 ### Notas por programa — sección B
 
@@ -177,6 +178,13 @@ Programas que conectan **interacción humano-AI, modelado computacional de la co
 - Notas: Cursos núcleo 'Human and Artificial Intelligence' y 'Advanced Computational Neuroscience'. 30 créditos, 1 año, autofinanciado, cupo 50. Alternativa hermana: MSc Neuroscience (P98) con stream 'Human and Artificial Intelligence'. Componente de investigación pequeño; CityU no es top-tier en neuro pero China entra por geografía.
 
 - **Limitación:** varios sitios oficiales (upf.edu, univ-lyon1.fr, uni-tuebingen.de, bccn-berlin.de, mcgill.ca, cmu.edu, cityu.edu.hk) no fueron accesibles desde la sesión; los datos provienen de extractos de búsqueda de las páginas oficiales. Verificar deadlines y costos antes de aplicar.
+
+**uOttawa — MSc Neuroscience (CNDAI)** — nuevo 2026-11-26
+- URL oficial: https://www.uottawa.ca/faculty-medicine/graduate-postdoctoral/programs-admission/program-information/msc-research-project/master-neuroscience · catálogo: https://catalogue.uottawa.ca/en/graduate/master-science-neuroscience/ · CNDAI: https://uniweb.uottawa.ca/sites/CNDAI
+- Deadline próximo ciclo: **no verificado** en sitio oficial (agregadores: 1-feb para entrada de otoño, 1-dic para verano; contradictorios). Proxy Fall 2028: ~enero–febrero 2028, con contacto a supervisores en otoño 2027.
+- Colegiatura / becas: **no verificada** (agregadores: CAD ~14k–26k/año internacional). En Canadá la MSc con tesis suele financiarse vía supervisor; la opción de proyecto de 12 meses probablemente no. Palancas: SECIHTI; becas del supervisor; posible exención diferencial sólo para programas en francés.
+- Labs/faculty NeuroAI: Richard Naud (NeuroAI, ML para neurociencia, asignación de crédito/plasticidad); André Longtin (codirector CNDAI, neurofísica computacional); Jean-Philippe Thivierge (School of Psychology; memoria de trabajo y redes; coautor de 'What AI and Neuroscience Can Learn from Each Other', 2024) — el puente más cercano a la tesis; Jérémie Lefebvre.
+- Notas: alternativa no verificada — Thivierge podría supervisar desde la maestría de Psicología Experimental de uOttawa (eje más cercano a A). Verificación parcial: programa, admisión y CNDAI confirmados por extractos de páginas oficiales; WebFetch bloqueado en la sesión.
 
 ---
 
@@ -358,6 +366,25 @@ Si un programa **no** cumple los criterios, no agregarlo; opcionalmente anotarlo
 - **Erasmus Mundus (convocatoria 2026, 37 másters):** se recuperaron ~30 de los 37 títulos; ninguno es AI×cognición. Faltan ~7 por identificar (lista oficial no accesible).
 - **Limitación (igual que corridas previas):** sitios universitarios bloqueados desde la sesión; todo proviene de extractos de búsqueda de las páginas oficiales citadas.
 
+**Cambios detectados en programas ya listados (2026-11-26)**
+
+*Sección A — AI + psicología*
+- **ENS-PSL Cogmaster — colegiatura (importante):** ENS-PSL eximía a todos sus alumnos de máster no-UE de la tarifa diferenciada; **ya no lo hará desde el intake 2027** por el Décret 2026-385 (19-may-2026). Tarifa 2026-27: €3,950/año + €105 CVEC; 2027-28 por decreto. Para Fall 2028 presupuestar ~€3,950/año salvo exención individual. Ventana 2027: una página PSL da 14-ene a 24-feb-2027; la del máster dice "TBA". Fuentes: https://master-cognitive-science.ens.psl.eu/en/application/apply-masters-program-17283 · https://www.psl.eu/en/education/cognitive-science-cogmaster
+- **Todos los másteres franceses (cog-SUP NCIA, Paris-Saclay HCI, Mod4NeuCog, Grenoble CNA, MaSCo, AIRE, Lyon 1 CNS):** tope de exenciones no-UE 30% (2026-27) y 25% (2027-28); Paris Cité mantuvo exención parcial en 2026-27 y su consejo y el de Paris-Saclay votaron mociones contra el decreto. Presupuestar ~€3,950/año; exención incierta. Fuente: https://www.enseignementsup-recherche.gouv.fr/fr/faq-droits-d-inscription-differencies-pour-les-etudiants-extra-communautaires-103043
+- **cog-SUP NCIA:** sin calendario 2027; ciclo anterior cerró 1-mar-2026 → probable inicios de marzo. Fuente: https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-sciences-cognitives
+- **Padova CogTech:** sólo un agregador da 2027/28 (no-UE 7-ene a 7-mar-2027); aviso oficial pendiente en https://www.unipd.it/en/ammissioni-cognitive-human
+- **Trento AIS:** en 2026/27 hubo ronda temprana hasta 12-nov-2026 → para 2028 la ventana podría abrir ~otoño 2027. Fuente: https://corsi.unitn.it/en/artificial-intelligence-systems
+- **Milano HCAI:** sin datos 2027/28 (existe un manifesto 2027 sin revisar); patrón no-UE con visa: ~finales de abril.
+- **HKU TDLL:** ya publicada la tabla de cuotas 2027-28 (application fee HK$780; monto de colegiatura no visible en extractos). Deadline full-time ciclo anterior: 13-mar-2026. Fuente: https://web.edu.hku.hk/programme/tdll/tuition-and-fees
+- **Sin cambios:** Edinburgh CogSci (deadline 31-mar, requisitos 2027-28 iguales), UPF CSIM, Tufts, TC Columbia, Pitt ISP (15-ene). **No revisados esta corrida:** McGill LS, WPI, UNSW, Berkeley, Minnesota, UC Merced.
+
+*Sección B — AI + neurociencias*
+- **Cambridge MPhil NeuroAI (vive en A, aplica a B):** entrada oct-2027: abrió 9-sep-2026, Gates US 14/15-oct, deadline general para plazas financiadas 8-dic-2026; entrevistas en enero; primera cohorte 18 admitidos de >200 solicitudes. Proxy 2028: inicios de diciembre 2027. Fuente: https://www.postgraduate.study.cam.ac.uk/courses/directory/cvbsmpnis/apply
+- **CityU HK P100:** página 2027/28 publicada: deadline temprano 6-nov-2026, final 30-abr-2027 (rolling); IELTS 6.0 / TOEFL 79; cupo indicativo 50; sin financiamiento gubernamental. Fuente: https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-biomedicine/department-of-neuroscience/p100
+- **BCCN Berlin:** en 2026 el deadline pasó de 15-mar a 15-abr (nuevo procedimiento); la acreditación vence 8-jun-2028 — vigilar (sin señal de cierre).
+- **Tübingen MSc Computational Neuroscience:** sin cambios (portal feb–31-mar; €1,500/semestre no-UE). **CMU MiNT-R:** deadline Fall 2027 aún no publicado (2026: 15-feb). **Sorbonne AIDA-Neuro** (descartado): se integra en otro máster desde 2026-27.
+- **Limitación:** WebFetch bloqueado en la sesión; datos vía extractos de búsqueda de páginas oficiales.
+
 ---
 
 ## 8. Evaluados y descartados
@@ -473,6 +500,13 @@ Si un programa **no** cumple los criterios, no agregarlo; opcionalmente anotarlo
 | Erasmus Mundus (2): MAIA, Navigating AI Business Transformation, MARIHE; EIT Digital HCI and Design; HU Berlin Mind and Brain; TUM Research on Teaching and Learning | Varios / Alemania | Imagen médica, negocios o gestión; EIT Digital con compuerta CS; HU Berlin cerró el track Mind (mar 2026) y TUM dejó de admitir. (2026-11-20) |
 
 | A (3ª corrida 2026-11-20): St. Thomas MA Collaborative Intelligence, Algoma MCS (human-centred AI), Florencia LM AI, Artois master IA, Neuchâtel MA Cognitive Science | EE.UU. / Canadá / Italia / Francia / Suiza | Online sin visa, compuerta CS, AI puro, o fuera de geografía y en francés. |
+| Drexel — MS Applied Learning Sciences, Technology, and Creativity (nuevo, Fall 2027) | EE.UU. | Profesional, mayormente online; AI como módulo, sin ML/DL ni línea CLT×AI de investigación. (2026-11-26) |
+| MBZUAI — MSc Human-Computer Interaction (nuevo, fall 2027) | EAU | Fuera de geografía; MBZUAI no es top-tier en ciencia cognitiva (perfil human-AI sí encaja). (2026-11-26) |
+| UTN Nuremberg — Human and Artificial Intelligence (M.Sc./M.A.) | Alemania | Universidad nueva, no top-tier global. (2026-11-26) |
+| Exeter MSc Human Centred AI (2027) / Bristol MSc Human-Centred AI (Conversion) | Reino Unido | No top-tier; conversiones a AI sin componente cognitivo fuerte. (2026-11-26) |
+| PolyU — MSc Generative AI and the Humanities / MSc Generative AI | China (HK) | AI + humanidades/lingüística o AI puro; sin psicología/cog-sci. (2026-11-26) |
+| UAM — Máster en Sistemas Interactivos Inteligentes / UNIR — IA para la Ciencia del Comportamiento | España | UAM: informática, probablemente en español, sin orientación cognitiva; UNIR: título propio online no oficial. (2026-11-26) |
+| Erasmus Mundus 2027 (37 EMJM nuevos, p. ej. AISS Tallinn, MULTICOM Lund) / USA AI nuevos (UChicago MS Applied AI, Rice MAI, WashU AI Eng., UMD MS AI) | Varios / EE.UU. | Ninguno AI×cognición; AI puro. (2026-11-26) |
 
 > Todas las filas anteriores se evaluaron para la **sección A** (AI + psicología). *UPF Master in Brain and Cognition* se retiró de esta tabla: se reevaluó y vive ahora en la sección B.
 
@@ -497,6 +531,11 @@ Si un programa **no** cumple los criterios, no agregarlo; opcionalmente anotarlo
 | Johns Hopkins BME MSE / Columbia, NYU CNS, Stanford, USC, Penn, BU, UW, UCSD (sólo PhD) / Waterloo CTN / Toronto | EE.UU. / Canadá | Compuerta de ingeniería o sin maestría terminal en neuro computacional; Waterloo CTN 'setting up a graduate program'. (2026-11-20) |
 | Australia B (Melbourne, Sydney, Monash, UNSW, UQ, ANU Master of Neuroscience, Western Sydney Neuromorphic Engineering) / China continental (Tsinghua Brain & Cognition) / HKU, HKUST, CityU MSc AI | Australia / China | Sin máster de comp-neuro por cursos, sin contenido computacional, ingeniería, en chino, o AI puro con compuerta CS. (2026-11-20) |
 | México/Argentina B: UNAM Neurobiología, Cinvestav, INB, UBA | México / Argentina | Neurociencia experimental sin componente AI/computacional central (español sería viable). (2026-11-20) |
+| Caltech — Computation and Neural Systems (CNS) | EE.UU. | Sólo admite a PhD; maestría sólo en casos excepcionales (agregador que anuncia 'Master CNS' es engañoso). (2026-11-26) |
+| William & Mary — MS Applied Science (comp-neuro) | EE.UU. | Departamento centrado en PhD; sin track formal de neurociencia computacional. (2026-11-26) |
+| UAM — Máster en Neurociencia y Neurotecnología (nuevo, 60 ECTS) | España | En español fuera de MX/AR (criterio 4). Tiene comp-neuro e IA para neurotecnología, ~€5,079 no-UE: reabrir si se relaja el idioma. (2026-11-26) |
+| Miami / Utah — MS Neural Engineering; WashU PhD Neuroengineering (nuevo 2027) | EE.UU. | Ingeniería biomédica con compuerta de ingeniería y poca AI/cognición; WashU es doctorado. (2026-11-26) |
+| UNE — Master of Neuroscience (online) | Australia | Online, sin componente computacional. (2026-11-26) |
 
 ---
 

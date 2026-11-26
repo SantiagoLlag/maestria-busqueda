@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-26",
   "programs": [
     {
       "id": "cogsup-ncia",
@@ -33,8 +33,8 @@
       "status": "Top prioridad",
       "notes": "⚠️ 2026-11-12: PSL indica que el PhD Track de Cognitive Sciences NO reabre para entrada 2027; convocatoria 2028 sin información — hito del 11-dic-2027 en riesgo. Ruta base: admisión regular al M1 (ciclo 2027: 14 ene–24 feb). Requiere muestra escrita de investigación.  [2026-11-19] No-UE que ingresen desde sept 2027 pagan cuota diferenciada (~€3,950/año): ENS ya no exenta a todos. M1 2027: candidaturas 14 ene–24 feb 2027.",
       "url": "https://psl.eu/en/education/cognitive-science",
-      "deadline": "M1 regular ~ene–feb 2028 (proxy). PhD Track ~2027-12-11 sólo si reabre",
-      "tuition": "",
+      "deadline": "2027: 14-ene a 24-feb-2027 (página PSL; la del máster dice TBA). Proxy 2028: ene–feb 2028",
+      "tuition": "Desde el intake 2027 ENS-PSL ya no exime a no-UE (Décret 2026-385): ~€3,950/año + €105 CVEC (tarifa 2026-27). Eiffel bloqueado.",
       "labs": "",
       "reviewed": true
     },
@@ -433,7 +433,7 @@
       "status": "Propuesto · sin revisar",
       "notes": "Programa nuevo (primeras cohortes 2025–26/2026–27) — cumple con el pedido de detectar tracks recién lanzados. Deadline 2026/27: cerró 2 dic 2025; 2027/28 abre ~sep 2026 (proxy 2028: deadline ~inicios dic 2027 — cae al arranque de su ventana de aplicación). Tuition no confirmada (asumir £40k+, banda internacional de Cambridge); Gates Cambridge como ruta de beca a verificar. Débil en CLT/EdTech; fuerte en modelado comp",
       "url": "",
-      "deadline": "Entrada oct 2027: plazas financiadas hasta 8 dic 2026 (proxy 2028: ~inicios dic 2027)",
+      "deadline": "Entrada oct-2027: deadline plazas financiadas 8-dic-2026 (Gates US 14/15-oct). Proxy 2028: inicios de dic-2027",
       "tuition": "",
       "labs": "",
       "reviewed": false,
@@ -1641,6 +1641,78 @@
       "country": "México / Argentina",
       "reason": "Neurociencia experimental sin componente AI/computacional central (español sería viable). (2026-11-20)",
       "section": "B"
+    },
+    {
+      "name": "Drexel — MS Applied Learning Sciences, Technology, and Creativity (nuevo, Fall 2027)",
+      "country": "EE.UU.",
+      "reason": "Profesional, mayormente online; AI como módulo, sin ML/DL ni línea CLT×AI de investigación. (2026-11-26)",
+      "section": "A"
+    },
+    {
+      "name": "MBZUAI — MSc Human-Computer Interaction (nuevo, fall 2027)",
+      "country": "EAU",
+      "reason": "Fuera de geografía; MBZUAI no es top-tier en ciencia cognitiva (perfil human-AI sí encaja). (2026-11-26)",
+      "section": "A"
+    },
+    {
+      "name": "UTN Nuremberg — Human and Artificial Intelligence (M.Sc./M.A.)",
+      "country": "Alemania",
+      "reason": "Universidad nueva, no top-tier global. (2026-11-26)",
+      "section": "A"
+    },
+    {
+      "name": "Exeter MSc Human Centred AI (2027) / Bristol MSc Human-Centred AI (Conversion)",
+      "country": "Reino Unido",
+      "reason": "No top-tier; conversiones a AI sin componente cognitivo fuerte. (2026-11-26)",
+      "section": "A"
+    },
+    {
+      "name": "PolyU — MSc Generative AI and the Humanities / MSc Generative AI",
+      "country": "China (HK)",
+      "reason": "AI + humanidades/lingüística o AI puro; sin psicología/cog-sci. (2026-11-26)",
+      "section": "A"
+    },
+    {
+      "name": "UAM — Máster en Sistemas Interactivos Inteligentes / UNIR — IA para la Ciencia del Comportamiento",
+      "country": "España",
+      "reason": "UAM: informática, probablemente en español, sin orientación cognitiva; UNIR: título propio online no oficial. (2026-11-26)",
+      "section": "A"
+    },
+    {
+      "name": "Erasmus Mundus 2027 (37 EMJM nuevos, p. ej. AISS Tallinn, MULTICOM Lund) / USA AI nuevos (UChicago MS Applied AI, Rice MAI, WashU AI Eng., UMD MS AI)",
+      "country": "Varios / EE.UU.",
+      "reason": "Ninguno AI×cognición; AI puro. (2026-11-26)",
+      "section": "A"
+    },
+    {
+      "name": "Caltech — Computation and Neural Systems (CNS)",
+      "country": "EE.UU.",
+      "reason": "Sólo admite a PhD; maestría sólo en casos excepcionales (agregador que anuncia 'Master CNS' es engañoso). (2026-11-26)",
+      "section": "B"
+    },
+    {
+      "name": "William & Mary — MS Applied Science (comp-neuro)",
+      "country": "EE.UU.",
+      "reason": "Departamento centrado en PhD; sin track formal de neurociencia computacional. (2026-11-26)",
+      "section": "B"
+    },
+    {
+      "name": "UAM — Máster en Neurociencia y Neurotecnología (nuevo, 60 ECTS)",
+      "country": "España",
+      "reason": "En español fuera de MX/AR (criterio 4). Tiene comp-neuro e IA para neurotecnología, ~€5,079 no-UE: reabrir si se relaja el idioma. (2026-11-26)",
+      "section": "B"
+    },
+    {
+      "name": "Miami / Utah — MS Neural Engineering; WashU PhD Neuroengineering (nuevo 2027)",
+      "country": "EE.UU.",
+      "reason": "Ingeniería biomédica con compuerta de ingeniería y poca AI/cognición; WashU es doctorado. (2026-11-26)",
+      "section": "B"
+    },
+    {
+      "name": "UNE — Master of Neuroscience (online)",
+      "country": "Australia",
+      "reason": "Online, sin componente computacional. (2026-11-26)",
+      "section": "B"
     }
   ],
   "neuro": [
@@ -1791,9 +1863,28 @@
       "status": "Nuevo (programa 2027) · taught",
       "notes": "Cursos núcleo 'Human and Artificial Intelligence' y 'Advanced Computational Neuroscience'. 30 créditos, 1 año, autofinanciado, cupo 50. Alternativa hermana: MSc Neuroscience (P98) con stream 'Human and Artificial Intelligence'. Componente de investigación pequeño; CityU no es top-tier en neuro pero China entra por geografía.",
       "url": "https://www.cityu.edu.hk/pg/programme/program-list/2027/college-of-biomedicine/department-of-neuroscience/p100",
-      "deadline": "Entrada 2027: rondas 15 sep 2026 y 30 abr 2027 (revisión continua). Proxy 2028: sep 2027–abr 2028",
+      "deadline": "Entrada 2027/28: temprano 6-nov-2026, final 30-abr-2027 (rolling). Proxy 2028: nov-2027 a abr-2028",
       "tuition": "P98 de referencia: HK$7,100/crédito → ≈HK$213,000 (≈US$27k) total; P100 sin confirmar. Autofinanciado; SECIHTI",
       "labs": "Department of Neuroscience, CityU",
+      "reviewed": false
+    },
+    {
+      "id": "uottawa-neuro-cndai",
+      "name": "uOttawa — MSc Neuroscience (CNDAI)",
+      "full": "MSc Neuroscience · opción Master's research project (12 meses) o tesis (24 meses), lab en el Centre for Neural Dynamics and AI",
+      "school": "University of Ottawa, Faculty of Medicine",
+      "country": "Canadá",
+      "tier": 3,
+      "language": "Inglés (universidad bilingüe)",
+      "fit": 4,
+      "thesis": 2,
+      "admission": "Condicional — honours bachelor ≥B+ (75%); opción de 12 meses pensada para poca formación previa en neuro, pero exige laboratorio anfitrión (contactar supervisores antes)",
+      "status": "Nuevo (2026-11-26) · condicional (supervisor)",
+      "notes": "Núcleo NeuroAI explícito vía CNDAI: dinámica neuronal, modelado de redes biológicas, ML para datos neurales, asignación de crédito/plasticidad. Puente a la tesis: Thivierge (Psicología). Mismo tipo que McGill IPN con menor prestigio. Alternativa: maestría de Psicología Experimental de uOttawa con Thivierge (sin verificar). Deadline y colegiatura sin verificar en sitio oficial.",
+      "url": "https://www.uottawa.ca/faculty-medicine/graduate-postdoctoral/programs-admission/program-information/msc-research-project/master-neuroscience",
+      "deadline": "No verificado (agregadores: 1-feb para otoño). Proxy Fall 2028: ene–feb 2028, contacto con supervisores en otoño 2027",
+      "tuition": "No verificada (agregadores: CAD ~14k–26k/año internacional); MSc con tesis suele financiarse vía supervisor. SECIHTI",
+      "labs": "CNDAI: Richard Naud (NeuroAI), André Longtin, Jean-Philippe Thivierge (Psicología), Jérémie Lefebvre",
       "reviewed": false
     }
   ]
