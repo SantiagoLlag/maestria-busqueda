@@ -925,6 +925,42 @@
       "labs": "Colin Holbrook (confianza y decisiones humanas ante agentes de AI, interacción humano-robot); David Noelle (neurociencia cognitiva computacional, aprendizaje y control cognitivo); Michael Spivey (listados posiblemente desactualizados)",
       "status": "Nuevo (2026-11-20) · sin revisar",
       "reviewed": false
+    },
+    {
+      "id": "tsinghua-imap",
+      "name": "Tsinghua — International Master of Applied Psychology (IMAP)",
+      "full": "IMAP · 2 años en inglés con tesis · electivas HCI y Machine Learning",
+      "school": "Tsinghua University, Dept. of Psychological and Cognitive Sciences",
+      "country": "China",
+      "tier": 2,
+      "language": "Inglés (100%)",
+      "fit": 3,
+      "admission": "Alta — público objetivo oficial: graduados en psicología, TI o diseño",
+      "status": "Nuevo (2026-11-26, reabierto) · sin revisar",
+      "notes": "Psicología de ingeniería/human factors con electivas oficiales HCI y Machine Learning; el depto. publica sobre human-AI interaction y presenta el programa como 'Psychology + AI'. Más HCI/UX que CLT×AI. Verificado con extractos de páginas oficiales.",
+      "url": "https://www.pcs.tsinghua.edu.cn/xlxen/info/1037/1764.htm",
+      "deadline": "Oficial no confirmado (agregadores: ~31-mar). Proxy Fall 2028: oct-2027 a mar-2028",
+      "tuition": "~RMB 74,000/año (~148k total, agregadores). Beca CSC (<35 años; HSK para becarios) y Beijing Government Scholarship",
+      "labs": "Dept. PCS: human factors, engineering psychology, HCI, human-AI interaction (asesores sin verificar)",
+      "reviewed": false
+    },
+    {
+      "id": "hkust-mphil-sosc-hsiao",
+      "name": "HKUST — MPhil in Social Science (Psychology & Cognitive Science)",
+      "full": "MPhil de investigación, 2 años financiados · supervisión Janet Hsiao (SOSC + CSE)",
+      "school": "Hong Kong University of Science and Technology, Division of Social Science",
+      "country": "China (Hong Kong)",
+      "tier": 2,
+      "language": "Inglés",
+      "fit": 4,
+      "admission": "Condicional — psicología es foco oficial, pero el MPhil de Hsiao se tramita vía CSE (posible compuerta CS); ~100 solicitudes / ~10 admitidos",
+      "status": "Nuevo (2026-11-26) · condicional",
+      "notes": "Modelado cognitivo computacional, XAI centrada en el humano, eye-tracking con ML (EMHMM); vínculo con CAiRE. Puente al PhD de HKUST. Confirmar ruta SOSC vs CSE con soscrpg@ust.hk y contactar a Hsiao.",
+      "url": "https://prog-crs.hkust.edu.hk/pgprog/2026-27/mphil-phd-sosc/",
+      "deadline": "2027/28 no encontrado; ronda principal ~diciembre. Proxy Fall 2028: ago–dic 2027",
+      "tuition": "Postgraduate Studentship hasta 2 años (~HK$18–19k/mes, sin verificar)",
+      "labs": "Janet Hui-wen Hsiao; CAiRE",
+      "reviewed": false
     }
   ],
   "discarded": [
@@ -1417,19 +1453,13 @@
     {
       "name": "EdUHK — MSc in Learning Sciences and Smart Education",
       "country": "China (Hong Kong)",
-      "reason": "Borderline fuerte: núcleo de learning sciences con optativas de AI in Education y learning analytics (HK$207,900), pero idioma de instrucción y requisitos de ingreso sin confirmar (EdUHK tiene másters en putonghua). Reabrir si se confirma inglés. https://www.eduhk.hk/fehd/en/programmes.php?id=9112 (2026-11-20)",
-      "section": "A"
-    },
-    {
-      "name": "Tsinghua — International Master of Applied Psychology (IMAP)",
-      "country": "China",
-      "reason": "Borderline: 2 años en inglés con tesis, admite psicología, elegible a beca del gobierno chino (tope <35 años); pero el contenido es psicología de ingeniería/HCI/UX sin ningún curso de AI verificado. Reabrir si aparecen electivas o asesores de human-AI. https://www.pcs.tsinghua.edu.cn/xlxen/info/1008/1122.htm (2026-11-20)",
+      "reason": "Borderline fuerte (actualizado 2026-11-26): admisión ya resuelta a favor (\"recognised bachelor's degree or equivalent\", cualquier disciplina; 24 cp con Foundations of the Learning Sciences, AI in Education y Learning Analytics; HK$207,900), pero el idioma sigue sin confirmarse. Escribir a msclsse@eduhk.hk: si es inglés, pasa a la lista A. https://www.eduhk.hk/fehd/en/programmes.php?id=9112",
       "section": "A"
     },
     {
       "name": "University of Macau — MSc Cognitive Neuroscience / MSc Artificial Intelligence and Education",
       "country": "China (Macao)",
-      "reason": "Cognitive Neuroscience: en inglés, admite psicología y tiene track de modelado computacional, pero es neuro sin curso de AI ni human-AI. AI and Education (nuevo 2026/27): formación de docentes K-12, idioma \"chino o inglés\" sin confirmar. (2026-11-20)",
+      "reason": "Cognitive Neuroscience: en inglés, admite psicología y tiene track de modelado computacional, pero es neuro sin curso de AI ni human-AI. AI and Education (nuevo 2026/27): formación de docentes K-12, idioma \"chino o inglés\" sin confirmar. (2026-11-20) Actualización 2026-11-26: AI and Education listado como NEW, idioma 'Chinese/English' ambiguo.",
       "section": "A"
     },
     {
@@ -1712,6 +1742,54 @@
       "name": "UNE — Master of Neuroscience (online)",
       "country": "Australia",
       "reason": "Online, sin componente computacional. (2026-11-26)",
+      "section": "B"
+    },
+    {
+      "name": "HKU — MPhil, Faculty of Education (Learning Sciences / AI in Education)",
+      "country": "China (Hong Kong)",
+      "reason": "Borderline: supervisores relevantes (Cecilia Chan, AI in Education Lab; Nancy Law; Shihui Feng) y MPhil sin área de licenciatura fija, pero admisión y deadlines sin verificar. Reabrir tras leer https://web.edu.hku.hk/programme/mphil-phd/application-deadlines (2026-11-26)",
+      "section": "A"
+    },
+    {
+      "name": "XJTLU MSc Human-Computer Interaction",
+      "country": "China (Suzhou)",
+      "reason": "Exige bachelor de CS con programación. (2026-11-26)",
+      "section": "A"
+    },
+    {
+      "name": "UNNC MSc Psychology (Applied) / ZJU Master of Applied Psychology",
+      "country": "China (Ningbo / Hangzhou)",
+      "reason": "UNNC acepta cualquier bachelor pero sin módulo de AI; ZJU probablemente en chino y sin AI verificado. (2026-11-26)",
+      "section": "A"
+    },
+    {
+      "name": "China continental (2): PKU, SJTU, ECNU, UCAS/CAS Psicología, CUHK-Shenzhen, HKUST(GZ), Duke Kunshan",
+      "country": "China",
+      "reason": "Sin maestría en inglés de psicología/cog-sci con AI encontrada (PKU Applied Psychology en chino y medio tiempo; ECNU sólo Education Policy en inglés). (2026-11-26)",
+      "section": "A"
+    },
+    {
+      "name": "CUHK — MA in AI Humanities (nuevo 2027/28) / MSc AI for Science / MPhil-PhD Education; HKU MA Creative AI Film and Media",
+      "country": "China (Hong Kong)",
+      "reason": "Humanidades digitales o AI pura; MPhil Education sin vía de learning sciences (EdTech/Instructional Design, examen + entrevista). (2026-11-26)",
+      "section": "A"
+    },
+    {
+      "name": "EdUHK — MSc in AI and Educational Technology (re-verificado)",
+      "country": "China (Hong Kong)",
+      "reason": "Se confirma inglés y HK$230,500 (2027/28), pero exige bachelor en EdTech/estadística/CS/ingeniería \"o equivalente\" + programación previa; consultar mscait@eduhk.hk antes de reabrir. (2026-11-26)",
+      "section": "A"
+    },
+    {
+      "name": "EdUHK MSc Educational Neuroscience",
+      "country": "China (Hong Kong)",
+      "reason": "Instrucción en putonghua; sin componente computacional/AI. (2026-11-26)",
+      "section": "B"
+    },
+    {
+      "name": "China continental B: Fudan ISTBI, BNU Cognitive Neuroscience (State Key Lab), SUSTech, Westlake",
+      "country": "China",
+      "reason": "Sin maestría en inglés (ISTBI sólo summer school/investigación; BNU en chino con HSK 5; SUSTech sólo BME; Westlake pide bachelor afín). (2026-11-26)",
       "section": "B"
     }
   ],
